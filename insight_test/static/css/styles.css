@@ -1,0 +1,122 @@
+/* Add to existing styles */
+
+.ai-analysis {
+    margin-top: 40px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.ai-analysis h2 {
+    color: #2c3e50;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+}
+
+.analysis-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.analysis-section h3 {
+    color: #34495e;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.joint-detail {
+    margin-bottom: 15px;
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    border-left: 4px solid #007bff;
+}
+
+.joint-detail h4 {
+    color: #007bff;
+    margin-bottom: 8px;
+}
+
+#overallAssessment {
+    margin-top: 20px;
+    padding: 15px;
+    background: #e8f4ff;
+    border-radius: 6px;
+    color: #2c3e50;
+    font-weight: 500;
+}
+
+.analysis-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.analysis-section li {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Specific colors for different sections */
+#anomaliesList li {
+    border-left: 4px solid #dc3545;
+}
+
+#performanceInsights li {
+    border-left: 4px solid #28a745;
+}
+
+#maintenanceRecommendations li {
+    border-left: 4px solid #ffc107;
+}
+
+/* Loading animation improvements */
+.loading {
+    padding: 40px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.loading p {
+    margin-top: 20px;
+    color: #666;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #007bff;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+    .ai-analysis {
+        margin-top: 20px;
+        padding: 15px;
+    }
+
+    .analysis-section {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    .joint-detail {
+        padding: 12px;
+    }
+}
