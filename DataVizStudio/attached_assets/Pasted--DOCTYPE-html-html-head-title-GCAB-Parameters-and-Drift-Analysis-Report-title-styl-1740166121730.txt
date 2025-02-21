@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GCAB Parameters and Drift Analysis Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+        .visualization {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .visualization img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f5f5f5;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>GCAB Parameters and Drift Analysis Report</h1>
+    
+    <div class="section">
+        <h2>Executive Summary</h2>
+        <p>Analysis of drift data and gravity compensation parameters across multiple arms reveals significant patterns in joint behavior and performance. Key findings include strong correlations between static friction and drift in upper joints, consistent problematic performance in specific arms, and varying drift characteristics across different joints.</p>
+    </div>
+
+    <div class="section">
+        <h2>Joint Performance Overview</h2>
+        <div class="visualization">
+            <h3>Mean Drift by Joint</h3>
+            <img src="key_relationships.png" alt="Key GCAB-Drift Relationships">
+            <p><em>Figure 1: Mean drift values across joints and correlation analysis for J7</em></p>
+        </div>
+
+        <div class="visualization">
+            <h3>Arm-Joint Performance Heatmap</h3>
+            <img src="arm_comparison_heatmap.png" alt="Arm-Joint Performance Heatmap">
+            <p><em>Figure 2: Heatmap showing mean drift performance for each arm-joint combination. Red indicates higher drift, blue indicates lower drift.</em></p>
+        </div>
+        
+        <h3>Joint Rankings (Mean Drift)</h3>
+        <table>
+            <tr>
+                <th>Joint</th>
+                <th>Mean Drift (degrees)</th>
+                <th>Standard Deviation</th>
+                <th>Notes</th>
+            </tr>
+            <tr>
+                <td>J3</td>
+                <td>0.061°</td>
+                <td>0.024°</td>
+                <td>Highest mean drift</td>
+            </tr>
+            <tr>
+                <td>J5</td>
+                <td>0.058°</td>
+                <td>0.054°</td>
+                <td>Highest variability</td>
+            </tr>
+            <tr>
+                <td>J1</td>
+                <td>0.055°</td>
+                <td>0.019°</td>
+                <td>Moderate performance</td>
+            </tr>
+            <tr>
+                <td>J4</td>
+                <td>0.022°</td>
+                <td>0.013°</td>
+                <td>Good performance</td>
+            </tr>
+            <tr>
+                <td>J7</td>
+                <td>0.014°</td>
+                <td>0.007°</td>
+                <td>Very good performance</td>
+            </tr>
+            <tr>
+                <td>J6</td>
+                <td>0.011°</td>
+                <td>0.004°</td>
+                <td>Excellent performance</td>
+            </tr>
+            <tr>
+                <td>J2</td>
+                <td>0.009°</td>
+                <td>0.008°</td>
+                <td>Best performance</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Parameter Analysis</h2>
+        <div class="visualization">
+            <img src="gcab_drift_correlations.png" alt="GCAB Parameters vs Drift Correlations">
+            <p><em>Figure 3: Detailed correlation analysis between GCAB parameters and drift for each joint</em></p>
+        </div>
+
+        <div class="visualization">
+            <h3>GCAB Parameter Distributions</h3>
+            <img src="parameter_distributions.png" alt="GCAB Parameter Distributions">
+            <p><em>Figure 4: Distribution of GCAB parameters across arms for each joint, showing median, quartiles, and outliers</em></p>
+        </div>
+        
+        <h3>Significant Correlations</h3>
+        <ul>
+            <li><strong>J7 (Strongest Correlations)</strong>
+                <ul>
+                    <li>Static friction vs max drift: 0.838</li>
+                    <li>Static friction vs mean drift: 0.715</li>
+                </ul>
+            </li>
+            <li><strong>J6</strong>
+                <ul>
+                    <li>Static friction vs max drift: 0.717</li>
+                    <li>Static friction vs mean drift: 0.512</li>
+                </ul>
+            </li>
+            <li><strong>J5</strong>
+                <ul>
+                    <li>Static friction vs mean drift: 0.544</li>
+                    <li>Static friction vs max drift: 0.504</li>
+                </ul>
+            </li>
+            <li><strong>J4 (Unique Negative Correlations)</strong>
+                <ul>
+                    <li>Friction coefficient vs mean drift: -0.381</li>
+                    <li>Static friction vs mean drift: -0.286</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Pose and Temporal Analysis</h2>
+        <div class="visualization">
+            <h3>Drift Patterns by Pose</h3>
+            <img src="drift_by_pose.png" alt="Drift Patterns by Pose">
+            <p><em>Figure 5: Analysis of drift behavior across different surgical poses, showing mean trends and distributions</em></p>
+        </div>
+
+        <div class="visualization">
+            <h3>Temporal Trends</h3>
+            <img src="temporal_analysis.png" alt="Temporal Analysis">
+            <p><em>Figure 6: Drift trends across arms over time, with trend analysis for each joint</em></p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Key Findings</h2>
+        <ol>
+            <li><strong>Upper Joint Behavior:</strong> Upper joints (J6, J7) show stronger correlations between static friction and drift compared to lower joints.</li>
+            <li><strong>Problematic Arms:</strong> Arm 922 consistently shows poor performance, being the worst performer for multiple joints (J2, J5, J6).</li>
+            <li><strong>Joint-specific Patterns:</strong>
+                <ul>
+                    <li>J4 uniquely shows negative correlations with friction parameters</li>
+                    <li>J5 exhibits the highest variability in drift performance</li>
+                    <li>J2 consistently shows the best drift performance</li>
+                </ul>
+            </li>
+            <li><strong>Friction Parameters:</strong> Static friction shows stronger correlations with drift compared to other GCAB parameters.</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Pose-Specific Insights</h2>
+        <ol>
+            <li><strong>Pose Variability:</strong> Some poses consistently show higher drift across multiple joints, suggesting position-dependent effects.</li>
+            <li><strong>Joint-Pose Interactions:</strong> Certain joints (particularly J3 and J5) show more sensitivity to pose changes.</li>
+            <li><strong>Surgical Configuration Impact:</strong> Different surgical configurations (e.g., Gastric Bypass vs. Cholecystectomy) show distinct drift patterns.</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Temporal Patterns</h2>
+        <ol>
+            <li><strong>Serial Number Trends:</strong> Analysis across arm serial numbers reveals:
+                <ul>
+                    <li>Some joints show gradual improvement in newer arms</li>
+                    <li>Others show consistent performance across different production batches</li>
+                    <li>Specific serial numbers (e.g., 922) show systematic issues across multiple joints</li>
+                </ul>
+            </li>
+            <li><strong>Variability Patterns:</strong> Standard deviation bands show:
+                <ul>
+                    <li>More consistent performance in newer arms for some joints</li>
+                    <li>Persistent variability in certain joints regardless of arm age</li>
+                </ul>
+            </li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Recommendations</h2>
+        <ol>
+            <li><strong>Parameter Tuning:</strong>
+                <ul>
+                    <li>For upper joints (J6, J7): Consider reducing static friction values as they show strong positive correlations with drift</li>
+                    <li>For J4: Current negative correlations suggest its friction parameters might be well-tuned</li>
+                    <li>For J5: Focus on reducing variability through more consistent friction compensation</li>
+                </ul>
+            </li>
+            <li><strong>Arm-specific Actions:</strong>
+                <ul>
+                    <li>Investigate Arm 922's mechanical properties and GCAB parameters, as it shows consistently poor performance</li>
+                    <li>Consider using Arm 921's parameters as a reference, as it shows generally good performance</li>
+                </ul>
+            </li>
+            <li><strong>Future Testing:</strong>
+                <ul>
+                    <li>Implement more detailed testing for J5 to understand its high variability</li>
+                    <li>Study J2's characteristics to understand its superior performance</li>
+                </ul>
+            </li>
+        </ol>
+    </div>
+</body>
+</html>
