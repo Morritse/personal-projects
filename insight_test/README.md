@@ -1,6 +1,7 @@
 # Financial Document Analyzer
 
 A web application that analyzes financial documents in PDF format and assesses the creditworthiness of companies based on metrics in the reports. The application uses Claude AI to extract and analyze financial data, providing detailed insights, recommendations, and allowing users to ask questions about the analyzed documents.
+![image](https://github.com/user-attachments/assets/2129675d-f00a-4a6c-bbae-1d928fb2c4fb)
 
 ## Features
 
