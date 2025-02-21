@@ -1,0 +1,398 @@
+{
+  "generated_at": "2025-01-01T16:32:03.635595",
+  "market_context": {
+    "analysis_timeframe": "Daily",
+    "market_regime": "Analysis needed",
+    "key_themes": [],
+    "risk_factors": []
+  },
+  "market_sentiment": {
+    "macro_events": {
+      "fed_policy": "Analysis needed",
+      "economic_data": "Analysis needed",
+      "global_events": "Analysis needed"
+    },
+    "sector_trends": {
+      "technology": {
+        "ai_developments": "Analysis needed",
+        "chip_shortage": "Analysis needed",
+        "cloud_computing": "Analysis needed"
+      },
+      "regulatory": {
+        "antitrust": "Analysis needed",
+        "data_privacy": "Analysis needed",
+        "ai_regulation": "Analysis needed"
+      }
+    },
+    "company_specific": {
+      "AAPL": {
+        "product_cycles": "Analysis needed",
+        "supply_chain": "Analysis needed",
+        "services_growth": "Analysis needed"
+      },
+      "MSFT": {
+        "cloud_market": "Analysis needed",
+        "ai_initiatives": "Analysis needed",
+        "enterprise_demand": "Analysis needed"
+      },
+      "GOOGL": {
+        "ad_market": "Analysis needed",
+        "ai_progress": "Analysis needed",
+        "regulatory": "Analysis needed"
+      },
+      "AMZN": {
+        "ecommerce": "Analysis needed",
+        "aws": "Analysis needed",
+        "logistics": "Analysis needed"
+      },
+      "NVDA": {
+        "ai_demand": "Analysis needed",
+        "gaming": "Analysis needed",
+        "competition": "Analysis needed"
+      },
+      "AMD": {
+        "market_share": "Analysis needed",
+        "product_roadmap": "Analysis needed",
+        "datacenter": "Analysis needed"
+      }
+    }
+  },
+  "symbol_data": {
+    "AAPL": {
+      "price_action": {
+        "current_price": 250.4199981689453,
+        "daily_change": -0.8001918289197449,
+        "volume": 39480700.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 249.80949935913085,
+          "sma_50": 237.53251586914064,
+          "sma_200": 213.06344909667968
+        },
+        "momentum": {
+          "rsi": 53.98256267256167,
+          "macd": {
+            "macd": 5.1023784440756685,
+            "signal": 5.571110759295025,
+            "hist": -0.46873231521935654
+          }
+        },
+        "volatility": {
+          "atr": 4.389285496303013,
+          "bollinger_bands": {
+            "upper": 259.9372588862047,
+            "middle": 249.80949935913085,
+            "lower": 239.68173983205705
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 3785298542592,
+        "sector": "Technology",
+        "beta": 1.24,
+        "pe_ratio": 41.119865,
+        "pb_ratio": 66.4773,
+        "debt_to_equity": 209.059
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "MSFT": {
+      "price_action": {
+        "current_price": 421.5,
+        "daily_change": -1.0795602059667917,
+        "volume": 13246500.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 439.82999725341796,
+          "sma_50": 428.549599609375,
+          "sma_200": 424.6155537414551
+        },
+        "momentum": {
+          "rsi": 30.79360220813497,
+          "macd": {
+            "macd": 0.009135025763271187,
+            "signal": 3.1298346104289014,
+            "hist": -3.1206995846656302
+          }
+        },
+        "volatility": {
+          "atr": 8.076429094587054,
+          "bollinger_bands": {
+            "upper": 457.20983300668075,
+            "middle": 439.82999725341796,
+            "lower": 422.45016150015516
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 3133802020864,
+        "sector": "Technology",
+        "beta": 0.904,
+        "pe_ratio": 34.83471,
+        "pb_ratio": 10.893443,
+        "debt_to_equity": 33.657
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "GOOGL": {
+      "price_action": {
+        "current_price": 189.3000030517578,
+        "daily_change": -0.9315463482519113,
+        "volume": 17466900.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 187.50133056640624,
+          "sma_50": 177.78233673095704,
+          "sma_200": 169.1244260406494
+        },
+        "momentum": {
+          "rsi": 54.54546065226884,
+          "macd": {
+            "macd": 4.84933652055247,
+            "signal": 5.2759697354774024,
+            "hist": -0.4266332149249328
+          }
+        },
+        "volatility": {
+          "atr": 5.459285191127232,
+          "bollinger_bands": {
+            "upper": 205.15381956006684,
+            "middle": 187.50133056640624,
+            "lower": 169.84884157274564
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 2323524878336,
+        "sector": "Communication Services",
+        "beta": 1.034,
+        "pe_ratio": 25.139442,
+        "pb_ratio": 7.390778,
+        "debt_to_equity": 9.324
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "AMZN": {
+      "price_action": {
+        "current_price": 219.38999938964844,
+        "daily_change": -1.6055979779589644,
+        "volume": 24819700.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 224.770499420166,
+          "sma_50": 209.8451998901367,
+          "sma_200": 189.73880027770997
+        },
+        "momentum": {
+          "rsi": 43.59265334939159,
+          "macd": {
+            "macd": 3.7980380068312627,
+            "signal": 5.469982003229695,
+            "hist": -1.671943996398432
+          }
+        },
+        "volatility": {
+          "atr": 5.294285365513393,
+          "bollinger_bands": {
+            "upper": 234.4495613840167,
+            "middle": 224.770499420166,
+            "lower": 215.0914374563153
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 2306885812224,
+        "sector": "Consumer Cyclical",
+        "beta": 1.146,
+        "pe_ratio": 46.978584,
+        "pb_ratio": 8.898397,
+        "debt_to_equity": 61.175
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "NVDA": {
+      "price_action": {
+        "current_price": 134.2899932861328,
+        "daily_change": -2.709559897297504,
+        "volume": 155659200.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 137.14751586914062,
+          "sma_50": 139.88414703369142,
+          "sma_200": 117.84895744323731
+        },
+        "momentum": {
+          "rsi": 48.81240291924135,
+          "macd": {
+            "macd": -0.7614707456308736,
+            "signal": -0.9543002341427798,
+            "hist": 0.19282948851190618
+          }
+        },
+        "volatility": {
+          "atr": 5.182855878557477,
+          "bollinger_bands": {
+            "upper": 146.3680642198613,
+            "middle": 137.14751586914062,
+            "lower": 127.92696751841991
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 3288761892864,
+        "sector": "Technology",
+        "beta": 1.657,
+        "pe_ratio": 52.870075,
+        "pb_ratio": 77.001144,
+        "debt_to_equity": 17.221
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "AMD": {
+      "price_action": {
+        "current_price": 120.79000091552734,
+        "daily_change": -1.8765211918986118,
+        "volume": 30203400.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 128.38849983215331,
+          "sma_50": 138.3678007507324,
+          "sma_200": 153.4735503768921
+        },
+        "momentum": {
+          "rsi": 37.47749674754458,
+          "macd": {
+            "macd": -4.878153821694696,
+            "signal": -5.062052229790749,
+            "hist": 0.18389840809605307
+          }
+        },
+        "volatility": {
+          "atr": 4.429286956787109,
+          "bollinger_bands": {
+            "upper": 143.52297926942006,
+            "middle": 128.38849983215331,
+            "lower": 113.25402039488657
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 196019224576,
+        "sector": "Technology",
+        "beta": 1.706,
+        "pe_ratio": 105.95615,
+        "pb_ratio": 3.4402325,
+        "debt_to_equity": 3.927
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "SPY": {
+      "price_action": {
+        "current_price": 586.0800170898438,
+        "daily_change": -0.6492441608118293,
+        "volume": 57052700.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 598.224755859375,
+          "sma_50": 591.1084020996094,
+          "sma_200": 550.3330432128906
+        },
+        "momentum": {
+          "rsi": 38.43436948580442,
+          "macd": {
+            "macd": -0.4308837598281343,
+            "signal": 1.3381864351746466,
+            "hist": -1.769070195002781
+          }
+        },
+        "volatility": {
+          "atr": 7.784882580051503,
+          "bollinger_bands": {
+            "upper": 613.2117285499409,
+            "middle": 598.224755859375,
+            "lower": 583.2377831688092
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 0,
+        "sector": "Unknown",
+        "beta": 0,
+        "pe_ratio": 27.197134,
+        "pb_ratio": null,
+        "debt_to_equity": null
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "QQQ": {
+      "price_action": {
+        "current_price": 511.2300109863281,
+        "daily_change": -1.0969265157535404,
+        "volume": 29117000.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 523.0815200805664,
+          "sma_50": 509.74782104492186,
+          "sma_200": 473.5120426940918
+        },
+        "momentum": {
+          "rsi": 44.90209586439774,
+          "macd": {
+            "macd": 2.619276846301318,
+            "signal": 4.745982530698241,
+            "hist": -2.1267056843969225
+          }
+        },
+        "volatility": {
+          "atr": 9.110237894732185,
+          "bollinger_bands": {
+            "upper": 537.3529762660079,
+            "middle": 523.0815200805664,
+            "lower": 508.81006389512487
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 0,
+        "sector": "Unknown",
+        "beta": 0,
+        "pe_ratio": 34.47656,
+        "pb_ratio": null,
+        "debt_to_equity": null
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    }
+  }
+}

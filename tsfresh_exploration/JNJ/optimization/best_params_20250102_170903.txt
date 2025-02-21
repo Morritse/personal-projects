@@ -1,0 +1,17 @@
+Best Parameters (by Sharpe Ratio):
+
+MFI Period: 7
+VWAP Window: 90
+ATR Period: 3
+Regime Window: 20
+Min Stop Dollars: 0.5
+Max Stop Dollars: 2.0
+Risk Per Trade: 0.01
+Max Hold Hours: 24
+regime_params: {'bear_high_vol': {'position_scale': 1.25, 'reward_risk': 2.3, 'stop_mult': 1.2}, 'bull_high_vol': {'position_scale': 0.3, 'reward_risk': 1.8, 'stop_mult': 1.2}, 'bear_med_vol': {'position_scale': 0.3, 'reward_risk': 2.0, 'stop_mult': 1.2}, 'bull_med_vol': {'position_scale': 0.3, 'reward_risk': 1.5, 'stop_mult': 1.2}, 'bull_low_vol': {'position_scale': 0.0, 'reward_risk': 1.5, 'stop_mult': 1.2}, 'bear_low_vol': {'position_scale': 0.0, 'reward_risk': 1.5, 'stop_mult': 1.2}}
+total_trades: 187
+win_rate: 0.5614973262032086
+total_pnl: 45911.90449999983
+avg_pnl: 245.51820588235202
+sharpe_ratio: 1.0018079716905388
+max_drawdown: -0.09662266396221961

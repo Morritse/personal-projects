@@ -1,0 +1,162 @@
+{
+  "generated_at": "2025-01-01T17:05:40.978691",
+  "analyzed_symbols": [
+    "UNG",
+    "EQT",
+    "CHK",
+    "RRC"
+  ],
+  "market_context": {
+    "analysis_timeframe": "Daily",
+    "market_regime": "Analysis needed",
+    "key_themes": [],
+    "risk_factors": []
+  },
+  "market_sentiment": {
+    "macro_events": {
+      "fed_policy": "Analysis needed",
+      "economic_data": "Analysis needed",
+      "global_events": "Analysis needed"
+    },
+    "sector_trends": {
+      "technology": {
+        "ai_developments": "Analysis needed",
+        "chip_shortage": "Analysis needed",
+        "cloud_computing": "Analysis needed"
+      },
+      "regulatory": {
+        "antitrust": "Analysis needed",
+        "data_privacy": "Analysis needed",
+        "ai_regulation": "Analysis needed"
+      }
+    }
+  },
+  "symbol_data": {
+    "UNG": {
+      "price_action": {
+        "current_price": 16.809999465942383,
+        "daily_change": -1.9825082224522408,
+        "volume": 15119400.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 14.82649998664856,
+          "sma_50": 14.131999950408936,
+          "sma_200": 15.30499999523163
+        },
+        "momentum": {
+          "rsi": 65.5601604744945,
+          "macd": {
+            "macd": 0.7274246088080929,
+            "signal": 0.4665420910218057,
+            "hist": 0.2608825177862872
+          }
+        },
+        "volatility": {
+          "atr": 1.031428337097168,
+          "bollinger_bands": {
+            "upper": 17.430814411610953,
+            "middle": 14.82649998664856,
+            "lower": 12.222185561686166
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 0,
+        "sector": "Unknown",
+        "beta": 0,
+        "pe_ratio": null,
+        "pb_ratio": null,
+        "debt_to_equity": null
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "EQT": {
+      "price_action": {
+        "current_price": 46.11000061035156,
+        "daily_change": -0.25956939881674246,
+        "volume": 4902800.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 44.37350063323974,
+          "sma_50": 42.43053916931152,
+          "sma_200": 37.74030323028565
+        },
+        "momentum": {
+          "rsi": 63.350787954480616,
+          "macd": {
+            "macd": 0.6322236361266391,
+            "signal": 0.5803747370137309,
+            "hist": 0.05184889911290824
+          }
+        },
+        "volatility": {
+          "atr": 1.349285670689174,
+          "bollinger_bands": {
+            "upper": 46.72434139123478,
+            "middle": 44.37350063323974,
+            "lower": 42.022659875244706
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 27513100288,
+        "sector": "Energy",
+        "beta": 1.069,
+        "pe_ratio": 61.48,
+        "pb_ratio": 1.3520805,
+        "debt_to_equity": 67.324
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    },
+    "RRC": {
+      "price_action": {
+        "current_price": 35.97999954223633,
+        "daily_change": -0.24951525741433536,
+        "volume": 1665900.0
+      },
+      "technical": {
+        "trend": {
+          "sma_20": 34.58363285064697,
+          "sma_50": 33.58455020904541,
+          "sma_200": 33.15491147994995
+        },
+        "momentum": {
+          "rsi": 61.11558786079833,
+          "macd": {
+            "macd": 0.3882414930751992,
+            "signal": 0.27644658752070167,
+            "hist": 0.1117949055544975
+          }
+        },
+        "volatility": {
+          "atr": 1.1659338365842697,
+          "bollinger_bands": {
+            "upper": 36.56491632329912,
+            "middle": 34.58363285064697,
+            "lower": 32.60234937799482
+          }
+        }
+      },
+      "fundamental": {
+        "market_cap": 8682333184,
+        "sector": "Energy",
+        "beta": 1.811,
+        "pe_ratio": 17.99,
+        "pb_ratio": 2.2442615,
+        "debt_to_equity": 47.276
+      },
+      "events": {
+        "earnings_date": null,
+        "dividend_date": null
+      }
+    }
+  }
+}

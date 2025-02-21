@@ -1,0 +1,24 @@
+Best Parameters:
+
+VWAP Window: 50
+MFI Period: 9
+Regime Window: 20
+ATR Period: 2
+mfi_entry: 30
+bear_exit: 55
+bull_exit: 75
+Min Stop Dollars: 0.75
+Max Stop Dollars: 2.5
+Risk Per Trade: 0.015
+Max Hold Hours: 36
+total_pnl: 184270.40319999986
+total_return: 3.9288119202951046
+sharpe_ratio: 1.1477832104524557
+win_rate: 0.6372549019607843
+max_drawdown: -0.22979078263151922
+total_trades: 102
+avg_trade_pnl: 1806.5725803921555
+risk_adjusted_score: 0.8089438042580099
+normalized_pnl: 1.0
+normalized_sharpe: 0.9999591052484387
+score: 0.9235611638025794

@@ -1,0 +1,4942 @@
+{
+  "generated_at": "2025-01-01T17:16:59.821058",
+  "scan_focus": "Emerging Opportunities",
+  "opportunities": [
+    {
+      "symbol": "IN",
+      "mention_count": 59,
+      "sentiment_score": 29,
+      "catalysts": [
+        "earnings",
+        "regulatory",
+        "short_squeeze",
+        "product_launch",
+        "acquisition",
+        "expansion",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        }
+      ]
+    },
+    {
+      "symbol": "OF",
+      "mention_count": 53,
+      "sentiment_score": 22,
+      "catalysts": [
+        "regulatory",
+        "short_squeeze",
+        "product_launch",
+        "acquisition",
+        "expansion",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        }
+      ]
+    },
+    {
+      "symbol": "TO",
+      "mention_count": 38,
+      "sentiment_score": 21,
+      "catalysts": [
+        "earnings",
+        "regulatory",
+        "short_squeeze",
+        "product_launch",
+        "acquisition",
+        "expansion",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        }
+      ]
+    },
+    {
+      "symbol": "AS",
+      "mention_count": 19,
+      "sentiment_score": 21,
+      "catalysts": [
+        "earnings",
+        "short_squeeze",
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ON",
+      "mention_count": 24,
+      "sentiment_score": 16,
+      "catalysts": [
+        "earnings",
+        "regulatory",
+        "short_squeeze",
+        "acquisition",
+        "expansion",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "Rocky terrain for markets, but milestone 2025 on high ground",
+          "source": "The Times of India",
+          "date": "2024-12-31T23:50:52Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rocky-terrain-for-markets-but-milestone-2025-on-high-ground/articleshow/116842880.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "BY",
+      "mention_count": 14,
+      "sentiment_score": 14,
+      "catalysts": [
+        "regulatory",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        }
+      ]
+    },
+    {
+      "symbol": "IT",
+      "mention_count": 14,
+      "sentiment_score": 13,
+      "catalysts": [
+        "product_launch",
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        }
+      ]
+    },
+    {
+      "symbol": "GAINS",
+      "mention_count": 10,
+      "sentiment_score": 12,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        }
+      ]
+    },
+    {
+      "symbol": "US",
+      "mention_count": 11,
+      "sentiment_score": 11,
+      "catalysts": [
+        "short_squeeze",
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "How $10,000 Fared in 2024 Across a Range of Standout Investments",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T23:39:01Z",
+          "url": "https://finance.yahoo.com/news/10-000-fared-2024-across-233901869.html"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        }
+      ]
+    },
+    {
+      "symbol": "TOP",
+      "mention_count": 7,
+      "sentiment_score": 11,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        }
+      ]
+    },
+    {
+      "symbol": "THAT",
+      "mention_count": 17,
+      "sentiment_score": 10,
+      "catalysts": [
+        "product_launch",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        }
+      ]
+    },
+    {
+      "symbol": "WAS",
+      "mention_count": 10,
+      "sentiment_score": 10,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        }
+      ]
+    },
+    {
+      "symbol": "DAY",
+      "mention_count": 7,
+      "sentiment_score": 10,
+      "catalysts": [
+        "earnings",
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "HIGH",
+      "mention_count": 4,
+      "sentiment_score": 10,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "Rocky terrain for markets, but milestone 2025 on high ground",
+          "source": "The Times of India",
+          "date": "2024-12-31T23:50:52Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rocky-terrain-for-markets-but-milestone-2025-on-high-ground/articleshow/116842880.cms"
+        },
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        }
+      ]
+    },
+    {
+      "symbol": "IS",
+      "mention_count": 13,
+      "sentiment_score": 9,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        }
+      ]
+    },
+    {
+      "symbol": "HAS",
+      "mention_count": 12,
+      "sentiment_score": 9,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "product_launch",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        }
+      ]
+    },
+    {
+      "symbol": "ITS",
+      "mention_count": 8,
+      "sentiment_score": 9,
+      "catalysts": [
+        "regulatory",
+        "partnership",
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "MOST",
+      "mention_count": 7,
+      "sentiment_score": 9,
+      "catalysts": [
+        "earnings",
+        "regulatory",
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        },
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        }
+      ]
+    },
+    {
+      "symbol": "THIS",
+      "mention_count": 11,
+      "sentiment_score": 8,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        }
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "mention_count": 11,
+      "sentiment_score": 8,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "MORE",
+      "mention_count": 6,
+      "sentiment_score": 8,
+      "catalysts": [
+        "regulatory",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "mention_count": 6,
+      "sentiment_score": 8,
+      "catalysts": [
+        "regulatory",
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ALL",
+      "mention_count": 6,
+      "sentiment_score": 8,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        }
+      ]
+    },
+    {
+      "symbol": "SURGE",
+      "mention_count": 5,
+      "sentiment_score": 8,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        }
+      ]
+    },
+    {
+      "symbol": "CLOSE",
+      "mention_count": 4,
+      "sentiment_score": 8,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        }
+      ]
+    },
+    {
+      "symbol": "JUMP",
+      "mention_count": 3,
+      "sentiment_score": 8,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        },
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "YOUR",
+      "mention_count": 3,
+      "sentiment_score": 8,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Here's What Happened Today: New Year's Eve",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:50:13Z",
+          "url": "https://www.thejournal.ie/evening-headlines-40-6583741-Dec2024/"
+        },
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "GAIN",
+      "mention_count": 6,
+      "sentiment_score": 7,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "OUT",
+      "mention_count": 6,
+      "sentiment_score": 7,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        },
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        }
+      ]
+    },
+    {
+      "symbol": "COULD",
+      "mention_count": 5,
+      "sentiment_score": 7,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "4 things need to happen for the stock market to continue its record rally in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:12:52Z",
+          "url": "https://biztoc.com/x/b03dbc2acceffb92"
+        }
+      ]
+    },
+    {
+      "symbol": "IV",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "TRIAL",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "RANK",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "START",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "IDEAS",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "VS",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "HI",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "PICK",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "PULSE",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "VOL",
+      "mention_count": 2,
+      "sentiment_score": 7,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        }
+      ]
+    },
+    {
+      "symbol": "LOOK",
+      "mention_count": 8,
+      "sentiment_score": 6,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Look to US market for capital gains, says investment guru Adam Khoo",
+          "source": "The Straits Times",
+          "date": "2024-12-31T21:23:05Z",
+          "url": "https://www.straitstimes.com/business/look-to-us-market-for-capital-gains-says-investment-guru-adam-khoo"
+        },
+        {
+          "title": "In memoriam: Remembering the famous faces from around the world we lost in 2024",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:00:29Z",
+          "url": "https://www.thejournal.ie/famous-people-death-2024-6563581-Dec2024/"
+        },
+        {
+          "title": "Is Exxon Mobil (XOM) the Best Dividend Stock of 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T19:04:25Z",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-xom-best-dividend-190425978.html"
+        }
+      ]
+    },
+    {
+      "symbol": "UP",
+      "mention_count": 5,
+      "sentiment_score": 6,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BUY",
+      "mention_count": 4,
+      "sentiment_score": 6,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        },
+        {
+          "title": "Why Array Technologies (ARRY) Is Among the Best Renewable Energy Stocks to Buy?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:52:13Z",
+          "url": "https://finance.yahoo.com/news/why-array-technologies-arry-among-175213846.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ALSO",
+      "mention_count": 3,
+      "sentiment_score": 6,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "A wild year for markets, in 5 charts",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:03:34Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-wild-year-5-charts-prove-it-interest-rates-2024-12"
+        },
+        {
+          "title": "TSX Penny Stock Highlights For December 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:09:28Z",
+          "url": "https://finance.yahoo.com/news/tsx-penny-stock-highlights-december-180928444.html"
+        }
+      ]
+    },
+    {
+      "symbol": "WORTH",
+      "mention_count": 3,
+      "sentiment_score": 6,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "AT",
+      "mention_count": 20,
+      "sentiment_score": 5,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "Look to US market for capital gains, says investment guru Adam Khoo",
+          "source": "The Straits Times",
+          "date": "2024-12-31T21:23:05Z",
+          "url": "https://www.straitstimes.com/business/look-to-us-market-for-capital-gains-says-investment-guru-adam-khoo"
+        }
+      ]
+    },
+    {
+      "symbol": "WALL",
+      "mention_count": 9,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        }
+      ]
+    },
+    {
+      "symbol": "SOME",
+      "mention_count": 5,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        },
+        {
+          "title": "In memoriam: Remembering the famous faces from around the world we lost in 2024",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:00:29Z",
+          "url": "https://www.thejournal.ie/famous-people-death-2024-6563581-Dec2024/"
+        }
+      ]
+    },
+    {
+      "symbol": "LEAD",
+      "mention_count": 4,
+      "sentiment_score": 5,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "Xi in Qiushi - Comprehensively Advancing the Building of a Strong Country and the Great Cause of National Rejuvenation Through Chinese Modernization",
+          "source": "Sinocism.com",
+          "date": "2024-12-31T19:46:56Z",
+          "url": "https://sinocism.com/p/xi-in-qiushi-comprehensively-advancing"
+        },
+        {
+          "title": "Brenmiller Energy Shares Surge On Advancing Project For Heineken-Backed Tempo Beverages",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T19:08:05Z",
+          "url": "https://biztoc.com/x/9fd55e23852d59d5"
+        }
+      ]
+    },
+    {
+      "symbol": "RALLY",
+      "mention_count": 4,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "END",
+      "mention_count": 4,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        }
+      ]
+    },
+    {
+      "symbol": "OTHER",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "How $10,000 Fared in 2024 Across a Range of Standout Investments",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T23:39:01Z",
+          "url": "https://finance.yahoo.com/news/10-000-fared-2024-across-233901869.html"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "A wild year for markets, in 5 charts",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:03:34Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-wild-year-5-charts-prove-it-interest-rates-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "TH",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        }
+      ]
+    },
+    {
+      "symbol": "CAME",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        },
+        {
+          "title": "10 Android Stories That Stuck Out in 2024, Plus Some Blunders",
+          "source": "Droid Life",
+          "date": "2024-12-31T18:16:15Z",
+          "url": "https://www.droid-life.com/2024/12/31/10-android-stories-that-stuck-out-in-2024-plus-some-blunders/"
+        }
+      ]
+    },
+    {
+      "symbol": "MUSK",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        },
+        {
+          "title": "KEKIUS meme token rockets 1,200% after Elon Musk declares himself Kekius Maximus",
+          "source": "Crypto Briefing",
+          "date": "2024-12-31T19:21:32Z",
+          "url": "https://cryptobriefing.com/kekius-meme-token-elon-musk/"
+        }
+      ]
+    },
+    {
+      "symbol": "ELON",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        },
+        {
+          "title": "KEKIUS meme token rockets 1,200% after Elon Musk declares himself Kekius Maximus",
+          "source": "Crypto Briefing",
+          "date": "2024-12-31T19:21:32Z",
+          "url": "https://cryptobriefing.com/kekius-meme-token-elon-musk/"
+        }
+      ]
+    },
+    {
+      "symbol": "WHILE",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "10 Android Stories That Stuck Out in 2024, Plus Some Blunders",
+          "source": "Droid Life",
+          "date": "2024-12-31T18:16:15Z",
+          "url": "https://www.droid-life.com/2024/12/31/10-android-stories-that-stuck-out-in-2024-plus-some-blunders/"
+        },
+        {
+          "title": "TSX Penny Stock Highlights For December 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:09:28Z",
+          "url": "https://finance.yahoo.com/news/tsx-penny-stock-highlights-december-180928444.html"
+        },
+        {
+          "title": "2024: The Year the Art Market Returned to\u00a0Reality",
+          "source": "ARTnews",
+          "date": "2024-12-31T18:00:45Z",
+          "url": "https://www.artnews.com/art-news/market/2024-the-year-the-art-market-returned-to-reality-sothebys-christies-art-fairs-art-basel-frieze-1234729113/"
+        }
+      ]
+    },
+    {
+      "symbol": "RISE",
+      "mention_count": 2,
+      "sentiment_score": 5,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        }
+      ]
+    },
+    {
+      "symbol": "WE",
+      "mention_count": 11,
+      "sentiment_score": 4,
+      "catalysts": [
+        "regulatory",
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        }
+      ]
+    },
+    {
+      "symbol": "NEW",
+      "mention_count": 9,
+      "sentiment_score": 4,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        }
+      ]
+    },
+    {
+      "symbol": "BACK",
+      "mention_count": 6,
+      "sentiment_score": 4,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        }
+      ]
+    },
+    {
+      "symbol": "LIST",
+      "mention_count": 5,
+      "sentiment_score": 4,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "Is Exxon Mobil (XOM) the Best Dividend Stock of 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T19:04:25Z",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-xom-best-dividend-190425978.html"
+        }
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "mention_count": 3,
+      "sentiment_score": 4,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        }
+      ]
+    },
+    {
+      "symbol": "BIG",
+      "mention_count": 3,
+      "sentiment_score": 4,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        }
+      ]
+    },
+    {
+      "symbol": "FREE",
+      "mention_count": 3,
+      "sentiment_score": 4,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dollar Jumps to a 2-Year High on Strong Year-End Demand",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T20:46:51Z",
+          "url": "https://biztoc.com/x/96ca964a37d42676"
+        },
+        {
+          "title": "This Underperforming Dividend Stock Yields 5%. Is It a Buy for 2025?",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:35:08Z",
+          "url": "https://biztoc.com/x/febbbc8ce09dfea4"
+        },
+        {
+          "title": "Andean Precious Metals (CVE:APM) Shares Down 9.6% \u2013 Time to Sell?",
+          "source": "ETF Daily News",
+          "date": "2024-12-31T17:36:36Z",
+          "url": "https://www.etfdailynews.com/2024/12/31/andean-precious-metals-cveapm-shares-down-9-6-time-to-sell/"
+        }
+      ]
+    },
+    {
+      "symbol": "MIXED",
+      "mention_count": 2,
+      "sentiment_score": 4,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "High Growth Tech And 2 More Stocks With Promising Expansion",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:07:34Z",
+          "url": "https://finance.yahoo.com/news/high-growth-tech-2-more-010734123.html"
+        },
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BOOM",
+      "mention_count": 2,
+      "sentiment_score": 4,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        }
+      ]
+    },
+    {
+      "symbol": "PAST",
+      "mention_count": 2,
+      "sentiment_score": 4,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "TSX Penny Stock Highlights For December 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:09:28Z",
+          "url": "https://finance.yahoo.com/news/tsx-penny-stock-highlights-december-180928444.html"
+        }
+      ]
+    },
+    {
+      "symbol": "NET",
+      "mention_count": 2,
+      "sentiment_score": 4,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "WHY",
+      "mention_count": 5,
+      "sentiment_score": 3,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        }
+      ]
+    },
+    {
+      "symbol": "POST",
+      "mention_count": 4,
+      "sentiment_score": 3,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        },
+        {
+          "title": "KEKIUS meme token rockets 1,200% after Elon Musk declares himself Kekius Maximus",
+          "source": "Crypto Briefing",
+          "date": "2024-12-31T19:21:32Z",
+          "url": "https://cryptobriefing.com/kekius-meme-token-elon-musk/"
+        },
+        {
+          "title": "10 most popular ASX shares of 2024 for buyers",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T19:20:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/10-most-popular-asx-shares-of-2024-for-buyers/"
+        }
+      ]
+    },
+    {
+      "symbol": "THAN",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "regulatory",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        },
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        }
+      ]
+    },
+    {
+      "symbol": "TRUMP",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        },
+        {
+          "title": "4 things need to happen for the stock market to continue its record rally in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:12:52Z",
+          "url": "https://biztoc.com/x/b03dbc2acceffb92"
+        }
+      ]
+    },
+    {
+      "symbol": "TESLA",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:20:02Z",
+          "url": "https://biztoc.com/x/4135ffd26807a856"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "INC",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Tungray Technologies Inc Reports Unaudited 2024 First Half Financial Results",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:04:04Z",
+          "url": "https://www.investing.com/news/press-releases/tungray-technologies-inc-reports-unaudited-2024-first-half-financial-results-93CH-3793049"
+        },
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:02:03Z",
+          "url": "https://biztoc.com/x/73cafc08dd989941"
+        },
+        {
+          "title": "Why Array Technologies (ARRY) Is Among the Best Renewable Energy Stocks to Buy?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:52:13Z",
+          "url": "https://finance.yahoo.com/news/why-array-technologies-arry-among-175213846.html"
+        }
+      ]
+    },
+    {
+      "symbol": "FOOL",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Look to US market for capital gains, says investment guru Adam Khoo",
+          "source": "The Straits Times",
+          "date": "2024-12-31T21:23:05Z",
+          "url": "https://www.straitstimes.com/business/look-to-us-market-for-capital-gains-says-investment-guru-adam-khoo"
+        },
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        },
+        {
+          "title": "10 most popular ASX shares of 2024 for buyers",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T19:20:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/10-most-popular-asx-shares-of-2024-for-buyers/"
+        }
+      ]
+    },
+    {
+      "symbol": "PENNY",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "earnings",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "TSX Penny Stock Highlights For December 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:09:28Z",
+          "url": "https://finance.yahoo.com/news/tsx-penny-stock-highlights-december-180928444.html"
+        }
+      ]
+    },
+    {
+      "symbol": "LEVEL",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Rocky terrain for markets, but milestone 2025 on high ground",
+          "source": "The Times of India",
+          "date": "2024-12-31T23:50:52Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rocky-terrain-for-markets-but-milestone-2025-on-high-ground/articleshow/116842880.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "OLD",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        }
+      ]
+    },
+    {
+      "symbol": "MUCH",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "Adtalem, IBD Stock Of The Day, Is Not Getting Much Analyst Attention. Maybe It Should Be",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T17:39:28Z",
+          "url": "https://biztoc.com/x/33572aee6bc114eb"
+        }
+      ]
+    },
+    {
+      "symbol": "MEDIA",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "KEKIUS meme token rockets 1,200% after Elon Musk declares himself Kekius Maximus",
+          "source": "Crypto Briefing",
+          "date": "2024-12-31T19:21:32Z",
+          "url": "https://cryptobriefing.com/kekius-meme-token-elon-musk/"
+        }
+      ]
+    },
+    {
+      "symbol": "SAYS",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Look to US market for capital gains, says investment guru Adam Khoo",
+          "source": "The Straits Times",
+          "date": "2024-12-31T21:23:05Z",
+          "url": "https://www.straitstimes.com/business/look-to-us-market-for-capital-gains-says-investment-guru-adam-khoo"
+        },
+        {
+          "title": "4 things need to happen for the stock market to continue its record rally in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:12:52Z",
+          "url": "https://biztoc.com/x/b03dbc2acceffb92"
+        }
+      ]
+    },
+    {
+      "symbol": "BROS",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:02:03Z",
+          "url": "https://biztoc.com/x/73cafc08dd989941"
+        },
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:39:33Z",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ecbd94d0-80d8-4524-aea8-0f22a2ca0e87"
+        }
+      ]
+    },
+    {
+      "symbol": "MONTH",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:02:03Z",
+          "url": "https://biztoc.com/x/73cafc08dd989941"
+        },
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:39:33Z",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ecbd94d0-80d8-4524-aea8-0f22a2ca0e87"
+        }
+      ]
+    },
+    {
+      "symbol": "LAST",
+      "mention_count": 11,
+      "sentiment_score": 2,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "YEARS",
+      "mention_count": 7,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        }
+      ]
+    },
+    {
+      "symbol": "NEXT",
+      "mention_count": 6,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "ABOUT",
+      "mention_count": 5,
+      "sentiment_score": 2,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Jim Cramer\u2019s Take on NVIDIA (NVDA): The King of AI GPUs Under Pressure",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:16:57Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-nvidia-nvda-king-181657526.html"
+        }
+      ]
+    },
+    {
+      "symbol": "HOW",
+      "mention_count": 5,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "How $10,000 Fared in 2024 Across a Range of Standout Investments",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T23:39:01Z",
+          "url": "https://finance.yahoo.com/news/10-000-fared-2024-across-233901869.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BEST",
+      "mention_count": 5,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        },
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        },
+        {
+          "title": "Is Exxon Mobil (XOM) the Best Dividend Stock of 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T19:04:25Z",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-xom-best-dividend-190425978.html"
+        }
+      ]
+    },
+    {
+      "symbol": "THESE",
+      "mention_count": 4,
+      "sentiment_score": 2,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "How $10,000 Fared in 2024 Across a Range of Standout Investments",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T23:39:01Z",
+          "url": "https://finance.yahoo.com/news/10-000-fared-2024-across-233901869.html"
+        },
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        }
+      ]
+    },
+    {
+      "symbol": "TSX",
+      "mention_count": 4,
+      "sentiment_score": 2,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ASX",
+      "mention_count": 3,
+      "sentiment_score": 2,
+      "catalysts": [
+        "earnings",
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        },
+        {
+          "title": "10 most popular ASX shares of 2024 for buyers",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T19:20:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/10-most-popular-asx-shares-of-2024-for-buyers/"
+        }
+      ]
+    },
+    {
+      "symbol": "WORLD",
+      "mention_count": 3,
+      "sentiment_score": 2,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        },
+        {
+          "title": "In memoriam: Remembering the famous faces from around the world we lost in 2024",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:00:29Z",
+          "url": "https://www.thejournal.ie/famous-people-death-2024-6563581-Dec2024/"
+        },
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        }
+      ]
+    },
+    {
+      "symbol": "WATCH",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "earnings",
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "ASX Penny Stocks To Watch In January 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:09:20Z",
+          "url": "https://finance.yahoo.com/news/asx-penny-stocks-watch-january-010920434.html"
+        },
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        }
+      ]
+    },
+    {
+      "symbol": "THREE",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "Adtalem, IBD Stock Of The Day, Is Not Getting Much Analyst Attention. Maybe It Should Be",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T17:39:28Z",
+          "url": "https://biztoc.com/x/33572aee6bc114eb"
+        }
+      ]
+    },
+    {
+      "symbol": "MUST",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        }
+      ]
+    },
+    {
+      "symbol": "AMONG",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Higher dividend paying companies could be the star attraction of New Year",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:03:26Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/higher-dividend-paying-companies-could-be-the-star-attraction-of-new-year/articleshow/116842933.cms"
+        },
+        {
+          "title": "Why Array Technologies (ARRY) Is Among the Best Renewable Energy Stocks to Buy?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:52:13Z",
+          "url": "https://finance.yahoo.com/news/why-array-technologies-arry-among-175213846.html"
+        }
+      ]
+    },
+    {
+      "symbol": "FARED",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "How $10,000 Fared in 2024 Across a Range of Standout Investments",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T23:39:01Z",
+          "url": "https://finance.yahoo.com/news/10-000-fared-2024-across-233901869.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "MAIN",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        },
+        {
+          "title": "Xi in Qiushi - Comprehensively Advancing the Building of a Strong Country and the Great Cause of National Rejuvenation Through Chinese Modernization",
+          "source": "Sinocism.com",
+          "date": "2024-12-31T19:46:56Z",
+          "url": "https://sinocism.com/p/xi-in-qiushi-comprehensively-advancing"
+        }
+      ]
+    },
+    {
+      "symbol": "THERE",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        },
+        {
+          "title": "10 Android Stories That Stuck Out in 2024, Plus Some Blunders",
+          "source": "Droid Life",
+          "date": "2024-12-31T18:16:15Z",
+          "url": "https://www.droid-life.com/2024/12/31/10-android-stories-that-stuck-out-in-2024-plus-some-blunders/"
+        }
+      ]
+    },
+    {
+      "symbol": "SAW",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        },
+        {
+          "title": "A wild year for markets, in 5 charts",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:03:34Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-wild-year-5-charts-prove-it-interest-rates-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "TEMPO",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Brenmiller Energy Shares Surge On Advancing Project For Heineken-Backed Tempo Beverages",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T19:08:05Z",
+          "url": "https://biztoc.com/x/9fd55e23852d59d5"
+        },
+        {
+          "title": "Brenmiller Energy Shares Surge On Advancing Project For Heineken-Backed Tempo Beverages",
+          "source": "Benzinga",
+          "date": "2024-12-31T18:48:28Z",
+          "url": "https://www.benzinga.com/24/12/42744840/brenmiller-energy-shares-surge-on-advances-flagship-project-with-tempo-beverages"
+        }
+      ]
+    },
+    {
+      "symbol": "GROUP",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Douglas Elliman takes over Vector Group\u2019s office in Miami",
+          "source": "The Real Deal",
+          "date": "2024-12-31T18:57:02Z",
+          "url": "https://therealdeal.com/miami/2024/12/31/douglas-elliman-takes-over-vector-groups-office-in-miami/"
+        },
+        {
+          "title": "Adtalem, IBD Stock Of The Day, Is Not Getting Much Analyst Attention. Maybe It Should Be",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T17:39:28Z",
+          "url": "https://biztoc.com/x/33572aee6bc114eb"
+        }
+      ]
+    },
+    {
+      "symbol": "NOW",
+      "mention_count": 6,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        }
+      ]
+    },
+    {
+      "symbol": "CAP",
+      "mention_count": 5,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        }
+      ]
+    },
+    {
+      "symbol": "HERE",
+      "mention_count": 5,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        }
+      ]
+    },
+    {
+      "symbol": "AI",
+      "mention_count": 4,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "New Zealand Herald",
+          "date": "2025-01-01T00:16:49Z",
+          "url": "https://www.nzherald.co.nz/business/global-markets-rode-ai-interest-rate-roller-coaster-in-2024/63KHDQ2DPRGY3EX657FLH5KY54/"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:43:57Z",
+          "url": "https://finance.yahoo.com/news/global-markets-rode-ai-interest-143104765.html"
+        }
+      ]
+    },
+    {
+      "symbol": "SOLID",
+      "mention_count": 4,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        },
+        {
+          "title": "Solid Biosciences stock hits 52-week low at $3.9 amid challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:09:28Z",
+          "url": "https://www.investing.com/news/company-news/solid-biosciences-stock-hits-52week-low-at-39-amid-challenges-93CH-3792908"
+        }
+      ]
+    },
+    {
+      "symbol": "SEES",
+      "mention_count": 4,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Paysign sees over $1.5 million in stock sales by Topline Capital",
+          "source": "Investing.com",
+          "date": "2024-12-31T23:39:43Z",
+          "url": "https://www.investing.com/news/insider-trading-news/paysign-sees-over-15-million-in-stock-sales-by-topline-capital-93CH-3793075"
+        },
+        {
+          "title": "Optex Systems Holdings sees $186,540 in stock sales by major shareholder",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:30:40Z",
+          "url": "https://www.investing.com/news/insider-trading-news/optex-systems-holdings-sees-186540-in-stock-sales-by-major-shareholder-93CH-3793058"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        }
+      ]
+    },
+    {
+      "symbol": "FINAL",
+      "mention_count": 4,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "MAJOR",
+      "mention_count": 4,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Optex Systems Holdings sees $186,540 in stock sales by major shareholder",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:30:40Z",
+          "url": "https://www.investing.com/news/insider-trading-news/optex-systems-holdings-sees-186540-in-stock-sales-by-major-shareholder-93CH-3793058"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "SMALL",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        }
+      ]
+    },
+    {
+      "symbol": "SPOT",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "\u2018Solana ETF approval in 2025\u2019 confirms Nate Geraci \u2013 SOL reacts",
+          "source": "Ambcrypto.com",
+          "date": "2024-12-31T20:00:37Z",
+          "url": "https://ambcrypto.com/solana-etf-approval-in-2025-confirms-nate-geraci-sol-reacts/"
+        },
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        }
+      ]
+    },
+    {
+      "symbol": "RATE",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "New Zealand Herald",
+          "date": "2025-01-01T00:16:49Z",
+          "url": "https://www.nzherald.co.nz/business/global-markets-rode-ai-interest-rate-roller-coaster-in-2024/63KHDQ2DPRGY3EX657FLH5KY54/"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:43:57Z",
+          "url": "https://finance.yahoo.com/news/global-markets-rode-ai-interest-143104765.html"
+        }
+      ]
+    },
+    {
+      "symbol": "CATCH",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition",
+        "short_squeeze",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Telehealth under threat: Why Congress must act to save Medicare coverage [PODCAST]",
+          "source": "Kevinmd.com",
+          "date": "2025-01-01T00:00:43Z",
+          "url": "https://kevinmd.com/2024/12/telehealth-under-threat-why-congress-must-act-to-save-medicare-coverage-podcast.html"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "HIS",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Former Ottawa Senator Scores New Year's Eve Game-Winner, Now Leads NHL Defencemen In Goals",
+          "source": "The Hockey News",
+          "date": "2024-12-31T21:25:18Z",
+          "url": "https://thehockeynews.com/nhl/ottawa-senators/latest-news/former-ottawa-senator-scores-new-years-eve-game-winner-now-leads-nhl-defencemen-in-goals"
+        },
+        {
+          "title": "12 US billionaires gained almost $1 trillion in wealth in 2024 as the stock market delivered another year of massive returns",
+          "source": "Business Insider",
+          "date": "2024-12-31T19:47:28Z",
+          "url": "https://markets.businessinsider.com/news/stocks/us-billionaires-net-worth-gains-musk-zuckerberg-huang-tsla-nvda-2024-12"
+        },
+        {
+          "title": "Lionel Messi Places a $232 Million Value on His Real-Estate Portfolio in Spain",
+          "source": "Robb Report",
+          "date": "2024-12-31T19:00:00Z",
+          "url": "http://robbreport.com/shelter/celebrity-homes/lionel-messi-spain-real-estate-1236139446/"
+        }
+      ]
+    },
+    {
+      "symbol": "WHERE",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Is Exxon Mobil (XOM) the Best Dividend Stock of 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T19:04:25Z",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-xom-best-dividend-190425978.html"
+        },
+        {
+          "title": "Jim Cramer\u2019s Take on NVIDIA (NVDA): The King of AI GPUs Under Pressure",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:16:57Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-nvidia-nvda-king-181657526.html"
+        },
+        {
+          "title": "Why Array Technologies (ARRY) Is Among the Best Renewable Energy Stocks to Buy?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:52:13Z",
+          "url": "https://finance.yahoo.com/news/why-array-technologies-arry-among-175213846.html"
+        }
+      ]
+    },
+    {
+      "symbol": "GOING",
+      "mention_count": 3,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Is Exxon Mobil (XOM) the Best Dividend Stock of 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T19:04:25Z",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-xom-best-dividend-190425978.html"
+        },
+        {
+          "title": "Jim Cramer\u2019s Take on NVIDIA (NVDA): The King of AI GPUs Under Pressure",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T18:16:57Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-nvidia-nvda-king-181657526.html"
+        },
+        {
+          "title": "Why Array Technologies (ARRY) Is Among the Best Renewable Energy Stocks to Buy?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T17:52:13Z",
+          "url": "https://finance.yahoo.com/news/why-array-technologies-arry-among-175213846.html"
+        }
+      ]
+    },
+    {
+      "symbol": "FED",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "4 things need to happen for the stock market to continue its record rally in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:12:52Z",
+          "url": "https://biztoc.com/x/b03dbc2acceffb92"
+        }
+      ]
+    },
+    {
+      "symbol": "LEADS",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "Former Ottawa Senator Scores New Year's Eve Game-Winner, Now Leads NHL Defencemen In Goals",
+          "source": "The Hockey News",
+          "date": "2024-12-31T21:25:18Z",
+          "url": "https://thehockeynews.com/nhl/ottawa-senators/latest-news/former-ottawa-senator-scores-new-years-eve-game-winner-now-leads-nhl-defencemen-in-goals"
+        }
+      ]
+    },
+    {
+      "symbol": "GEMS",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bangkok Life Assurance Leads These 3 Undiscovered Gems with Strong Fundamentals",
+          "source": "Yahoo Entertainment",
+          "date": "2025-01-01T01:04:43Z",
+          "url": "https://finance.yahoo.com/news/bangkok-life-assurance-leads-3-010443280.html"
+        },
+        {
+          "title": "2024: The Year the Art Market Returned to\u00a0Reality",
+          "source": "ARTnews",
+          "date": "2024-12-31T18:00:45Z",
+          "url": "https://www.artnews.com/art-news/market/2024-the-year-the-art-market-returned-to-reality-sothebys-christies-art-fairs-art-basel-frieze-1234729113/"
+        }
+      ]
+    },
+    {
+      "symbol": "OFF",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "TEST",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "earnings"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Aehr Test Systems reschedules Q2 earnings call to January 13",
+          "source": "Investing.com",
+          "date": "2024-12-31T17:36:55Z",
+          "url": "https://www.investing.com/news/company-news/aehr-test-systems-reschedules-q2-earnings-call-to-january-13-93CH-3792863"
+        }
+      ]
+    },
+    {
+      "symbol": "BEEN",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "2024 Honda NX500 Review | LAMS Motorcycle Test",
+          "source": "Mcnews.com.au",
+          "date": "2025-01-01T00:57:05Z",
+          "url": "https://www.mcnews.com.au/2024-honda-nx500-review-lams-motorcycle-test/"
+        },
+        {
+          "title": "Modi appreciates collective efforts, transformative outcomes",
+          "source": "Statetimes.in",
+          "date": "2024-12-31T19:18:22Z",
+          "url": "https://statetimes.in/modi-appreciates-collective-efforts-transformative-outcomes/"
+        }
+      ]
+    },
+    {
+      "symbol": "WRAP",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        }
+      ]
+    },
+    {
+      "symbol": "MAY",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Strongest Top 3 S&P 500 Stocks: Will They Lead the Pack in 2025?",
+          "source": "Stockcharts.com",
+          "date": "2024-12-31T22:17:20Z",
+          "url": "https://stockcharts.com/articles/chartwatchers/2024/12/strongest-top-3-sp-500-stocks-560.html"
+        }
+      ]
+    },
+    {
+      "symbol": "LOSE",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        },
+        {
+          "title": "Wall Street indexes lose ground as market closes another record-breaking year",
+          "source": "Boston Herald",
+          "date": "2024-12-31T19:21:50Z",
+          "url": "https://www.bostonherald.com/2024/12/31/financial-markets-close-year/"
+        }
+      ]
+    },
+    {
+      "symbol": "RUN",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street Indexes Lose Ground As Market Closes Another Record-Breaking Year",
+          "source": "HuffPost",
+          "date": "2024-12-31T23:42:57Z",
+          "url": "https://www.huffpost.com/entry/wall-street-indexes-lose-ground-as-market-closes-record-breaking-year_n_67747fbae4b00f088f88f6cc"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "POWER",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Nippon Steel offers U.S. government veto power in bid for U.S. Steel approval",
+          "source": "The Japan Times",
+          "date": "2024-12-31T23:41:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/nippon-steel-us-steel-veto-us/"
+        },
+        {
+          "title": "KEKIUS meme token rockets 1,200% after Elon Musk declares himself Kekius Maximus",
+          "source": "Crypto Briefing",
+          "date": "2024-12-31T19:21:32Z",
+          "url": "https://cryptobriefing.com/kekius-meme-token-elon-musk/"
+        }
+      ]
+    },
+    {
+      "symbol": "TIMES",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "Modi appreciates collective efforts, transformative outcomes",
+          "source": "Statetimes.in",
+          "date": "2024-12-31T19:18:22Z",
+          "url": "https://statetimes.in/modi-appreciates-collective-efforts-transformative-outcomes/"
+        }
+      ]
+    },
+    {
+      "symbol": "WOMAN",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "Tears as Woman Shares 'Saddest Thing' She Ever Found in a Thrift Shop",
+          "source": "Newsweek",
+          "date": "2024-12-31T18:44:48Z",
+          "url": "https://www.newsweek.com/tears-over-saddest-item-woman-finds-while-thrifting-2004212"
+        }
+      ]
+    },
+    {
+      "symbol": "DOW",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        }
+      ]
+    },
+    {
+      "symbol": "JONES",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "2025 stock market predictions from the big banks",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:36:57Z",
+          "url": "https://biztoc.com/x/210f5ff9bbd88641"
+        },
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        }
+      ]
+    },
+    {
+      "symbol": "RACK",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "NO",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        }
+      ]
+    },
+    {
+      "symbol": "GAME",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Former Ottawa Senator Scores New Year's Eve Game-Winner, Now Leads NHL Defencemen In Goals",
+          "source": "The Hockey News",
+          "date": "2024-12-31T21:25:18Z",
+          "url": "https://thehockeynews.com/nhl/ottawa-senators/latest-news/former-ottawa-senator-scores-new-years-eve-game-winner-now-leads-nhl-defencemen-in-goals"
+        },
+        {
+          "title": "Look to US market for capital gains, says investment guru Adam Khoo",
+          "source": "The Straits Times",
+          "date": "2024-12-31T21:23:05Z",
+          "url": "https://www.straitstimes.com/business/look-to-us-market-for-capital-gains-says-investment-guru-adam-khoo"
+        }
+      ]
+    },
+    {
+      "symbol": "GREAT",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        },
+        {
+          "title": "Xi in Qiushi - Comprehensively Advancing the Building of a Strong Country and the Great Cause of National Rejuvenation Through Chinese Modernization",
+          "source": "Sinocism.com",
+          "date": "2024-12-31T19:46:56Z",
+          "url": "https://sinocism.com/p/xi-in-qiushi-comprehensively-advancing"
+        }
+      ]
+    },
+    {
+      "symbol": "ETF",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "\u2018Solana ETF approval in 2025\u2019 confirms Nate Geraci \u2013 SOL reacts",
+          "source": "Ambcrypto.com",
+          "date": "2024-12-31T20:00:37Z",
+          "url": "https://ambcrypto.com/solana-etf-approval-in-2025-confirms-nate-geraci-sol-reacts/"
+        },
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        }
+      ]
+    },
+    {
+      "symbol": "NOT",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        },
+        {
+          "title": "Adtalem, IBD Stock Of The Day, Is Not Getting Much Analyst Attention. Maybe It Should Be",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T17:39:28Z",
+          "url": "https://biztoc.com/x/33572aee6bc114eb"
+        }
+      ]
+    },
+    {
+      "symbol": "HOUSE",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "regulatory",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Bitcoin more than doubles in 2024 on spot ETF approval, Trump euphoria",
+          "source": "CNA",
+          "date": "2024-12-31T18:20:13Z",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-more-doubles-2024-spot-etf-approval-trump-euphoria-4833386"
+        },
+        {
+          "title": "2024: The Year the Art Market Returned to\u00a0Reality",
+          "source": "ARTnews",
+          "date": "2024-12-31T18:00:45Z",
+          "url": "https://www.artnews.com/art-news/market/2024-the-year-the-art-market-returned-to-reality-sothebys-christies-art-fairs-art-basel-frieze-1234729113/"
+        }
+      ]
+    },
+    {
+      "symbol": "FIRST",
+      "mention_count": 9,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch",
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "Tungray Technologies Inc Reports Unaudited 2024 First Half Financial Results",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:04:04Z",
+          "url": "https://www.investing.com/news/press-releases/tungray-technologies-inc-reports-unaudited-2024-first-half-financial-results-93CH-3793049"
+        }
+      ]
+    },
+    {
+      "symbol": "MANY",
+      "mention_count": 5,
+      "sentiment_score": 0,
+      "catalysts": [
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "Stocks 2024: Netflix, Spotify Ride Tech Wave As Media Shares Wrap Up A Challenging Year",
+          "source": "Deadline",
+          "date": "2024-12-31T22:43:30Z",
+          "url": "http://deadline.com/2024/12/2024-stocks-report-media-1236244219/"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "SALES",
+      "mention_count": 4,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Paysign sees over $1.5 million in stock sales by Topline Capital",
+          "source": "Investing.com",
+          "date": "2024-12-31T23:39:43Z",
+          "url": "https://www.investing.com/news/insider-trading-news/paysign-sees-over-15-million-in-stock-sales-by-topline-capital-93CH-3793075"
+        },
+        {
+          "title": "Optex Systems Holdings sees $186,540 in stock sales by major shareholder",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:30:40Z",
+          "url": "https://www.investing.com/news/insider-trading-news/optex-systems-holdings-sees-186540-in-stock-sales-by-major-shareholder-93CH-3793058"
+        },
+        {
+          "title": "INLIF LIMITED Announces Pricing of US$8 Million Initial Public Offering",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:00:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003196/0/en/INLIF-LIMITED-Announces-Pricing-of-US-8-Million-Initial-Public-Offering.html"
+        }
+      ]
+    },
+    {
+      "symbol": "TODAY",
+      "mention_count": 4,
+      "sentiment_score": 0,
+      "catalysts": [
+        "acquisition",
+        "product_launch",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        },
+        {
+          "title": "Here's What Happened Today: New Year's Eve",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:50:13Z",
+          "url": "https://www.thejournal.ie/evening-headlines-40-6583741-Dec2024/"
+        }
+      ]
+    },
+    {
+      "symbol": "LOWER",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        }
+      ]
+    },
+    {
+      "symbol": "SLIP",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "STILL",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        },
+        {
+          "title": "How major US stock indexes fared Tuesday, 12/31/2024",
+          "source": "seattlepi.com",
+          "date": "2024-12-31T21:48:14Z",
+          "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-20009272.php"
+        },
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        }
+      ]
+    },
+    {
+      "symbol": "EVE",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Former Ottawa Senator Scores New Year's Eve Game-Winner, Now Leads NHL Defencemen In Goals",
+          "source": "The Hockey News",
+          "date": "2024-12-31T21:25:18Z",
+          "url": "https://thehockeynews.com/nhl/ottawa-senators/latest-news/former-ottawa-senator-scores-new-years-eve-game-winner-now-leads-nhl-defencemen-in-goals"
+        },
+        {
+          "title": "Here's What Happened Today: New Year's Eve",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:50:13Z",
+          "url": "https://www.thejournal.ie/evening-headlines-40-6583741-Dec2024/"
+        },
+        {
+          "title": "5 things we learned about Knicks in 2024",
+          "source": "SNY.tv",
+          "date": "2024-12-31T18:15:00Z",
+          "url": "https://sny.tv/articles/5-knicks-takeaways-2024"
+        }
+      ]
+    },
+    {
+      "symbol": "GLOBE",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        },
+        {
+          "title": "INLIF LIMITED Announces Pricing of US$8 Million Initial Public Offering",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:00:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003196/0/en/INLIF-LIMITED-Announces-Pricing-of-US-8-Million-Initial-Public-Offering.html"
+        }
+      ]
+    },
+    {
+      "symbol": "DEC",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        },
+        {
+          "title": "INLIF LIMITED Announces Pricing of US$8 Million Initial Public Offering",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:00:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003196/0/en/INLIF-LIMITED-Announces-Pricing-of-US-8-Million-Initial-Public-Offering.html"
+        }
+      ]
+    },
+    {
+      "symbol": "GUIDE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Insiders Guide To Eleuthera: The Caribbean\u2019s Secret Island Hideaway",
+          "source": "Forbes",
+          "date": "2025-01-01T01:01:50Z",
+          "url": "https://www.forbes.com/sites/laurabegleybloom/2024/12/31/insiders-guide-to-eleuthera-the-caribbeans-secret-island-hideaway/"
+        },
+        {
+          "title": "Former CNN anchor Aaron Brown, who helped viewers through the Sept. 11 attacks, has died",
+          "source": "Richmond.com",
+          "date": "2024-12-31T19:30:00Z",
+          "url": "https://richmond.com/news/nation-world/cnn-anchor-aaron-brown-dies/article_972060ef-a423-5d4a-9552-4e83486ba00f.html"
+        }
+      ]
+    },
+    {
+      "symbol": "RAIN",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "acquisition",
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Rain enhancement technologies investor Paul Dacier buys $100k in stock",
+          "source": "Investing.com",
+          "date": "2025-01-01T00:51:37Z",
+          "url": "https://www.investing.com/news/insider-trading-news/rain-enhancement-technologies-investor-paul-dacier-buys-100k-in-stock-93CH-3793089"
+        },
+        {
+          "title": "Rain Enhancement Technologies Announces Completion of Business Combination with Coliseum Acquisition Corp., Establishing Publicly Listed Provider of Rainfall Generation Technology",
+          "source": "Investing.com",
+          "date": "2024-12-31T18:48:03Z",
+          "url": "https://www.investing.com/news/press-releases/rain-enhancement-technologies-announces-completion-of-business-combination-with-coliseum-acquisition-corp-establishing-publicly-listed-provider-of-rainfall-generation-technology-93CH-3792898"
+        }
+      ]
+    },
+    {
+      "symbol": "WORST",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "Best and worst performing ASX sectors of 2024",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "https://www.fool.com.au/2025/01/01/best-and-worst-performing-asx-sectors-of-2024/"
+        }
+      ]
+    },
+    {
+      "symbol": "SIX",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "18 top stock picks for 2025 from 6 leading brokers",
+          "source": "The Times of India",
+          "date": "2025-01-01T00:23:08Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-top-stock-picks-for-2025-from-6-leading-brokers/articleshow/116842980.cms"
+        },
+        {
+          "title": "SOLOWIN HOLDINGS Reports Unaudited Financial Results for The First Six Months of Fiscal Year 2025",
+          "source": "Investing.com",
+          "date": "2024-12-31T21:32:09Z",
+          "url": "https://www.investing.com/news/press-releases/solowin-holdings-reports-unaudited-financial-results-for-the-first-six-months-of-fiscal-year-2025-93CH-3793029"
+        }
+      ]
+    },
+    {
+      "symbol": "RODE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "New Zealand Herald",
+          "date": "2025-01-01T00:16:49Z",
+          "url": "https://www.nzherald.co.nz/business/global-markets-rode-ai-interest-rate-roller-coaster-in-2024/63KHDQ2DPRGY3EX657FLH5KY54/"
+        },
+        {
+          "title": "Global markets rode AI, interest rate roller coaster in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:43:57Z",
+          "url": "https://finance.yahoo.com/news/global-markets-rode-ai-interest-143104765.html"
+        }
+      ]
+    },
+    {
+      "symbol": "SINCE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Dragon Ball Is the Most Influential Anime of All Time, Here\u2019s Why",
+          "source": "ComicBook.com",
+          "date": "2024-12-31T21:00:00Z",
+          "url": "http://comicbook.com/anime/news/dragon-ball-most-influential-anime/"
+        }
+      ]
+    },
+    {
+      "symbol": "YORK",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "5 things we learned about Knicks in 2024",
+          "source": "SNY.tv",
+          "date": "2024-12-31T18:15:00Z",
+          "url": "https://sny.tv/articles/5-knicks-takeaways-2024"
+        }
+      ]
+    },
+    {
+      "symbol": "STAFF",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        }
+      ]
+    },
+    {
+      "symbol": "NOTE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        },
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        }
+      ]
+    },
+    {
+      "symbol": "TURN",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "US stocks slip as European markets ring out year with gains",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T21:24:32Z",
+          "url": "https://finance.yahoo.com/news/asian-stocks-dip-santa-snubs-034932551.html"
+        },
+        {
+          "title": "5 things we learned about Knicks in 2024",
+          "source": "SNY.tv",
+          "date": "2024-12-31T18:15:00Z",
+          "url": "https://sny.tv/articles/5-knicks-takeaways-2024"
+        }
+      ]
+    },
+    {
+      "symbol": "GROSS",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        }
+      ]
+    },
+    {
+      "symbol": "HMT",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        }
+      ]
+    },
+    {
+      "symbol": "STATE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Rhode Island \u2019s data from health benefits system leaked on the dark web",
+          "source": "Securityaffairs.com",
+          "date": "2024-12-31T20:17:14Z",
+          "url": "https://securityaffairs.com/172503/cyber-crime/rhode-island-data-breach.html"
+        },
+        {
+          "title": "Modi appreciates collective efforts, transformative outcomes",
+          "source": "Statetimes.in",
+          "date": "2024-12-31T19:18:22Z",
+          "url": "https://statetimes.in/modi-appreciates-collective-efforts-transformative-outcomes/"
+        }
+      ]
+    },
+    {
+      "symbol": "DIED",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "In memoriam: Remembering the famous faces from around the world we lost in 2024",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:00:29Z",
+          "url": "https://www.thejournal.ie/famous-people-death-2024-6563581-Dec2024/"
+        },
+        {
+          "title": "Former CNN anchor Aaron Brown, who helped viewers through the Sept. 11 attacks, has died",
+          "source": "Richmond.com",
+          "date": "2024-12-31T19:30:00Z",
+          "url": "https://richmond.com/news/nation-world/cnn-anchor-aaron-brown-dies/article_972060ef-a423-5d4a-9552-4e83486ba00f.html"
+        }
+      ]
+    },
+    {
+      "symbol": "WHO",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "In memoriam: Remembering the famous faces from around the world we lost in 2024",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:00:29Z",
+          "url": "https://www.thejournal.ie/famous-people-death-2024-6563581-Dec2024/"
+        },
+        {
+          "title": "Former CNN anchor Aaron Brown, who helped viewers through the Sept. 11 attacks, has died",
+          "source": "Richmond.com",
+          "date": "2024-12-31T19:30:00Z",
+          "url": "https://richmond.com/news/nation-world/cnn-anchor-aaron-brown-dies/article_972060ef-a423-5d4a-9552-4e83486ba00f.html"
+        }
+      ]
+    },
+    {
+      "symbol": "VALUE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Lionel Messi Places a $232 Million Value on His Real-Estate Portfolio in Spain",
+          "source": "Robb Report",
+          "date": "2024-12-31T19:00:00Z",
+          "url": "http://robbreport.com/shelter/celebrity-homes/lionel-messi-spain-real-estate-1236139446/"
+        },
+        {
+          "title": "2024: The Year the Art Market Returned to\u00a0Reality",
+          "source": "ARTnews",
+          "date": "2024-12-31T18:00:45Z",
+          "url": "https://www.artnews.com/art-news/market/2024-the-year-the-art-market-returned-to-reality-sothebys-christies-art-fairs-art-basel-frieze-1234729113/"
+        }
+      ]
+    },
+    {
+      "symbol": "HAD",
+      "mention_count": 4,
+      "sentiment_score": -1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "US Stocks Slide in Final Trading Session of 2024",
+          "source": "Newsweek",
+          "date": "2024-12-31T23:19:35Z",
+          "url": "https://www.newsweek.com/us-stocks-slide-final-trading-session-2024-2008191"
+        },
+        {
+          "title": "Rhode Island \u2019s data from health benefits system leaked on the dark web",
+          "source": "Securityaffairs.com",
+          "date": "2024-12-31T20:17:14Z",
+          "url": "https://securityaffairs.com/172503/cyber-crime/rhode-island-data-breach.html"
+        }
+      ]
+    },
+    {
+      "symbol": "WHEN",
+      "mention_count": 4,
+      "sentiment_score": -1,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        }
+      ]
+    },
+    {
+      "symbol": "AGO",
+      "mention_count": 3,
+      "sentiment_score": -1,
+      "catalysts": [
+        "short_squeeze",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Investors hope for U.S. stock market trifecta in 2025 after back-to-back boom years",
+          "source": "The Japan Times",
+          "date": "2025-01-01T00:48:00Z",
+          "url": "https://www.japantimes.co.jp/business/2025/01/01/markets/investors-us-markets/"
+        },
+        {
+          "title": "It seems funny now, but 25 years ago Y2K paranoia had many fearing the worst",
+          "source": "CBC News",
+          "date": "2025-01-01T00:47:55Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/y2k-paranoia-1.7421007"
+        },
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        }
+      ]
+    },
+    {
+      "symbol": "NON",
+      "mention_count": 3,
+      "sentiment_score": -1,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "Financial Post",
+          "date": "2024-12-31T20:53:43Z",
+          "url": "https://financialpost.com/globe-newswire/halmont-properties-corporation-closes-c50000000-non-brokered-private-placement"
+        },
+        {
+          "title": "Halmont Properties Corporation Closes C$50,000,000 Non-Brokered Private Placement",
+          "source": "GlobeNewswire",
+          "date": "2024-12-31T20:53:00Z",
+          "url": "https://www.globenewswire.com/news-release/2024/12/31/3003200/0/en/Halmont-Properties-Corporation-Closes-C-50-000-000-Non-Brokered-Private-Placement.html"
+        }
+      ]
+    },
+    {
+      "symbol": "HITS",
+      "mention_count": 3,
+      "sentiment_score": -1,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Buenaventura stock hits 52-week low at $11.61 amid market challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T20:45:07Z",
+          "url": "https://www.investing.com/news/company-news/buenaventura-stock-hits-52week-low-at-1161-amid-market-challenges-93CH-3792947"
+        },
+        {
+          "title": "Playa Hotels Resorts stock hits all-time high at $12.7",
+          "source": "Investing.com",
+          "date": "2024-12-31T20:36:12Z",
+          "url": "https://www.investing.com/news/company-news/playa-hotels-resorts-stock-hits-alltime-high-at-127-93CH-3792942"
+        },
+        {
+          "title": "Solid Biosciences stock hits 52-week low at $3.9 amid challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:09:28Z",
+          "url": "https://www.investing.com/news/company-news/solid-biosciences-stock-hits-52week-low-at-39-amid-challenges-93CH-3792908"
+        }
+      ]
+    },
+    {
+      "symbol": "BULL",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "Stocks slip but cap off 2024 with a 2nd straight year of 20% gains",
+          "source": "Business Insider",
+          "date": "2024-12-31T21:05:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-2024-gains-2025-outlook-ai-trump-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "TIPS",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "ONES",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "OUR",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Best of 2024: Why we loved these 18 albums from Cowboy Carter to The Tortured Poets Department",
+          "source": "USA Today",
+          "date": "2024-12-31T20:55:08Z",
+          "url": "https://ftw.usatoday.com/lists/best-albums-2024-beyonce-taylor-swift-kendrick-lamar"
+        },
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        }
+      ]
+    },
+    {
+      "symbol": "GET",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "10 Android Stories That Stuck Out in 2024, Plus Some Blunders",
+          "source": "Droid Life",
+          "date": "2024-12-31T18:16:15Z",
+          "url": "https://www.droid-life.com/2024/12/31/10-android-stories-that-stuck-out-in-2024-plus-some-blunders/"
+        },
+        {
+          "title": "Andean Precious Metals (CVE:APM) Shares Down 9.6% \u2013 Time to Sell?",
+          "source": "ETF Daily News",
+          "date": "2024-12-31T17:36:36Z",
+          "url": "https://www.etfdailynews.com/2024/12/31/andean-precious-metals-cveapm-shares-down-9-6-time-to-sell/"
+        }
+      ]
+    },
+    {
+      "symbol": "WERE",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "10 Android Stories That Stuck Out in 2024, Plus Some Blunders",
+          "source": "Droid Life",
+          "date": "2024-12-31T18:16:15Z",
+          "url": "https://www.droid-life.com/2024/12/31/10-android-stories-that-stuck-out-in-2024-plus-some-blunders/"
+        },
+        {
+          "title": "Andean Precious Metals (CVE:APM) Shares Down 9.6% \u2013 Time to Sell?",
+          "source": "ETF Daily News",
+          "date": "2024-12-31T17:36:36Z",
+          "url": "https://www.etfdailynews.com/2024/12/31/andean-precious-metals-cveapm-shares-down-9-6-time-to-sell/"
+        }
+      ]
+    },
+    {
+      "symbol": "DOWN",
+      "mention_count": 2,
+      "sentiment_score": -1,
+      "catalysts": [
+        "short_squeeze"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Warner Bros Discovery Stock Could Outperform Next Month",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T18:02:03Z",
+          "url": "https://biztoc.com/x/73cafc08dd989941"
+        },
+        {
+          "title": "Andean Precious Metals (CVE:APM) Shares Down 9.6% \u2013 Time to Sell?",
+          "source": "ETF Daily News",
+          "date": "2024-12-31T17:36:36Z",
+          "url": "https://www.etfdailynews.com/2024/12/31/andean-precious-metals-cveapm-shares-down-9-6-time-to-sell/"
+        }
+      ]
+    },
+    {
+      "symbol": "OR",
+      "mention_count": 6,
+      "sentiment_score": -2,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "Stocks Drop at the End of a Winning Year",
+          "source": "Newser",
+          "date": "2024-12-31T22:03:04Z",
+          "url": "https://www.newser.com/story/361804/stocks-drop-at-the-end-of-a-winning-year.html"
+        }
+      ]
+    },
+    {
+      "symbol": "WEEK",
+      "mention_count": 5,
+      "sentiment_score": -2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "Buenaventura stock hits 52-week low at $11.61 amid market challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T20:45:07Z",
+          "url": "https://www.investing.com/news/company-news/buenaventura-stock-hits-52week-low-at-1161-amid-market-challenges-93CH-3792947"
+        },
+        {
+          "title": "AEON stock touches 52-week low at $0.52 amid market shifts",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:12:08Z",
+          "url": "https://www.investing.com/news/company-news/aeon-stock-touches-52week-low-at-052-amid-market-shifts-93CH-3792911"
+        }
+      ]
+    },
+    {
+      "symbol": "AN",
+      "mention_count": 4,
+      "sentiment_score": -2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        },
+        {
+          "title": "Wall Street\u2019s predictions for the market and economy in 2025",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T22:04:00Z",
+          "url": "https://biztoc.com/x/6277cca0a119c443"
+        },
+        {
+          "title": "Tears as Woman Shares 'Saddest Thing' She Ever Found in a Thrift Shop",
+          "source": "Newsweek",
+          "date": "2024-12-31T18:44:48Z",
+          "url": "https://www.newsweek.com/tears-over-saddest-item-woman-finds-while-thrifting-2004212"
+        }
+      ]
+    },
+    {
+      "symbol": "WHAT",
+      "mention_count": 4,
+      "sentiment_score": -2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        },
+        {
+          "title": "Here's What Happened Today: New Year's Eve",
+          "source": "TheJournal.ie",
+          "date": "2024-12-31T20:50:13Z",
+          "url": "https://www.thejournal.ie/evening-headlines-40-6583741-Dec2024/"
+        },
+        {
+          "title": "What's the most common 2025 New Year's resolution? Not calling it a resolution",
+          "source": "CBC News",
+          "date": "2024-12-31T19:02:33Z",
+          "url": "https://www.cbc.ca/news/canada/new-year-resolutions-2025-1.7420798"
+        }
+      ]
+    },
+    {
+      "symbol": "YOU",
+      "mention_count": 3,
+      "sentiment_score": -2,
+      "catalysts": [
+        "acquisition",
+        "partnership",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Natural Hollow Fibers Outperform Traditional Materials",
+          "source": "Mercola.com",
+          "date": "2025-01-01T00:00:00Z",
+          "url": "https://articles.mercola.com/sites/articles/archive/2025/01/01/natural-hollow-fibers.aspx"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        },
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T21:31:04Z",
+          "url": "https://biztoc.com/x/4ebc9c48bf718f58"
+        }
+      ]
+    },
+    {
+      "symbol": "ENDS",
+      "mention_count": 2,
+      "sentiment_score": -2,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Wall Street ends lower, capping a banner year",
+          "source": "The Times of India",
+          "date": "2025-01-01T01:12:39Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-capping-a-banner-year/articleshow/116843350.cms"
+        },
+        {
+          "title": "Dow Jones Futures: Stock Market Ends 2024 On Weak Note; Tesla Deliveries Due",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-31T22:12:16Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2024-weak-tesla-deliveries-due/"
+        }
+      ]
+    },
+    {
+      "symbol": "AMID",
+      "mention_count": 3,
+      "sentiment_score": -3,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Buenaventura stock hits 52-week low at $11.61 amid market challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T20:45:07Z",
+          "url": "https://www.investing.com/news/company-news/buenaventura-stock-hits-52week-low-at-1161-amid-market-challenges-93CH-3792947"
+        },
+        {
+          "title": "AEON stock touches 52-week low at $0.52 amid market shifts",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:12:08Z",
+          "url": "https://www.investing.com/news/company-news/aeon-stock-touches-52week-low-at-052-amid-market-shifts-93CH-3792911"
+        },
+        {
+          "title": "Solid Biosciences stock hits 52-week low at $3.9 amid challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:09:28Z",
+          "url": "https://www.investing.com/news/company-news/solid-biosciences-stock-hits-52week-low-at-39-amid-challenges-93CH-3792908"
+        }
+      ]
+    },
+    {
+      "symbol": "SELLS",
+      "mention_count": 5,
+      "sentiment_score": -5,
+      "catalysts": [
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Republic Bancorp director Heather Howell sells $113,142 in stock",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:50:41Z",
+          "url": "https://www.investing.com/news/insider-trading-news/republic-bancorp-director-heather-howell-sells-113142-in-stock-93CH-3793062"
+        },
+        {
+          "title": "HP global controller Stephanie Liebman sells $357,500 in stock",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:07:40Z",
+          "url": "https://www.investing.com/news/insider-trading-news/hp-global-controller-stephanie-liebman-sells-357500-in-stock-93CH-3793051"
+        },
+        {
+          "title": "Topline Capital Partners sells $10.1 million in Green Dot shares",
+          "source": "Investing.com",
+          "date": "2024-12-31T22:05:49Z",
+          "url": "https://www.investing.com/news/insider-trading-news/topline-capital-partners-sells-101-million-in-green-dot-shares-93CH-3793050"
+        }
+      ]
+    },
+    {
+      "symbol": "CORP",
+      "mention_count": 3,
+      "sentiment_score": -5,
+      "catalysts": [
+        "product_launch"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Flow Beverage Corp. Closes First Tranche of Private Placement of Convertible Debenture Units for CDN$1.73 Million",
+          "source": "Financial Post",
+          "date": "2024-12-31T22:15:29Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/flow-beverage-corp-closes-first-tranche-of-private-placement-of-convertible-debenture-units-for-cdn1-73-million"
+        },
+        {
+          "title": "Rain Enhancement Technologies Announces Completion of Business Combination with Coliseum Acquisition Corp., Establishing Publicly Listed Provider of Rainfall Generation Technology",
+          "source": "Investing.com",
+          "date": "2024-12-31T18:48:03Z",
+          "url": "https://www.investing.com/news/press-releases/rain-enhancement-technologies-announces-completion-of-business-combination-with-coliseum-acquisition-corp-establishing-publicly-listed-provider-of-rainfall-generation-technology-93CH-3792898"
+        },
+        {
+          "title": "Andean Precious Metals (CVE:APM) Shares Down 9.6% \u2013 Time to Sell?",
+          "source": "ETF Daily News",
+          "date": "2024-12-31T17:36:36Z",
+          "url": "https://www.etfdailynews.com/2024/12/31/andean-precious-metals-cveapm-shares-down-9-6-time-to-sell/"
+        }
+      ]
+    },
+    {
+      "symbol": "LOW",
+      "mention_count": 4,
+      "sentiment_score": -6,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Buenaventura stock hits 52-week low at $11.61 amid market challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T20:45:07Z",
+          "url": "https://www.investing.com/news/company-news/buenaventura-stock-hits-52week-low-at-1161-amid-market-challenges-93CH-3792947"
+        },
+        {
+          "title": "AEON stock touches 52-week low at $0.52 amid market shifts",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:12:08Z",
+          "url": "https://www.investing.com/news/company-news/aeon-stock-touches-52week-low-at-052-amid-market-shifts-93CH-3792911"
+        },
+        {
+          "title": "Solid Biosciences stock hits 52-week low at $3.9 amid challenges",
+          "source": "Investing.com",
+          "date": "2024-12-31T19:09:28Z",
+          "url": "https://www.investing.com/news/company-news/solid-biosciences-stock-hits-52week-low-at-39-amid-challenges-93CH-3792908"
+        }
+      ]
+    }
+  ]
+}

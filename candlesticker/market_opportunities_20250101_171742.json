@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-01-01T17:17:42.409862",
+  "scan_focus": "Emerging Opportunities",
+  "opportunities": [
+    {
+      "symbol": "WOMAN",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "NOROVIRUS: Doctor reports seeing increase in cases in last week, woman shares experience with virus - FOX 17 West Michigan News",
+          "source": "Slashdot.org",
+          "date": "2024-12-31T23:12:15Z",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810019"
+        },
+        {
+          "title": "Tears as Woman Shares 'Saddest Thing' She Ever Found in a Thrift Shop",
+          "source": "Newsweek",
+          "date": "2024-12-31T18:44:48Z",
+          "url": "https://www.newsweek.com/tears-over-saddest-item-woman-finds-while-thrifting-2004212"
+        }
+      ]
+    }
+  ]
+}

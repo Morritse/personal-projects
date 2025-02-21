@@ -1,0 +1,1602 @@
+[
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.5926970229027217,
+      "win_rate": 0.2304751501911524,
+      "max_drawdown": 0.008142255216692072,
+      "sharpe_ratio": -0.15701850535330106,
+      "total_trades": 1831,
+      "avg_trade_duration": 14.456581103222282
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.6280590652101847,
+      "win_rate": 0.22591362126245848,
+      "max_drawdown": 0.008114254086246279,
+      "sharpe_ratio": -0.16648269277114514,
+      "total_trades": 1505,
+      "avg_trade_duration": 14.691029900332225
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.6325250287409712,
+      "win_rate": 0.2261904761904762,
+      "max_drawdown": 0.008128164897941258,
+      "sharpe_ratio": -0.1676805042593621,
+      "total_trades": 1680,
+      "avg_trade_duration": 14.386904761904763
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.4646702019343363,
+      "win_rate": 0.2718360071301248,
+      "max_drawdown": 0.006035801296834227,
+      "sharpe_ratio": -0.16878512072941643,
+      "total_trades": 2244,
+      "avg_trade_duration": 11.766934046345812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.6381399497742413,
+      "win_rate": 0.22503328894806923,
+      "max_drawdown": 0.00811308451932803,
+      "sharpe_ratio": -0.1691762858565497,
+      "total_trades": 1502,
+      "avg_trade_duration": 14.660452729693741
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.47310511498170893,
+      "win_rate": 0.35522273425499235,
+      "max_drawdown": 0.00604961870787764,
+      "sharpe_ratio": -0.17223805234225031,
+      "total_trades": 2604,
+      "avg_trade_duration": 9.13978494623656
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.6561917550388596,
+      "win_rate": 0.22311827956989247,
+      "max_drawdown": 0.008121545888270076,
+      "sharpe_ratio": -0.17401677808070287,
+      "total_trades": 1488,
+      "avg_trade_duration": 14.596774193548388
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.47999598749312034,
+      "win_rate": 0.35291873330789775,
+      "max_drawdown": 0.005980949972897155,
+      "sharpe_ratio": -0.1747042853497586,
+      "total_trades": 2621,
+      "avg_trade_duration": 9.13201068294544
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.6676001263634102,
+      "win_rate": 0.19302949061662197,
+      "max_drawdown": 0.008222899695808713,
+      "sharpe_ratio": -0.17695395459140872,
+      "total_trades": 1492,
+      "avg_trade_duration": 17.429624664879356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.4902367947884789,
+      "win_rate": 0.26919385796545103,
+      "max_drawdown": 0.006057190810504721,
+      "sharpe_ratio": -0.17814259809610822,
+      "total_trades": 2084,
+      "avg_trade_duration": 11.806621880998081
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.6741253237003253,
+      "win_rate": 0.2206085753803596,
+      "max_drawdown": 0.008120499541187562,
+      "sharpe_ratio": -0.17883435896916894,
+      "total_trades": 1446,
+      "avg_trade_duration": 14.699170124481327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.507701525980675,
+      "win_rate": 0.3502347417840376,
+      "max_drawdown": 0.006086273542432973,
+      "sharpe_ratio": -0.18495836320112805,
+      "total_trades": 2130,
+      "avg_trade_duration": 9.133802816901408
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.6991777849368663,
+      "win_rate": 0.19129834254143646,
+      "max_drawdown": 0.008248703975083429,
+      "sharpe_ratio": -0.18539976998482607,
+      "total_trades": 1448,
+      "avg_trade_duration": 17.36878453038674
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.699312205952185,
+      "win_rate": 0.21717171717171718,
+      "max_drawdown": 0.008195786728448605,
+      "sharpe_ratio": -0.18561432159077124,
+      "total_trades": 1188,
+      "avg_trade_duration": 14.048821548821548
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.5110110831334058,
+      "win_rate": 0.2659416707859614,
+      "max_drawdown": 0.006093033802298739,
+      "sharpe_ratio": -0.1857772817240847,
+      "total_trades": 2023,
+      "avg_trade_duration": 11.769649036085022
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7096994525872313,
+      "win_rate": 0.31157635467980294,
+      "max_drawdown": 0.008213072421820712,
+      "sharpe_ratio": -0.18803343893435964,
+      "total_trades": 812,
+      "avg_trade_duration": 30.997536945812808
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7109590804565857,
+      "win_rate": 0.31065759637188206,
+      "max_drawdown": 0.008187885557152478,
+      "sharpe_ratio": -0.18838798264164447,
+      "total_trades": 882,
+      "avg_trade_duration": 30.50453514739229
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7126544759677889,
+      "win_rate": 0.1866096866096866,
+      "max_drawdown": 0.008285478750087245,
+      "sharpe_ratio": -0.18899024873871312,
+      "total_trades": 1404,
+      "avg_trade_duration": 17.31125356125356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7263540368204424,
+      "win_rate": 0.18676470588235294,
+      "max_drawdown": 0.008264343737220676,
+      "sharpe_ratio": -0.192668826765912,
+      "total_trades": 1360,
+      "avg_trade_duration": 17.426470588235293
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6002829415040378,
+      "win_rate": 0.41192982456140353,
+      "max_drawdown": 0.006690549860210493,
+      "sharpe_ratio": -0.19496721354125288,
+      "total_trades": 1425,
+      "avg_trade_duration": 18.76140350877193
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6012477912952563,
+      "win_rate": 0.4102384291725105,
+      "max_drawdown": 0.006624313426438875,
+      "sharpe_ratio": -0.19528639774902595,
+      "total_trades": 1426,
+      "avg_trade_duration": 18.65007012622721
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6011377637162418,
+      "win_rate": 0.40805860805860805,
+      "max_drawdown": 0.0067478805018552955,
+      "sharpe_ratio": -0.19529546224942962,
+      "total_trades": 1365,
+      "avg_trade_duration": 18.428571428571427
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7405695389245848,
+      "win_rate": 0.18108974358974358,
+      "max_drawdown": 0.008305823436759502,
+      "sharpe_ratio": -0.19645525232787894,
+      "total_trades": 1248,
+      "avg_trade_duration": 17.700320512820515
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.5399871980732995,
+      "win_rate": 0.2635486265775798,
+      "max_drawdown": 0.006220011241709717,
+      "sharpe_ratio": -0.19662561501694256,
+      "total_trades": 1347,
+      "avg_trade_duration": 11.403118040089087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6110910490198296,
+      "win_rate": 0.4069602272727273,
+      "max_drawdown": 0.006649214761247499,
+      "sharpe_ratio": -0.19852623833070998,
+      "total_trades": 1408,
+      "avg_trade_duration": 18.600852272727273
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7696583564846926,
+      "win_rate": 0.30148048452220727,
+      "max_drawdown": 0.008276154329142077,
+      "sharpe_ratio": -0.20404262494993153,
+      "total_trades": 743,
+      "avg_trade_duration": 31.567967698519517
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.7765530235278262,
+      "win_rate": 0.3434704830053667,
+      "max_drawdown": 0.008436888716941237,
+      "sharpe_ratio": -0.20589485326025908,
+      "total_trades": 1118,
+      "avg_trade_duration": 23.89087656529517
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6433755416618614,
+      "win_rate": 0.40466278101582015,
+      "max_drawdown": 0.006913418997573379,
+      "sharpe_ratio": -0.20907445919903614,
+      "total_trades": 1201,
+      "avg_trade_duration": 18.642797668609493
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8797384465547564,
+      "win_rate": 0.5061946902654867,
+      "max_drawdown": 0.009263429802287618,
+      "sharpe_ratio": -0.20985950773053327,
+      "total_trades": 1695,
+      "avg_trade_duration": 13.71976401179941
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8811667725045824,
+      "win_rate": 0.5031374786081004,
+      "max_drawdown": 0.009285459042190925,
+      "sharpe_ratio": -0.21018111681632884,
+      "total_trades": 1753,
+      "avg_trade_duration": 13.90188248716486
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8840826631579146,
+      "win_rate": 0.5063782584581253,
+      "max_drawdown": 0.00940028567083472,
+      "sharpe_ratio": -0.21090158788858726,
+      "total_trades": 1803,
+      "avg_trade_duration": 13.635607321131447
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.7966726551031367,
+      "win_rate": 0.3392670157068063,
+      "max_drawdown": 0.008529019397885475,
+      "sharpe_ratio": -0.2112748383942689,
+      "total_trades": 955,
+      "avg_trade_duration": 24.24607329842932
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.7981175790313766,
+      "win_rate": 0.16763565891472867,
+      "max_drawdown": 0.00844129038767496,
+      "sharpe_ratio": -0.21192421760919877,
+      "total_trades": 1032,
+      "avg_trade_duration": 16.724806201550386
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8914756117984202,
+      "win_rate": 0.501952035694367,
+      "max_drawdown": 0.00937437957381631,
+      "sharpe_ratio": -0.21264911039633755,
+      "total_trades": 1793,
+      "avg_trade_duration": 13.881762409369772
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8931457029878076,
+      "win_rate": 0.5036789297658862,
+      "max_drawdown": 0.009350722781177061,
+      "sharpe_ratio": -0.2130993729124183,
+      "total_trades": 1495,
+      "avg_trade_duration": 13.749163879598662
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8025629060375183,
+      "win_rate": 0.16698656429942418,
+      "max_drawdown": 0.008485723039581079,
+      "sharpe_ratio": -0.21310950830664477,
+      "total_trades": 1042,
+      "avg_trade_duration": 16.66506717850288
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8043274367386277,
+      "win_rate": 0.16634799235181644,
+      "max_drawdown": 0.008503360162409065,
+      "sharpe_ratio": -0.21358184082064877,
+      "total_trades": 1046,
+      "avg_trade_duration": 16.634799235181646
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8966978549836302,
+      "win_rate": 0.5013896609227348,
+      "max_drawdown": 0.009409946931495432,
+      "sharpe_ratio": -0.21390582185852416,
+      "total_trades": 1799,
+      "avg_trade_duration": 13.918843802112285
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 0.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8079101742324957,
+      "win_rate": 0.16567460317460317,
+      "max_drawdown": 0.008546894219295815,
+      "sharpe_ratio": -0.21456085081757797,
+      "total_trades": 1008,
+      "avg_trade_duration": 16.865079365079364
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.9171472461627528,
+      "win_rate": 0.4980891719745223,
+      "max_drawdown": 0.009538581993860668,
+      "sharpe_ratio": -0.218844161112606,
+      "total_trades": 1570,
+      "avg_trade_duration": 13.773885350318471
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8389980304340128,
+      "win_rate": 0.27617602427921095,
+      "max_drawdown": 0.008694295497535181,
+      "sharpe_ratio": -0.22263858674402798,
+      "total_trades": 659,
+      "avg_trade_duration": 30.371775417298938
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.840184283614176,
+      "win_rate": 0.42323651452282157,
+      "max_drawdown": 0.008830369782708845,
+      "sharpe_ratio": -0.2227520924746529,
+      "total_trades": 723,
+      "avg_trade_duration": 33.65145228215768
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.6867301722174757,
+      "win_rate": 0.3964984552008239,
+      "max_drawdown": 0.007003659211084224,
+      "sharpe_ratio": -0.22339219904927612,
+      "total_trades": 971,
+      "avg_trade_duration": 18.316168898043255
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8428183438928483,
+      "win_rate": 0.27445255474452557,
+      "max_drawdown": 0.00873248690796409,
+      "sharpe_ratio": -0.2236232552978136,
+      "total_trades": 685,
+      "avg_trade_duration": 29.26277372262774
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8450568678187942,
+      "win_rate": 0.3291298865069357,
+      "max_drawdown": 0.008748653423125663,
+      "sharpe_ratio": -0.2243089699548893,
+      "total_trades": 793,
+      "avg_trade_duration": 23.978562421185373
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8472244090439007,
+      "win_rate": 0.2735703245749614,
+      "max_drawdown": 0.008766333332241758,
+      "sharpe_ratio": -0.22484606007242602,
+      "total_trades": 647,
+      "avg_trade_duration": 30.36321483771252
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8544284166212002,
+      "win_rate": 0.42047026279391425,
+      "max_drawdown": 0.00898827354170658,
+      "sharpe_ratio": -0.22655263932305783,
+      "total_trades": 723,
+      "avg_trade_duration": 33.58921161825726
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.8696057113049327,
+      "win_rate": 0.5621546961325967,
+      "max_drawdown": 0.009135251751434063,
+      "sharpe_ratio": -0.2273661743546202,
+      "total_trades": 724,
+      "avg_trade_duration": 33.28729281767956
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8580588647438603,
+      "win_rate": 0.4191279887482419,
+      "max_drawdown": 0.00899255595298479,
+      "sharpe_ratio": -0.22755499655748834,
+      "total_trades": 711,
+      "avg_trade_duration": 33.9803094233474
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8586437939621105,
+      "win_rate": 0.3246753246753247,
+      "max_drawdown": 0.00883696315588117,
+      "sharpe_ratio": -0.2279711457960491,
+      "total_trades": 770,
+      "avg_trade_duration": 24.01948051948052
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8597546735153783,
+      "win_rate": 0.4206008583690987,
+      "max_drawdown": 0.009006998263617382,
+      "sharpe_ratio": -0.22801968421429386,
+      "total_trades": 699,
+      "avg_trade_duration": 34.28469241773963
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8742016569245115,
+      "win_rate": 0.49833333333333335,
+      "max_drawdown": 0.009088508701709224,
+      "sharpe_ratio": -0.22857292699426673,
+      "total_trades": 600,
+      "avg_trade_duration": 44.3
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8783884373857465,
+      "win_rate": 0.49353049907578556,
+      "max_drawdown": 0.009000671688431511,
+      "sharpe_ratio": -0.22967164512655477,
+      "total_trades": 541,
+      "avg_trade_duration": 46.377079482439925
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.878590282554903,
+      "win_rate": 0.5607094133697135,
+      "max_drawdown": 0.00920521730890797,
+      "sharpe_ratio": -0.22974401319556478,
+      "total_trades": 733,
+      "avg_trade_duration": 33.0900409276944
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8737035277093685,
+      "win_rate": 0.4057507987220447,
+      "max_drawdown": 0.009205691417506335,
+      "sharpe_ratio": -0.23174187697568308,
+      "total_trades": 626,
+      "avg_trade_duration": 32.412140575079874
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8812021917230295,
+      "win_rate": 0.36258278145695366,
+      "max_drawdown": 0.009295479496921994,
+      "sharpe_ratio": -0.2337144023472091,
+      "total_trades": 604,
+      "avg_trade_duration": 42.723509933774835
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8831000266304012,
+      "win_rate": 0.41656050955414015,
+      "max_drawdown": 0.009211996651539808,
+      "sharpe_ratio": -0.23426719394362716,
+      "total_trades": 785,
+      "avg_trade_duration": 33.36305732484077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.8853901700122901,
+      "win_rate": 0.4031746031746032,
+      "max_drawdown": 0.009322502587622157,
+      "sharpe_ratio": -0.23485971638913908,
+      "total_trades": 630,
+      "avg_trade_duration": 32.29365079365079
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.9839465935295832,
+      "win_rate": 0.4816924328722539,
+      "max_drawdown": 0.010229203394807358,
+      "sharpe_ratio": -0.23502086983834913,
+      "total_trades": 1229,
+      "avg_trade_duration": 13.494711147274206
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0
+    },
+    "metrics": {
+      "profit_loss": -0.9024702921704542,
+      "win_rate": 0.49585406301824214,
+      "max_drawdown": 0.009330630393698714,
+      "sharpe_ratio": -0.23607599527946238,
+      "total_trades": 603,
+      "avg_trade_duration": 44.5771144278607
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.8911913768728574,
+      "win_rate": 0.35914332784184516,
+      "max_drawdown": 0.009387270639599668,
+      "sharpe_ratio": -0.2364097641955159,
+      "total_trades": 607,
+      "avg_trade_duration": 43.039538714991764
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9098224456374759,
+      "win_rate": 0.5548705302096177,
+      "max_drawdown": 0.00942416479958661,
+      "sharpe_ratio": -0.23804803543598496,
+      "total_trades": 811,
+      "avg_trade_duration": 33.027127003699135
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7383037986610108,
+      "win_rate": 0.49130434782608695,
+      "max_drawdown": 0.007749816617674031,
+      "sharpe_ratio": -0.23977340925718166,
+      "total_trades": 920,
+      "avg_trade_duration": 25.472826086956523
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9166723656312215,
+      "win_rate": 0.5472636815920398,
+      "max_drawdown": 0.009430621367505124,
+      "sharpe_ratio": -0.23984268877931356,
+      "total_trades": 603,
+      "avg_trade_duration": 33.059701492537314
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9046723032699266,
+      "win_rate": 0.33657587548638135,
+      "max_drawdown": 0.00943103614530553,
+      "sharpe_ratio": -0.23992258657332374,
+      "total_trades": 514,
+      "avg_trade_duration": 41.7704280155642
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9179773577707384,
+      "win_rate": 0.5503105590062112,
+      "max_drawdown": 0.009547550988547208,
+      "sharpe_ratio": -0.2401890324948181,
+      "total_trades": 805,
+      "avg_trade_duration": 32.5527950310559
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7425634181868812,
+      "win_rate": 0.48936170212765956,
+      "max_drawdown": 0.00784169061229057,
+      "sharpe_ratio": -0.24123379987147223,
+      "total_trades": 893,
+      "avg_trade_duration": 25.543113101903696
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9111893275461802,
+      "win_rate": 0.35353535353535354,
+      "max_drawdown": 0.009592854013251375,
+      "sharpe_ratio": -0.241649685937057,
+      "total_trades": 594,
+      "avg_trade_duration": 41.94444444444444
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9240805142340158,
+      "win_rate": 0.4351648351648352,
+      "max_drawdown": 0.009617072308784688,
+      "sharpe_ratio": -0.24175724213940938,
+      "total_trades": 455,
+      "avg_trade_duration": 58.72527472527472
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9299386858984238,
+      "win_rate": 0.547077922077922,
+      "max_drawdown": 0.009563308920308645,
+      "sharpe_ratio": -0.2433025697029273,
+      "total_trades": 616,
+      "avg_trade_duration": 33.10064935064935
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.0469096354377427,
+      "win_rate": 0.6489547038327527,
+      "max_drawdown": 0.010746170672342382,
+      "sharpe_ratio": -0.24345781950809345,
+      "total_trades": 1148,
+      "avg_trade_duration": 23.29703832752613
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9313254891543887,
+      "win_rate": 0.5471698113207547,
+      "max_drawdown": 0.009740688612406947,
+      "sharpe_ratio": -0.2437117646581532,
+      "total_trades": 795,
+      "avg_trade_duration": 33.0125786163522
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9188142141566047,
+      "win_rate": 0.3619344773790952,
+      "max_drawdown": 0.009644030942392103,
+      "sharpe_ratio": -0.24378954651067264,
+      "total_trades": 641,
+      "avg_trade_duration": 42.106084243369736
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9233197469006083,
+      "win_rate": 0.33270676691729323,
+      "max_drawdown": 0.009617438262793135,
+      "sharpe_ratio": -0.24487114661463089,
+      "total_trades": 532,
+      "avg_trade_duration": 40.234962406015036
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9385406620078252,
+      "win_rate": 0.5458937198067633,
+      "max_drawdown": 0.009649305765788896,
+      "sharpe_ratio": -0.24558195521961743,
+      "total_trades": 621,
+      "avg_trade_duration": 32.987117552334944
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7560600848970034,
+      "win_rate": 0.4863773965691221,
+      "max_drawdown": 0.00793492808358278,
+      "sharpe_ratio": -0.24563886590340595,
+      "total_trades": 991,
+      "avg_trade_duration": 25.14127144298688
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7564330911986938,
+      "win_rate": 0.4885799404170804,
+      "max_drawdown": 0.007916518834819631,
+      "sharpe_ratio": -0.2457449784229717,
+      "total_trades": 1007,
+      "avg_trade_duration": 25.784508440913605
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.0581777583872465,
+      "win_rate": 0.6442220200181984,
+      "max_drawdown": 0.01085731487838866,
+      "sharpe_ratio": -0.2460956424816093,
+      "total_trades": 1099,
+      "avg_trade_duration": 23.466787989080984
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9408501682496517,
+      "win_rate": 0.4344086021505376,
+      "max_drawdown": 0.009778817112778936,
+      "sharpe_ratio": -0.24620092902067975,
+      "total_trades": 465,
+      "avg_trade_duration": 58.10752688172043
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7597975659336398,
+      "win_rate": 0.4876360039564787,
+      "max_drawdown": 0.00795015164258072,
+      "sharpe_ratio": -0.24684399016685632,
+      "total_trades": 1011,
+      "avg_trade_duration": 25.618199802176065
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.9471917608088742,
+      "win_rate": 0.5441412520064205,
+      "max_drawdown": 0.009735793707322716,
+      "sharpe_ratio": -0.24786374876363207,
+      "total_trades": 623,
+      "avg_trade_duration": 33.18619582664527
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9481425925833897,
+      "win_rate": 0.40601503759398494,
+      "max_drawdown": 0.00975206066573474,
+      "sharpe_ratio": -0.24800415370255258,
+      "total_trades": 399,
+      "avg_trade_duration": 58.909774436090224
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7639353092579015,
+      "win_rate": 0.4832347140039448,
+      "max_drawdown": 0.008001818572953807,
+      "sharpe_ratio": -0.24824995282905277,
+      "total_trades": 1014,
+      "avg_trade_duration": 25.44871794871795
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.950203145959827,
+      "win_rate": 0.43187066974595845,
+      "max_drawdown": 0.009791203721797868,
+      "sharpe_ratio": -0.24864054273637012,
+      "total_trades": 433,
+      "avg_trade_duration": 59.09930715935335
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.069230754538697,
+      "win_rate": 0.6349206349206349,
+      "max_drawdown": 0.010975628680693081,
+      "sharpe_ratio": -0.24872128673741362,
+      "total_trades": 819,
+      "avg_trade_duration": 23.58974358974359
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9557270224282433,
+      "win_rate": 0.4305239179954442,
+      "max_drawdown": 0.009849563343718035,
+      "sharpe_ratio": -0.25008633713481965,
+      "total_trades": 439,
+      "avg_trade_duration": 59.054669703872435
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.1,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.0789428507310905,
+      "win_rate": 0.639344262295082,
+      "max_drawdown": 0.011064780730916218,
+      "sharpe_ratio": -0.25100515983987054,
+      "total_trades": 1098,
+      "avg_trade_duration": 23.48816029143898
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9642123355856902,
+      "win_rate": 0.4025,
+      "max_drawdown": 0.009912714189153368,
+      "sharpe_ratio": -0.2522587230393832,
+      "total_trades": 400,
+      "avg_trade_duration": 57.9125
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.0875852016195897,
+      "win_rate": 0.6330049261083743,
+      "max_drawdown": 0.011159120587443125,
+      "sharpe_ratio": -0.2530467290138053,
+      "total_trades": 812,
+      "avg_trade_duration": 23.571428571428573
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.3,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.0945420524102079,
+      "win_rate": 0.6427850655903128,
+      "max_drawdown": 0.011232401606498863,
+      "sharpe_ratio": -0.2546372530141132,
+      "total_trades": 991,
+      "avg_trade_duration": 23.420787083753783
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5
+    },
+    "metrics": {
+      "profit_loss": -0.9755822283833426,
+      "win_rate": 0.39746835443037976,
+      "max_drawdown": 0.010026322396071928,
+      "sharpe_ratio": -0.25529177483960724,
+      "total_trades": 395,
+      "avg_trade_duration": 57.46835443037975
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -1.1003938515397715,
+      "win_rate": 0.628463476070529,
+      "max_drawdown": 0.011287110825160592,
+      "sharpe_ratio": -0.2560712349906302,
+      "total_trades": 794,
+      "avg_trade_duration": 23.734256926952142
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.7931845917014124,
+      "win_rate": 0.5865533230293664,
+      "max_drawdown": 0.00821338572145013,
+      "sharpe_ratio": -0.2560824505910039,
+      "total_trades": 1294,
+      "avg_trade_duration": 18.85239567233385
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8031049829932413,
+      "win_rate": 0.5827664399092971,
+      "max_drawdown": 0.008310238562783553,
+      "sharpe_ratio": -0.25928332241873575,
+      "total_trades": 1323,
+      "avg_trade_duration": 19.074074074074073
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7982392660616511,
+      "win_rate": 0.4688311688311688,
+      "max_drawdown": 0.008410043566679303,
+      "sharpe_ratio": -0.25949445628920126,
+      "total_trades": 770,
+      "avg_trade_duration": 24.876623376623378
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.7987614945183408,
+      "win_rate": 0.4683053040103493,
+      "max_drawdown": 0.00841526359996076,
+      "sharpe_ratio": -0.25966325925447237,
+      "total_trades": 773,
+      "avg_trade_duration": 24.902975420439844
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.5
+    },
+    "metrics": {
+      "profit_loss": -0.8073439499129198,
+      "win_rate": 0.46390374331550804,
+      "max_drawdown": 0.008440328634885192,
+      "sharpe_ratio": -0.26253043831753986,
+      "total_trades": 748,
+      "avg_trade_duration": 24.939839572192515
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.02,
+      "MIN_CONFIDENCE": 0.2,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8172637738850907,
+      "win_rate": 0.5812734082397004,
+      "max_drawdown": 0.008429719072649555,
+      "sharpe_ratio": -0.2638614837637849,
+      "total_trades": 1335,
+      "avg_trade_duration": 19.228464419475657
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8405423256677147,
+      "win_rate": 0.5667351129363449,
+      "max_drawdown": 0.008713614768831158,
+      "sharpe_ratio": -0.27162103818716277,
+      "total_trades": 974,
+      "avg_trade_duration": 18.706365503080082
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.01,
+      "MIN_CONFIDENCE": 0.4,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 1.0
+    },
+    "metrics": {
+      "profit_loss": -0.8593733532515135,
+      "win_rate": 0.5619918699186992,
+      "max_drawdown": 0.008938747725178412,
+      "sharpe_ratio": -0.2777211073405904,
+      "total_trades": 984,
+      "avg_trade_duration": 18.75
+    }
+  }
+]

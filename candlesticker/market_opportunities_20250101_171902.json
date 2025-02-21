@@ -1,0 +1,235 @@
+{
+  "generated_at": "2025-01-01T17:19:02.585059",
+  "scan_focus": "Emerging Opportunities",
+  "opportunities": [
+    {
+      "symbol": "BEST",
+      "mention_count": 5,
+      "sentiment_score": 4,
+      "catalysts": [
+        "expansion",
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Why Is Phillips Edison & Company, Inc. (PECO) Among the Best Stocks That Pay Monthly Dividends in 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T10:34:49Z",
+          "url": "https://finance.yahoo.com/news/why-phillips-edison-company-inc-103449452.html"
+        },
+        {
+          "title": "Oracle Corp. (ORCL): Should You Invest In This Enterprise Software Stock Right Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-27T09:30:18Z",
+          "url": "https://finance.yahoo.com/news/oracle-corp-orcl-invest-enterprise-093018295.html"
+        },
+        {
+          "title": "Is Verizon Communications (VZ) One of the Best Stocks to Buy and Hold for 3 Years?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-23T14:36:54Z",
+          "url": "https://finance.yahoo.com/news/verizon-communications-vz-one-best-143654986.html"
+        }
+      ]
+    },
+    {
+      "symbol": "TESLA",
+      "mention_count": 4,
+      "sentiment_score": 4,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Jim Cramer on Tesla, Inc (TSLA): \u2018Shares Of Tesla Are Down About 13% Year To Date\u2019",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T05:18:07Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tesla-inc-tsla-051807610.html"
+        },
+        {
+          "title": "Tesla\u2019s stock surge means even the biggest bulls are showing some restraint",
+          "source": "MarketWatch",
+          "date": "2024-12-17T13:28:00Z",
+          "url": "https://www.marketwatch.com/story/teslas-stock-surge-means-even-the-biggest-bulls-are-showing-some-restraint-e71ddb02"
+        },
+        {
+          "title": "Tesla Stock Closes At New Record High As Shares Surge 6%",
+          "source": "Forbes",
+          "date": "2024-12-11T21:17:21Z",
+          "url": "https://www.forbes.com/sites/tylerroush/2024/12/11/tesla-stock-closes-at-new-record-high-as-shares-surge-6/"
+        }
+      ]
+    },
+    {
+      "symbol": "TODAY",
+      "mention_count": 3,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion",
+        "short_squeeze",
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Stock market today: Dow ekes out gains, bitcoin slumps as 'Santa Claus' rally takes a pause",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-26T17:52:35Z",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-ekes-out-gains-bitcoin-slumps-as-santa-claus-rally-takes-a-pause-175235354.html"
+        },
+        {
+          "title": "Top Cheap Stocks Under $10 to Buy for Big Gains in 2025",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-17T19:58:00Z",
+          "url": "https://finance.yahoo.com/news/top-cheap-stocks-under-10-195800730.html"
+        },
+        {
+          "title": "Stock Market Today: Nasdaq Outperforms After Jobs Data; Coinbase Snaps Back (Live Coverage)",
+          "source": "Investor's Business Daily",
+          "date": "2024-12-06T17:13:36Z",
+          "url": "https://www.investors.com/market-trend/stock-market-today/nasdaq-sp500-dow-jones-lululemon-stock-tesla-stock/"
+        }
+      ]
+    },
+    {
+      "symbol": "ITS",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "expansion",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "A tiny fintech stock is up 4,700% in 2 days after taking a stake in a company involved with Israel's Iron Dome missile system",
+          "source": "Business Insider",
+          "date": "2024-12-18T19:45:51Z",
+          "url": "https://markets.businessinsider.com/news/stocks/nukkleus-stock-price-soars-israel-iron-dome-deal-supplier-nukk-2024-12"
+        },
+        {
+          "title": "Archer Aviation Rockets Ahead: $500M Deal and FAA Milestones Fuel 184% Stock Surge",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-02T14:43:26Z",
+          "url": "https://finance.yahoo.com/news/archer-aviation-rockets-ahead-500m-144326697.html"
+        }
+      ]
+    },
+    {
+      "symbol": "AHEAD",
+      "mention_count": 2,
+      "sentiment_score": 3,
+      "catalysts": [
+        "partnership",
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Jim Cramer on Advanced Micro Devices, Inc. (AMD): \u2018I Think It\u2019s A Buy Ahead Of The Meeting\u2019",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-16T22:38:10Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-advanced-micro-devices-223810108.html"
+        },
+        {
+          "title": "Archer Aviation Rockets Ahead: $500M Deal and FAA Milestones Fuel 184% Stock Surge",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-02T14:43:26Z",
+          "url": "https://finance.yahoo.com/news/archer-aviation-rockets-ahead-500m-144326697.html"
+        }
+      ]
+    },
+    {
+      "symbol": "PER",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "earnings",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "35-Year-Old Dividend Investor Hits Nearly $1,000 Per Month, Shares His 10 Stock Picks \u2013 'I'm Quite Happy With That'",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T16:30:12Z",
+          "url": "https://finance.yahoo.com/news/35-old-dividend-investor-hits-163012943.html"
+        },
+        {
+          "title": "Salesforce stock jumps over 9% after strong fiscal 2025 guidance",
+          "source": "Quartz India",
+          "date": "2024-12-04T18:30:00Z",
+          "url": "https://qz.com/salesforce-stock-jump-fiscal-third-quarter-ai-agents-1851713563"
+        }
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "mention_count": 2,
+      "sentiment_score": 1,
+      "catalysts": [
+        "acquisition"
+      ],
+      "recent_mentions": [
+        {
+          "title": "A year in wealth: The biggest billionaire winners and losers of 2024",
+          "source": "Business Insider",
+          "date": "2024-12-28T10:07:01Z",
+          "url": "https://www.businessinsider.com/billionaire-winners-losers-worth-elon-musk-bernard-arnault-mark-zuckerberg-2024-12"
+        },
+        {
+          "title": "Jim Cramer on Advanced Micro Devices, Inc. (AMD): \u2018I Think It\u2019s A Buy Ahead Of The Meeting\u2019",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-16T22:38:10Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-advanced-micro-devices-223810108.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ONE",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Steve Ballmer is richer than Warren Buffett. But his portfolio depends mostly on one stock.",
+          "source": "Business Insider",
+          "date": "2024-12-23T07:04:48Z",
+          "url": "https://www.businessinsider.com/steve-ballmer-portfolio-microsoft-less-private-equity-stock-diversification-investing-2024-12"
+        },
+        {
+          "title": "Trump Media stock didn't rally after the election. Here's why",
+          "source": "Quartz India",
+          "date": "2024-12-05T10:00:00Z",
+          "url": "https://qz.com/trump-media-djt-stock-election-win-month-performance-1851708231"
+        }
+      ]
+    },
+    {
+      "symbol": "AI",
+      "mention_count": 5,
+      "sentiment_score": -1,
+      "catalysts": [
+        "earnings",
+        "partnership",
+        "acquisition",
+        "expansion"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Jim Cramer on Tesla, Inc (TSLA): \u2018Shares Of Tesla Are Down About 13% Year To Date\u2019",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T05:18:07Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tesla-inc-tsla-051807610.html"
+        },
+        {
+          "title": "Tesla, Inc.\u00a0(TSLA): AI and Autonomous Driving Drive Long-Term Bull Case Amid Q4 Delivery Projections",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-26T15:35:34Z",
+          "url": "https://finance.yahoo.com/news/tesla-inc-tsla-ai-autonomous-153534984.html"
+        },
+        {
+          "title": "We asked 5 AI chatbots to pick stocks for 2025. Here's what they said",
+          "source": "Quartz India",
+          "date": "2024-12-19T19:37:00Z",
+          "url": "https://qz.com/ai-chatbot-prediction-stocks-2025-chatgpt-gemini-meta-1851725553"
+        }
+      ]
+    }
+  ]
+}

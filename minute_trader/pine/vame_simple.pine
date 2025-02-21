@@ -1,0 +1,72 @@
+//@version=6
+indicator('VAME Strategy', overlay=true)
+
+// Core parameters
+currentWindow = input.int(16, 'Current Window')
+historicalWindow = input.int(400, 'Historical Window')
+mfiLevel = input.int(30, 'MFI Level')
+
+// Volatility regime
+tr = ta.tr
+trPct = (tr / close) * 100
+currentVol = ta.sma(trPct, currentWindow)
+historicalVol = ta.sma(trPct, historicalWindow)
+historicalStd = ta.stdev(trPct, historicalWindow)
+volThreshold = historicalVol + historicalStd
+currentRet = ta.change(close) / close[1]
+
+isHighVol = currentVol > volThreshold
+isBullish = currentRet > 0
+isBearish = currentRet <= 0
+
+// Indicators
+vwap = ta.vwap
+mfi = ta.mfi(hlc3, 14)  // Fixed: Using only 2 parameters
+obv = ta.obv  // Fixed: No parameters needed in Pine Script
+obvChange = ta.change(obv)
+
+// Trading conditions
+isPriceBelowVWAP = close < vwap
+isOBVFalling = obvChange < 0
+isMFIOversold = mfi < mfiLevel
+
+// Entry/Exit signals
+entrySignal = isHighVol and isPriceBelowVWAP and isOBVFalling and isMFIOversold
+exitSignal = close > vwap or mfi > 70
+
+// Plotting
+plot(vwap, 'VWAP', color=color.blue, linewidth=2)
+
+plotshape(entrySignal, 'Entry', style=shape.triangleup, 
+          location=location.belowbar, color=color.green, size=size.small)
+plotshape(exitSignal, 'Exit', style=shape.triangledown, 
+          location=location.abovebar, color=color.red, size=size.small)
+
+// Status table
+if barstate.islast
+    var table statusTable = table.new(position.top_right, 2, 5)
+    table.cell(statusTable, 0, 0, 'High Vol', bgcolor=color.gray)
+    table.cell(statusTable, 1, 0, isHighVol ? 'Yes' : 'No', 
+               bgcolor=isHighVol ? color.green : color.red)
+    
+    table.cell(statusTable, 0, 1, 'VWAP', bgcolor=color.gray)
+    table.cell(statusTable, 1, 1, isPriceBelowVWAP ? 'Below' : 'Above',
+               bgcolor=isPriceBelowVWAP ? color.red : color.green)
+    
+    table.cell(statusTable, 0, 2, 'MFI', bgcolor=color.gray)
+    table.cell(statusTable, 1, 2, str.tostring(mfi, '#.0'),
+               bgcolor=isMFIOversold ? color.green : color.gray)
+    
+    table.cell(statusTable, 0, 3, 'OBV', bgcolor=color.gray)
+    table.cell(statusTable, 1, 3, isOBVFalling ? 'Falling' : 'Rising',
+               bgcolor=isOBVFalling ? color.red : color.green)
+    
+    table.cell(statusTable, 0, 4, 'Signal', bgcolor=color.gray)
+    table.cell(statusTable, 1, 4, entrySignal ? 'ENTRY' :
+                                 exitSignal ? 'EXIT' : 'WAIT',
+               bgcolor=entrySignal ? color.green :
+                      exitSignal ? color.red : color.gray)
+
+// Alerts
+alertcondition(entrySignal, 'Entry Signal', 'VAME Entry')
+alertcondition(exitSignal, 'Exit Signal', 'VAME Exit')

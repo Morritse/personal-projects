@@ -1,0 +1,32 @@
+{
+  "generated_at": "2025-01-01T17:47:45.678621",
+  "scan_focus": "Emerging Opportunities",
+  "opportunities": [
+    {
+      "symbol": "TESLA",
+      "mention_count": 4,
+      "sentiment_score": 4,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Jim Cramer on Tesla, Inc (TSLA): \u2018Shares Of Tesla Are Down About 13% Year To Date\u2019",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T05:18:07Z",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tesla-inc-tsla-051807610.html"
+        },
+        {
+          "title": "Tesla\u2019s stock surge means even the biggest bulls are showing some restraint",
+          "source": "MarketWatch",
+          "date": "2024-12-17T13:28:00Z",
+          "url": "https://www.marketwatch.com/story/teslas-stock-surge-means-even-the-biggest-bulls-are-showing-some-restraint-e71ddb02"
+        },
+        {
+          "title": "Tesla Stock Closes At New Record High As Shares Surge 6%",
+          "source": "Forbes",
+          "date": "2024-12-11T21:17:21Z",
+          "url": "https://www.forbes.com/sites/tylerroush/2024/12/11/tesla-stock-closes-at-new-record-high-as-shares-surge-6/"
+        }
+      ]
+    }
+  ]
+}

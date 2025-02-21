@@ -1,0 +1,944 @@
+{
+  "metadata": {
+    "last_updated": "2025-01-02T11:12:30.492588",
+    "total_symbols_analyzed": 18
+  },
+  "by_category": {
+    "overall_score": [
+      {
+        "symbol": "VCIG",
+        "score": 0.8342463147398724,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 0.6209775776693387,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 0.5353551971965289,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.5273482388756257,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "IYH",
+        "score": 0.4788164144029136,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "CHAU",
+        "score": 0.41614091243026785,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.39917130315030225,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.3789421618620722,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "GSG",
+        "score": 0.3492759042927364,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.2688577031553169,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.2674628330059485,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.24904376506923034,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.2407018728069612,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.2392786208686259,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.22696756247792524,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.22455669877817575,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.21045564077915271,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.20722602025545317,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ],
+    "volatility": [
+      {
+        "symbol": "VCIG",
+        "score": 10.0,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "CHAU",
+        "score": 6.0725,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 2.4499999999999997,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 1.5474999999999999,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.7,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.52,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "GSG",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "IYH",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ],
+    "momentum": [
+      {
+        "symbol": "CHAU",
+        "score": 5.6,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "VCIG",
+        "score": 2.1,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "GSG",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 0.7,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.7,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.7,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "IYH",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ],
+    "volume_patterns": [
+      {
+        "symbol": "GSG",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "VCIG",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "IYH",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "CHAU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ],
+    "price_patterns": [
+      {
+        "symbol": "VCIG",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "GSG",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "IYH",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "CHAU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ],
+    "correlation_patterns": [
+      {
+        "symbol": "IYH",
+        "score": 2.0,
+        "timestamp": "2025-01-02T10:57:12.324373"
+      },
+      {
+        "symbol": "GSG",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:08:19.843905"
+      },
+      {
+        "symbol": "REPL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:14:33.524470"
+      },
+      {
+        "symbol": "GOVXW",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:15:00.091856"
+      },
+      {
+        "symbol": "BWMN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:17:20.745332"
+      },
+      {
+        "symbol": "MIDU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:21:27.512959"
+      },
+      {
+        "symbol": "CWST",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:24:51.618038"
+      },
+      {
+        "symbol": "AOSL",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:29:01.083011"
+      },
+      {
+        "symbol": "SECT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:31:56.888262"
+      },
+      {
+        "symbol": "PDYN",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:36:12.614676"
+      },
+      {
+        "symbol": "BEAM",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:41:07.197734"
+      },
+      {
+        "symbol": "VCIG",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:42:40.409789"
+      },
+      {
+        "symbol": "STRT",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:44:45.649310"
+      },
+      {
+        "symbol": "SXTC",
+        "score": 0.0,
+        "timestamp": "2025-01-02T10:54:02.410084"
+      },
+      {
+        "symbol": "SPHY",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:01:05.946279"
+      },
+      {
+        "symbol": "ACON",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:03:34.958174"
+      },
+      {
+        "symbol": "CHAU",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:08:41.331798"
+      },
+      {
+        "symbol": "CQP",
+        "score": 0.0,
+        "timestamp": "2025-01-02T11:12:30.491992"
+      }
+    ]
+  },
+  "symbols_history": {
+    "GSG": [
+      {
+        "timestamp": "2025-01-02T10:08:19.843905",
+        "scores": {
+          "overall_score": 0.3492759042927364,
+          "volatility": 0.0,
+          "momentum": 2.0,
+          "volume_patterns": 2.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Strong autocorrelation at lag 40: 0.22 (z-score: 2.79)",
+            "Extreme entropy in volume_value__binned_entropy__max_bins_10: 0.48 (z-score: 2.55)"
+          ]
+        }
+      }
+    ],
+    "REPL": [
+      {
+        "timestamp": "2025-01-02T10:14:33.524470",
+        "scores": {
+          "overall_score": 0.24904376506923034,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "GOVXW": [
+      {
+        "timestamp": "2025-01-02T10:15:00.091856",
+        "scores": {
+          "overall_score": 0.5353551971965289,
+          "volatility": 1.5474999999999999,
+          "momentum": 0.7,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_3: 0.00 (z-score: 8.13)",
+            "Strong autocorrelation at lag 5: 0.05 (z-score: 2.19)"
+          ]
+        }
+      }
+    ],
+    "BWMN": [
+      {
+        "timestamp": "2025-01-02T10:17:20.745332",
+        "scores": {
+          "overall_score": 0.22455669877817575,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "MIDU": [
+      {
+        "timestamp": "2025-01-02T10:21:27.512959",
+        "scores": {
+          "overall_score": 0.22696756247792524,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "CWST": [
+      {
+        "timestamp": "2025-01-02T10:24:51.618038",
+        "scores": {
+          "overall_score": 0.2392786208686259,
+          "volatility": 0.52,
+          "momentum": 0.7,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Strong autocorrelation at lag 9: -0.13 (z-score: -2.08)"
+          ]
+        }
+      }
+    ],
+    "AOSL": [
+      {
+        "timestamp": "2025-01-02T10:29:01.083011",
+        "scores": {
+          "overall_score": 0.21045564077915271,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "SECT": [
+      {
+        "timestamp": "2025-01-02T10:31:56.888262",
+        "scores": {
+          "overall_score": 0.2688577031553169,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "PDYN": [
+      {
+        "timestamp": "2025-01-02T10:36:12.614676",
+        "scores": {
+          "overall_score": 0.5273482388756257,
+          "volatility": 0.7,
+          "momentum": 0.7,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Strong autocorrelation at lag 6: -0.14 (z-score: -2.80)"
+          ]
+        }
+      }
+    ],
+    "BEAM": [
+      {
+        "timestamp": "2025-01-02T10:41:07.197734",
+        "scores": {
+          "overall_score": 0.2674628330059485,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "VCIG": [
+      {
+        "timestamp": "2025-01-02T10:42:40.409789",
+        "scores": {
+          "overall_score": 0.8342463147398724,
+          "volatility": 10.0,
+          "momentum": 2.1,
+          "volume_patterns": 2.0,
+          "price_patterns": 2.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [
+            "Extreme price range variability: 3.97x normal (z-score: 3.37)"
+          ],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Extreme energy in volume_value__abs_energy: 47781468120156760.00 (z-score: 2.46)",
+            "Strong autocorrelation at lag 2: -0.23 (z-score: -2.64)",
+            "Extreme energy in returns_value__abs_energy: 2801.96 (z-score: 8.79)",
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_1: 0.04 (z-score: 8.55)",
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_2: 0.01 (z-score: 2.92)",
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_3: 0.01 (z-score: 9.11)",
+            "Strong autocorrelation at lag 3: 0.29 (z-score: 3.44)",
+            "Extreme entropy in high_value__fourier_entropy__bins_10: 0.27 (z-score: 3.46)",
+            "Extreme entropy in high_value__fourier_entropy__bins_100: 1.14 (z-score: 5.10)",
+            "Strong autocorrelation at lag 9: 0.09 (z-score: 2.28)",
+            "Extreme entropy in low_value__fourier_entropy__bins_100: 0.74 (z-score: 3.13)"
+          ]
+        }
+      }
+    ],
+    "STRT": [
+      {
+        "timestamp": "2025-01-02T10:44:45.649310",
+        "scores": {
+          "overall_score": 0.2407018728069612,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "SXTC": [
+      {
+        "timestamp": "2025-01-02T10:54:02.410084",
+        "scores": {
+          "overall_score": 0.6209775776693387,
+          "volatility": 2.4499999999999997,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Extreme entropy in close_value__permutation_entropy__dimension_6__tau_1: 6.27 (z-score: 2.03)",
+            "Extreme entropy in close_value__permutation_entropy__dimension_7__tau_1: 7.85 (z-score: 2.44)",
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_2: -0.00 (z-score: -2.73)",
+            "Extreme time asymmetry in returns_value__time_reversal_asymmetry_statistic__lag_3: 0.00 (z-score: 2.60)"
+          ]
+        }
+      }
+    ],
+    "IYH": [
+      {
+        "timestamp": "2025-01-02T10:57:12.324373",
+        "scores": {
+          "overall_score": 0.4788164144029136,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 2.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 2.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [
+            "Extreme price-volume correlation: -0.33 (z-score: 2.67)"
+          ],
+          "notes": []
+        }
+      }
+    ],
+    "SPHY": [
+      {
+        "timestamp": "2025-01-02T11:01:05.946279",
+        "scores": {
+          "overall_score": 0.39917130315030225,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "ACON": [
+      {
+        "timestamp": "2025-01-02T11:03:34.958174",
+        "scores": {
+          "overall_score": 0.3789421618620722,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ],
+    "CHAU": [
+      {
+        "timestamp": "2025-01-02T11:08:41.331798",
+        "scores": {
+          "overall_score": 0.41614091243026785,
+          "volatility": 6.0725,
+          "momentum": 5.6,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": [
+            "Strong autocorrelation at lag 3: 0.42 (z-score: 2.48)",
+            "Strong autocorrelation at lag 4: 0.37 (z-score: 2.79)",
+            "Strong autocorrelation at lag 5: 0.34 (z-score: 2.91)",
+            "Strong autocorrelation at lag 6: 0.28 (z-score: 3.08)",
+            "Strong autocorrelation at lag 40: 0.31 (z-score: 3.98)",
+            "Strong autocorrelation at lag 40: 0.30 (z-score: 3.91)",
+            "Strong autocorrelation at lag 7: -0.20 (z-score: -2.59)",
+            "Strong autocorrelation at lag 9: 0.15 (z-score: 2.55)"
+          ]
+        }
+      }
+    ],
+    "CQP": [
+      {
+        "timestamp": "2025-01-02T11:12:30.491992",
+        "scores": {
+          "overall_score": 0.20722602025545317,
+          "volatility": 0.0,
+          "momentum": 0.0,
+          "volume_patterns": 0.0,
+          "price_patterns": 0.0,
+          "correlation_patterns": 0.0
+        },
+        "patterns": {
+          "major_patterns": [],
+          "regime_changes": [],
+          "correlations": [],
+          "notes": []
+        }
+      }
+    ]
+  }
+}

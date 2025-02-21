@@ -1,0 +1,96 @@
+{
+    "symbols": [
+        "JNJ", "AAPL", "TSLA", "NVDA", "AMD", "COIN", "META",
+        "GOOGL", "MSFT", "AMZN", "NFLX",
+        "CRM", "ADBE", "PYPL", "SQ",
+        "SNOW", "NET", "DDOG", "CRWD",
+        "SHOP", "ROKU", "TTD", "SNAP",
+        "MU", "QCOM", "AVGO", "MRVL",
+        "RIVN", "LCID", "NIO", "CHPT",
+        "MRNA", "BNTX", "REGN", "VRTX",
+        "GME", "AMC", "BBBY", "PLTR",
+        "RBLX", "MSTR", "CVNA", "UPST"
+    ],
+    "symbol_groups": {
+        "original": ["JNJ", "AAPL", "TSLA", "NVDA", "AMD", "COIN", "META"],
+        "faang": ["GOOGL", "MSFT", "AMZN", "NFLX"],
+        "software_fintech": ["CRM", "ADBE", "PYPL", "SQ"],
+        "cloud_security": ["SNOW", "NET", "DDOG", "CRWD"],
+        "digital_ads": ["SHOP", "ROKU", "TTD", "SNAP"],
+        "semiconductors": ["MU", "QCOM", "AVGO", "MRVL"],
+        "ev_clean_energy": ["RIVN", "LCID", "NIO", "CHPT"],
+        "biotech_healthcare": ["MRNA", "BNTX", "REGN", "VRTX"],
+        "meme_high_vol": ["GME", "AMC", "BBBY", "PLTR", "RBLX", "MSTR", "CVNA", "UPST"]
+    },
+    "alpaca": {
+        "api_key": "PKB47VPLE9OYP875O68E",
+        "api_secret": "cVNZxQ7LbGlYu5zhqCMTkTVgKKlatOjM4BY3Y3Pv"
+    },
+    "strategy_params": {
+        "vwap": {
+            "length": {
+                "min": 20,
+                "max": 100,
+                "step": 10
+            }
+        },
+        "mfi": {
+            "length": {
+                "min": 5,
+                "max": 20,
+                "step": 2
+            },
+            "oversold": {
+                "min": 20,
+                "max": 40,
+                "step": 5
+            },
+            "overbought": {
+                "min": 60,
+                "max": 80,
+                "step": 5
+            }
+        },
+        "regime": {
+            "window": {
+                "min": 10,
+                "max": 50,
+                "step": 5
+            },
+            "vol_percentile": {
+                "min": 50,
+                "max": 80,
+                "step": 5
+            }
+        },
+        "position": {
+            "size_factor": {
+                "min": 0.1,
+                "max": 1.0,
+                "step": 0.1
+            },
+            "max_position": {
+                "min": 0.1,
+                "max": 0.5,
+                "step": 0.1
+            }
+        },
+        "exit": {
+            "max_hold_hours": {
+                "min": 4,
+                "max": 24,
+                "step": 2
+            },
+            "profit_target": {
+                "min": 0.005,
+                "max": 0.05,
+                "step": 0.005
+            },
+            "stop_loss": {
+                "min": 0.005,
+                "max": 0.05,
+                "step": 0.005
+            }
+        }
+    }
+}

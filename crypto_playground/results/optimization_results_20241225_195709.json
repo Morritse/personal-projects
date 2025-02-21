@@ -1,0 +1,2302 @@
+[
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 7.417904842004645e-06,
+      "win_rate": 0.44081632653061226,
+      "max_drawdown": 2.5923338951350907e-06,
+      "sharpe_ratio": 0.3497485405974662,
+      "total_trades": 245,
+      "avg_trade_duration": 65.16326530612245
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 7.271647508750902e-06,
+      "win_rate": 0.4403292181069959,
+      "max_drawdown": 2.5511483861585235e-06,
+      "sharpe_ratio": 0.34412007754196666,
+      "total_trades": 243,
+      "avg_trade_duration": 65.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": 6.474445594940335e-06,
+      "win_rate": 0.4351464435146444,
+      "max_drawdown": 2.989383714343772e-06,
+      "sharpe_ratio": 0.3085033230965409,
+      "total_trades": 239,
+      "avg_trade_duration": 66.35983263598327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 6.474445594940335e-06,
+      "win_rate": 0.4351464435146444,
+      "max_drawdown": 2.989383714343772e-06,
+      "sharpe_ratio": 0.3085033230965409,
+      "total_trades": 239,
+      "avg_trade_duration": 66.35983263598327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 6.474445594940335e-06,
+      "win_rate": 0.4351464435146444,
+      "max_drawdown": 2.989383714343772e-06,
+      "sharpe_ratio": 0.3085033230965409,
+      "total_trades": 239,
+      "avg_trade_duration": 66.35983263598327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 6.474445594940335e-06,
+      "win_rate": 0.4351464435146444,
+      "max_drawdown": 2.989383714343772e-06,
+      "sharpe_ratio": 0.3085033230965409,
+      "total_trades": 239,
+      "avg_trade_duration": 66.35983263598327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 6.474445594940335e-06,
+      "win_rate": 0.4351464435146444,
+      "max_drawdown": 2.989383714343772e-06,
+      "sharpe_ratio": 0.3085033230965409,
+      "total_trades": 239,
+      "avg_trade_duration": 66.35983263598327
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.7,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": 4.131212230422534e-06,
+      "win_rate": 0.42272727272727273,
+      "max_drawdown": 3.4276479635745052e-06,
+      "sharpe_ratio": 0.20458163770563897,
+      "total_trades": 220,
+      "avg_trade_duration": 70.20454545454545
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -3.954593745671446e-05,
+      "win_rate": 0.44871794871794873,
+      "max_drawdown": 4.9252619210281054e-05,
+      "sharpe_ratio": -0.17606374659213597,
+      "total_trades": 312,
+      "avg_trade_duration": 67.01923076923077
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -3.972518281138036e-05,
+      "win_rate": 0.45051194539249145,
+      "max_drawdown": 4.925259997352434e-05,
+      "sharpe_ratio": -0.1768624683119971,
+      "total_trades": 293,
+      "avg_trade_duration": 71.19453924914676
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -3.972518281138036e-05,
+      "win_rate": 0.45051194539249145,
+      "max_drawdown": 4.925259997352434e-05,
+      "sharpe_ratio": -0.1768624683119971,
+      "total_trades": 293,
+      "avg_trade_duration": 71.19453924914676
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -3.972518281138036e-05,
+      "win_rate": 0.45051194539249145,
+      "max_drawdown": 4.925259997352434e-05,
+      "sharpe_ratio": -0.1768624683119971,
+      "total_trades": 293,
+      "avg_trade_duration": 71.19453924914676
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -3.972518281138036e-05,
+      "win_rate": 0.45051194539249145,
+      "max_drawdown": 4.925259997352434e-05,
+      "sharpe_ratio": -0.1768624683119971,
+      "total_trades": 293,
+      "avg_trade_duration": 71.19453924914676
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.064578426157823e-05,
+      "win_rate": 0.4463667820069204,
+      "max_drawdown": 4.925263939739338e-05,
+      "sharpe_ratio": -0.18097093297103795,
+      "total_trades": 289,
+      "avg_trade_duration": 71.31487889273356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.064578426157823e-05,
+      "win_rate": 0.4463667820069204,
+      "max_drawdown": 4.925263939739338e-05,
+      "sharpe_ratio": -0.18097093297103795,
+      "total_trades": 289,
+      "avg_trade_duration": 71.31487889273356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.064578426157823e-05,
+      "win_rate": 0.4463667820069204,
+      "max_drawdown": 4.925263939739338e-05,
+      "sharpe_ratio": -0.18097093297103795,
+      "total_trades": 289,
+      "avg_trade_duration": 71.31487889273356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.064578426157823e-05,
+      "win_rate": 0.4463667820069204,
+      "max_drawdown": 4.925263939739338e-05,
+      "sharpe_ratio": -0.18097093297103795,
+      "total_trades": 289,
+      "avg_trade_duration": 71.31487889273356
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.065060301727499e-05,
+      "win_rate": 0.43727598566308246,
+      "max_drawdown": 4.925274430724196e-05,
+      "sharpe_ratio": -0.18110249235212814,
+      "total_trades": 279,
+      "avg_trade_duration": 69.06810035842294
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.090821585748927e-05,
+      "win_rate": 0.4375,
+      "max_drawdown": 4.943855403864861e-05,
+      "sharpe_ratio": -0.18209154966374758,
+      "total_trades": 320,
+      "avg_trade_duration": 67.921875
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.090821585748927e-05,
+      "win_rate": 0.4375,
+      "max_drawdown": 4.943855403864861e-05,
+      "sharpe_ratio": -0.18209154966374758,
+      "total_trades": 320,
+      "avg_trade_duration": 67.921875
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.1,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.0934927880880425e-05,
+      "win_rate": 0.4411764705882353,
+      "max_drawdown": 4.925260575975109e-05,
+      "sharpe_ratio": -0.18221345313738796,
+      "total_trades": 306,
+      "avg_trade_duration": 70.55555555555556
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.11852122147684e-05,
+      "win_rate": 0.44107744107744107,
+      "max_drawdown": 4.925261633297973e-05,
+      "sharpe_ratio": -0.18335483678657505,
+      "total_trades": 297,
+      "avg_trade_duration": 70.87542087542087
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.05,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.163378347409889e-05,
+      "win_rate": 0.43109540636042404,
+      "max_drawdown": 4.925277957340528e-05,
+      "sharpe_ratio": -0.18547904592278408,
+      "total_trades": 283,
+      "avg_trade_duration": 68.63957597173145
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.165874682206777e-05,
+      "win_rate": 0.43272727272727274,
+      "max_drawdown": 4.9252785499508844e-05,
+      "sharpe_ratio": -0.1856069870675263,
+      "total_trades": 275,
+      "avg_trade_duration": 69.34545454545454
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.165874682206777e-05,
+      "win_rate": 0.43272727272727274,
+      "max_drawdown": 4.9252785499508844e-05,
+      "sharpe_ratio": -0.1856069870675263,
+      "total_trades": 275,
+      "avg_trade_duration": 69.34545454545454
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.165874682206777e-05,
+      "win_rate": 0.43272727272727274,
+      "max_drawdown": 4.9252785499508844e-05,
+      "sharpe_ratio": -0.1856069870675263,
+      "total_trades": 275,
+      "avg_trade_duration": 69.34545454545454
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.165874682206777e-05,
+      "win_rate": 0.43272727272727274,
+      "max_drawdown": 4.9252785499508844e-05,
+      "sharpe_ratio": -0.1856069870675263,
+      "total_trades": 275,
+      "avg_trade_duration": 69.34545454545454
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.15,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.165874682206777e-05,
+      "win_rate": 0.43272727272727274,
+      "max_drawdown": 4.9252785499508844e-05,
+      "sharpe_ratio": -0.1856069870675263,
+      "total_trades": 275,
+      "avg_trade_duration": 69.34545454545454
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.451106149543193e-05,
+      "win_rate": 0.42379182156133827,
+      "max_drawdown": 4.989495365326097e-05,
+      "sharpe_ratio": -0.1983116914991958,
+      "total_trades": 269,
+      "avg_trade_duration": 72.63940520446097
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.451106149543193e-05,
+      "win_rate": 0.42379182156133827,
+      "max_drawdown": 4.989495365326097e-05,
+      "sharpe_ratio": -0.1983116914991958,
+      "total_trades": 269,
+      "avg_trade_duration": 72.63940520446097
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.1,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.451106149543193e-05,
+      "win_rate": 0.42379182156133827,
+      "max_drawdown": 4.989495365326097e-05,
+      "sharpe_ratio": -0.1983116914991958,
+      "total_trades": 269,
+      "avg_trade_duration": 72.63940520446097
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.4,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.451106149543193e-05,
+      "win_rate": 0.42379182156133827,
+      "max_drawdown": 4.989495365326097e-05,
+      "sharpe_ratio": -0.1983116914991958,
+      "total_trades": 269,
+      "avg_trade_duration": 72.63940520446097
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.480964936868986e-05,
+      "win_rate": 0.424812030075188,
+      "max_drawdown": 5.010023377408942e-05,
+      "sharpe_ratio": -0.19965094510574763,
+      "total_trades": 266,
+      "avg_trade_duration": 72.5187969924812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.480964936868986e-05,
+      "win_rate": 0.424812030075188,
+      "max_drawdown": 5.010023377408942e-05,
+      "sharpe_ratio": -0.19965094510574763,
+      "total_trades": 266,
+      "avg_trade_duration": 72.5187969924812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.480964936868986e-05,
+      "win_rate": 0.424812030075188,
+      "max_drawdown": 5.010023377408942e-05,
+      "sharpe_ratio": -0.19965094510574763,
+      "total_trades": 266,
+      "avg_trade_duration": 72.5187969924812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.480964936868986e-05,
+      "win_rate": 0.424812030075188,
+      "max_drawdown": 5.010023377408942e-05,
+      "sharpe_ratio": -0.19965094510574763,
+      "total_trades": 266,
+      "avg_trade_duration": 72.5187969924812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.5,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.480964936868986e-05,
+      "win_rate": 0.424812030075188,
+      "max_drawdown": 5.010023377408942e-05,
+      "sharpe_ratio": -0.19965094510574763,
+      "total_trades": 266,
+      "avg_trade_duration": 72.5187969924812
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.2,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.4,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 1.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.2
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 20000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 10000.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.4,
+      "VOLATILITY_BOOST": 1.5,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 1.0,
+      "TAKE_PROFIT_ATR": 2.5,
+      "TREND_BOOST": 1.2,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.6,
+      "BASE_POSITION_SIZE": 5000.0,
+      "MAX_POSITION_SIZE": 5000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.5,
+      "MOMENTUM_BOOST": 1.2,
+      "VOLATILITY_BOOST": 1.3,
+      "CONFIDENCE_BOOST": 1.3
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.5,
+      "BASE_POSITION_SIZE": 7500.0,
+      "MAX_POSITION_SIZE": 15000.0,
+      "STOP_LOSS_ATR": 2.5,
+      "TAKE_PROFIT_ATR": 2.0,
+      "TREND_BOOST": 1.4,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.5
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  },
+  {
+    "params": {
+      "MIN_SIGNAL_STRENGTH": 0.2,
+      "MIN_CONFIDENCE": 0.6,
+      "MIN_COMPONENT_CONF": 0.3,
+      "BASE_POSITION_SIZE": 2500.0,
+      "MAX_POSITION_SIZE": 10000.0,
+      "STOP_LOSS_ATR": 2.0,
+      "TAKE_PROFIT_ATR": 3.5,
+      "TREND_BOOST": 1.3,
+      "MOMENTUM_BOOST": 1.3,
+      "VOLATILITY_BOOST": 1.4,
+      "CONFIDENCE_BOOST": 1.4
+    },
+    "metrics": {
+      "profit_loss": -4.505150075157872e-05,
+      "win_rate": 0.4150197628458498,
+      "max_drawdown": 5.1122505571099114e-05,
+      "sharpe_ratio": -0.2008158993647483,
+      "total_trades": 253,
+      "avg_trade_duration": 72.43083003952569
+    }
+  }
+]

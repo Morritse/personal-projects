@@ -1,0 +1,10 @@
+alpaca-trade-api
+pandas
+numpy
+ta-lib
+requests
+python-dotenv
+beautifulsoup4
+nltk
+finviz
+bs4

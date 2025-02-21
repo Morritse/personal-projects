@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AInsued - AI Insurance Recommendations</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <div class="header">
+            <h1>AInsued</h1>
+            <p>AI-Powered Insurance Recommendations</p>
+        </div>
+
+        <!-- Input Form -->
+        <div class="input-section">
+            <h2>Enter Your Information</h2>
+            <form id="health-form">
+                <div class="form-group">
+                    <label>Age:</label>
+                    <input type="number" name="age" min="0" max="120">
+                </div>
+                
+                <div class="form-group">
+                    <label>State:</label>
+                    <select name="state">
+                        <option value="CA">California</option>
+                        <option value="NY">New York</option>
+                        <option value="TX">Texas</option>
+                        <!-- Add more states -->
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label>Health Conditions:</label>
+                    <div class="checkbox-group">
+                        <input type="checkbox" name="diabetes"> Diabetes
+                        <input type="checkbox" name="hypertension"> Hypertension
+                        <input type="checkbox" name="heart_disease"> Heart Disease
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label>Income Level:</label>
+                    <select name="income">
+                        <option value="low">Low Income</option>
+                        <option value="medium">Medium Income</option>
+                        <option value="high">High Income</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="analyze-button">Analyze Insurance Options</button>
+            </form>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-section" style="display: none;">
+            <h2>Insurance Recommendations</h2>
+            
+            <div class="cost-prediction">
+                <h3>Predicted Annual Healthcare Costs</h3>
+                <div class="cost-value">$10,000 - $12,000</div>
+                <div class="cost-factors">
+                    <p>Key Factors:</p>
+                    <ul>
+                        <li>Age Impact: Medium</li>
+                        <li>Health Risk: Low</li>
+                        <li>Geographic Factor: High</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="plan-recommendations">
+                <h3>Recommended Plans</h3>
+                <div class="plan-card">
+                    <h4>Medicare Advantage</h4>
+                    <p class="plan-score">Match Score: 95%</p>
+                    <div class="plan-details">
+                        <p>Monthly Premium: $0-100</p>
+                        <p>Annual Deductible: $500</p>
+                        <p>Out-of-pocket Maximum: $5,000</p>
+                    </div>
+                    <div class="plan-benefits">
+                        <p>Key Benefits:</p>
+                        <ul>
+                            <li>Prescription Drug Coverage</li>
+                            <li>Dental and Vision</li>
+                            <li>Fitness Programs</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- More plan cards would be dynamically added here -->
+            </div>
+        </div>
+
+        <!-- Analysis Section -->
+        <div class="analysis-section">
+            <h2>How It Works</h2>
+            <div class="analysis-steps">
+                <div class="step">
+                    <h3>1. Data Analysis</h3>
+                    <p>We analyze Medicare claims data and health outcomes across different demographics.</p>
+                </div>
+                <div class="step">
+                    <h3>2. Cost Prediction</h3>
+                    <p>AI models predict your likely healthcare costs based on your profile.</p>
+                </div>
+                <div class="step">
+                    <h3>3. Plan Matching</h3>
+                    <p>We match you with insurance plans that provide optimal coverage for your needs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('health-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            // Show results section
+            document.querySelector('.results-section').style.display = 'block';
+            // Scroll to results
+            document.querySelector('.results-section').scrollIntoView({ behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>

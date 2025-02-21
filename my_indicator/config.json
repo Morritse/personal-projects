@@ -1,0 +1,43 @@
+{
+    "Risk Per Trade": 0.03,
+    "Min Stop Pct": 0.01,
+    "Max Stop Pct": 0.04,
+    "MFI Period": 14,
+    "VWAP Window": 25,
+    "ATR Period": 14,
+    "Current Window": 125,
+    "Historical Window": 1000,
+    "trend_params": {
+        "ema_short_span": 40,
+        "ema_long_span": 70,
+        "min_trend_strength": 0.003
+    },
+    "mfi_entry": {
+        "bull": 65,
+        "bear": 30
+    },
+    "mfi_exit": {
+        "bull": 85,
+        "bear": 20
+    },
+    "Volatility Multiplier": 0.2,
+    "minute_confirmation": {
+        "min_volume_increases": 2,
+        "max_spread_pct": 0.006,
+        "max_price_volatility": 0.003
+    },
+    "regime_params": {
+        "bear_high_vol": {
+            "position_scale": 2.0,
+            "reward_risk": 2.0,
+            "stop_mult": 1.25,
+            "trailing_stop": true
+        },
+        "bull_high_vol": {
+            "position_scale": 2.75,
+            "reward_risk": 1.25,
+            "stop_mult": 1.25,
+            "trailing_stop": true
+        }
+    }
+}

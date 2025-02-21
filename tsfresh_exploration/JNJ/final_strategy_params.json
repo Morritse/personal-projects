@@ -1,0 +1,29 @@
+{
+    "VWAP Window": 50,
+    "MFI Period": 9,
+    "Regime Window": 20,
+    "ATR Period": 2,
+    "Min Stop Dollars": 1.00,
+    "Max Stop Dollars": 2.50,
+    "Risk Per Trade": 0.025,
+    "Max Hold Hours": 36,
+    "mfi_entry": 30,
+    "bear_exit": 55,
+    "bull_exit": 75,
+    "regime_params": {
+        "bear_high_vol": {
+            "position_scale": 2.25,
+            "reward_risk": 2.0,
+            "stop_mult": 1.6,
+            "mfi_overbought": 55,
+            "trailing_stop": true
+        },
+        "bull_high_vol": {
+            "position_scale": 1.50,
+            "reward_risk": 2.0,
+            "stop_mult": 1.6,
+            "mfi_overbought": 75,
+            "trailing_stop": true
+        }
+    }
+}

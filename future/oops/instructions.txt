@@ -1,0 +1,41 @@
+1. Multi-Asset Universe
+Rationale: More diversification generally leads to smoother returns (potentially higher Sharpe).
+Implementation:
+Include major futures across equities (S&P 500, Euro Stoxx 50), bonds (US Treasuries, Bunds), currencies (EUR/USD, USD/JPY), and commodities (crude oil, gold, agriculturals).
+This broad coverage allows the strategy to catch trending behavior in many different economic environments.
+2. Trend-Following Core
+Rationale: Trend-following has a long history of producing positive risk-adjusted returns (see “Managed Futures” CTAs).
+Implementation:
+Price Momentum: For each instrument, measure a medium-term price trend (e.g., 50–100 day moving average slope, or Donchian breakouts, or multi-timeframe).
+Signal: If the trend is up, go long; if down, go short.
+Signal Aggregation: Possibly combine faster signals (20-day) and slower signals (100-day) for partial positions—this can catch both short-term and longer-term trends.
+3. Volatility Targeting (Risk Parity-Style)
+Rationale: Equalize the volatility contribution across assets to avoid one instrument (e.g., crude oil) dominating the portfolio’s risk. This historically helps stabilize returns.
+Implementation:
+Compute each asset’s rolling volatility (e.g., 20-day standard deviation).
+Position Size inversely proportional to volatility (and also to account equity). So a more volatile instrument (like crude) gets a smaller position, while a more stable one (like US 10Y Treasuries) can have a bigger position.
+Overall portfolio volatility target: e.g., aim for ~10–15% annualized. Adjust total notional exposure up or down as volatility changes.
+4. Crisis Alpha Overlay (Optional)
+Rationale: Many trend programs already do well in market crises (they catch big sell-off trends). But you can add a “crisis overlay” for risk-off events.
+Implementation:
+If a “volatility spike” or “correlation spike” is detected across assets (like a blowout in the VIX or a correlation meltdown), temporarily reduce or turn off risk in certain trending signals—unless those signals are strongly profitable.
+This can help avoid whipsaw in panic times.
+5. Adaptive Stop-Loss / Trailing
+Rationale: Trend-following can give back big chunks of profit when trends reverse. A trailing stop can lock in gains.
+Implementation:
+Adaptive Stop: For a long position, if price closes below, say, a short-term moving average (e.g., 10-day) or below some fraction of the new local high, exit or reduce the position.
+Volatility-based: Alternatively, if the asset’s price moves X * ATR (average true range) against you, exit.
+6. Position Sizing + Leverage
+Rationale: Proper sizing (and possible modest leverage) can help maximize the risk-adjusted returns if trends are robust.
+Implementation:
+For each asset, after volatility adjustments, you might allow up to 1–2 “units” of risk. If you have 10–20 uncorrelated markets, you can add moderate leverage to hit an overall volatility target.
+7. Why This Might Achieve >1 Sharpe
+Diversification: Trend-following across many uncorrelated assets historically yields smoother returns than single-market approaches.
+Volatility Targeting: Helps maintain a stable risk profile, often boosting risk-adjusted metrics.
+Crisis Benefits: Trend-followers sometimes excel in big down markets (catch short trends), providing “crisis alpha.”
+Adaptive Exits: Minimizes drawdowns or abrupt reversals that can kill the Sharpe.
+8. Caveats
+Whipsaw Periods: Trend strategies often underperform in sideways, choppy markets.
+Parameter Sensitivity: You need robust out-of-sample testing to ensure it’s not overfit (e.g., picking the perfect lookback).
+Fees/Slippage: If you trade lots of futures with moderate frequency, friction can eat away at returns.
+Regime Changes: Like all strategies, big changes in market structure (e.g., central bank intervention, zero interest rate policies, etc.) can reduce or alter historical edges.

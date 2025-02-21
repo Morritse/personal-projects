@@ -1,0 +1,16 @@
+{
+  "best_params": {
+    "trend_weight": 0.25,
+    "momentum_weight": 0.35,
+    "reversal_weight": 0.25,
+    "breakout_threshold": 0.2,
+    "strong_threshold": 0.1,
+    "weak_threshold": 0.030000000000000002
+  },
+  "best_score": 0.0,
+  "cv_results": {
+    "params": [],
+    "mean_test_score": [],
+    "std_test_score": []
+  }
+}

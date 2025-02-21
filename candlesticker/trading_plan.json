@@ -1,0 +1,153 @@
+{
+  "trading_plan": {
+    "portfolio_settings": {
+      "target_allocation": {
+        "value": 90.0,
+        "description": "Target percentage of portfolio to deploy"
+      },
+      "max_position_size": {
+        "value": 20.0,
+        "description": "Maximum size for any single position"
+      }
+    },
+    "positions": [
+      {
+        "symbol": "UNG",
+        "conviction": "high",
+        "entry": {
+          "entry_zones": [
+            {"price": "16.50-16.80", "size": "3%"},
+            {"price": "16.00-16.30", "size": "3%"}
+          ],
+          "stop_loss": {
+            "price": 15.30,
+            "description": "Below 200-day SMA"
+          },
+          "rationale": "Direct gas exposure, strong trend above all SMAs, positive MACD"
+        }
+      },
+      {
+        "symbol": "RRC",
+        "conviction": "medium",
+        "entry": {
+          "entry_zones": [
+            {"price": "35.50-36.00", "size": "3%"},
+            {"price": "34.50-35.00", "size": "3%"}
+          ],
+          "stop_loss": {
+            "price": 33.15,
+            "description": "Below 200-day SMA"
+          },
+          "rationale": "Best value metrics (P/E 17.99), lowest debt, strong technicals"
+        }
+      },
+      {
+        "symbol": "QUBT",
+        "conviction": "high",
+        "entry": {
+          "entry_zones": [
+            {"price": "market", "size": "4%"},
+            {"price": "1st pullback", "size": "4%"}
+          ],
+          "stop_loss": {
+            "price": "market * 0.85",
+            "description": "15% below entry"
+          },
+          "rationale": "1600% surge in 2024, quantum computing sector leader, strong breakout"
+        }
+      },
+      {
+        "symbol": "JBL",
+        "conviction": "high",
+        "entry": {
+          "entry_zones": [
+            {"price": "market", "size": "4%"},
+            {"price": "1st pullback", "size": "4%"}
+          ],
+          "stop_loss": {
+            "price": "market * 0.90",
+            "description": "10% below entry"
+          },
+          "rationale": "Strong fundamentals, $165 PT from BofA, AI integration catalyst"
+        }
+      },
+      {
+        "symbol": "KULR",
+        "conviction": "medium",
+        "entry": {
+          "entry_zones": [
+            {"price": "market", "size": "3%"},
+            {"price": "1st pullback", "size": "3%"}
+          ],
+          "stop_loss": {
+            "price": "market * 0.88",
+            "description": "12% below entry"
+          },
+          "rationale": "180% recent rally, thermal tech play, multiple positive mentions"
+        }
+      },
+      {
+        "symbol": "BIOA",
+        "conviction": "medium",
+        "entry": {
+          "entry_zones": [
+            {"price": "market", "size": "3%"},
+            {"price": "1st pullback", "size": "3%"}
+          ],
+          "stop_loss": {
+            "price": "market * 0.85",
+            "description": "15% below entry"
+          },
+          "rationale": "Oversold bounce play after 76% plunge, high volatility biotech sector"
+        }
+      }
+    ],
+    "watchlist": [
+      {
+        "symbol": "EQT",
+        "watch_for": "Pullback to 20-day SMA (44.37)",
+        "entry_condition": "RSI drops below 60 (currently 63.35)",
+        "key_levels": {
+          "resistance": [46.72, 48.00],
+          "support": [44.37, 42.43]
+        },
+        "rationale": "Strong company but extended (P/E 61.48), wait for better entry"
+      }
+    ],
+    "risk_factors": {
+      "market_risk": {
+        "weather_key_level": "10-day forecast",
+        "storage_report": "Thursday 10:30am ET",
+        "exit_triggers": [
+          "Weather forecast turns warm",
+          "Storage report shows excess supply",
+          "Individual position down specified stop %",
+          "Significant market sentiment shift"
+        ]
+      },
+      "position_risk": {
+        "correlation_limits": {
+          "max_energy_exposure": 12.0,
+          "max_tech_exposure": 15.0,
+          "max_single_sector": 20.0
+        },
+        "rationale": "Balanced exposure across energy, tech, and financial sectors"
+      }
+    },
+    "monitoring": {
+      "daily": [
+        "Weather forecast updates",
+        "Natural gas futures price",
+        "Tech sector momentum",
+        "Position P&L",
+        "News catalysts"
+      ],
+      "weekly": [
+        "EIA storage report (Thursday)",
+        "Weather pattern changes",
+        "Technical levels",
+        "Sector rotation trends"
+      ]
+    }
+  }
+}

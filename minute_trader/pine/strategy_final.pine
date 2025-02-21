@@ -1,0 +1,166 @@
+//@version=6
+indicator('VAME Strategy [Free]', shorttitle='VAME', overlay=true)
+
+// === Input Groups ===
+group_params = "Strategy Parameters"
+mfiPeriod = input.int(9, 'MFI Period', group=group_params)
+vwapWindow = input.int(50, 'VWAP Window', group=group_params)
+currentWindow = input.int(16, 'Current Window', group=group_params)
+historicalWindow = input.int(400, 'Historical Window', group=group_params)
+volMultiplier = input.float(1.0, 'Volatility Multiplier', group=group_params)
+mfiEntry = input.float(30, 'MFI Entry', minval=0, maxval=100, group=group_params)
+bearExit = input.float(55, 'Bear Exit', minval=0, maxval=100, group=group_params)
+bullExit = input.float(75, 'Bull Exit', minval=0, maxval=100, group=group_params)
+
+group_display = "Display Options"
+showVolPane = input.bool(true, 'Show Volatility', group=group_display)
+showMFIPane = input.bool(true, 'Show MFI', group=group_display)
+showVWAP = input.bool(true, 'Show VWAP', group=group_display)
+showRegime = input.bool(true, 'Show Regime Background', group=group_display)
+showTable = input.bool(true, 'Show Status Table', group=group_display)
+
+group_colors = "Colors"
+bullColor = input.color(color.green, 'Bull Color', group=group_colors)
+bearColor = input.color(color.red, 'Bear Color', group=group_colors)
+vwapColor = input.color(color.blue, 'VWAP Color', group=group_colors)
+transparency = input.int(90, 'Background Transparency', minval=0, maxval=100, group=group_colors)
+
+// === Time Windows ===
+var float morning_mult = 0.8     // 9:30-10:30
+var float midday_mult = 1.2      // 10:30-12:00
+var float afternoon_mult = 1.0    // 12:00-16:00
+
+// === Volatility Regime Classification ===
+float tr = ta.tr
+float trPct = (tr / close) * 100
+float currentVol = ta.sma(trPct, currentWindow)
+float historicalVol = ta.sma(trPct, historicalWindow)
+float historicalStd = ta.stdev(trPct, historicalWindow)
+float volThreshold = historicalVol + (historicalStd * volMultiplier)
+float currentRet = ta.change(close) / close[1]
+
+string regime = if currentRet > 0 and currentVol > volThreshold
+    'bull_high_vol'
+else if currentRet <= 0 and currentVol > volThreshold
+    'bear_high_vol'
+else
+    'none'
+
+// === Indicator Calculations ===
+float vwap = ta.vwap
+float mfi = ta.mfi(mfiPeriod)  // Pine Script's built-in MFI
+float obv = ta.obv  // Pine Script's built-in OBV
+float obvChange = ta.change(obv)
+
+// === Trading Hours & Volume Multiplier ===
+float vol_mult = if na(time)
+    0.0
+else if (hour == 9 and minute >= 30) or (hour == 10 and minute < 30)
+    morning_mult
+else if hour == 10 or hour == 11
+    midday_mult
+else if hour >= 12 and hour < 16
+    afternoon_mult
+else
+    0.0
+
+bool is_trading_hours = vol_mult > 0.0
+
+// === Entry/Exit Conditions ===
+bool isValidRegime = regime != 'none'
+bool isPriceBelowVWAP = close < vwap
+bool isOBVFalling = obvChange < 0
+bool isMFIOversold = mfi < mfiEntry
+
+bool entrySignal = isValidRegime and is_trading_hours and 
+                   isPriceBelowVWAP and isOBVFalling and 
+                   isMFIOversold
+
+float mfiExitLevel = regime == 'bear_high_vol' ? bearExit : bullExit
+bool isPriceAboveVWAP = close > vwap
+bool isMFIOverbought = mfi > mfiExitLevel
+
+bool exitSignal = isPriceAboveVWAP or isMFIOverbought
+
+// === Plotting Main Chart ===
+// Background colors
+color regimeColor = regime == 'bull_high_vol' ? color.new(bullColor, transparency) :
+                   regime == 'bear_high_vol' ? color.new(bearColor, transparency) :
+                   na
+bgcolor(showRegime ? regimeColor : na)
+bgcolor(is_trading_hours ? color.new(color.blue, 97) : na)
+
+// VWAP Line
+plot(showVWAP ? vwap : na, 'VWAP', color=color.new(vwapColor, 0), linewidth=2)
+
+// Entry/Exit Signals
+plotshape(entrySignal, title='Entry', style=shape.triangleup, 
+          location=location.belowbar, color=color.new(bullColor, 0), 
+          size=size.small)
+plotshape(exitSignal, title='Exit', style=shape.triangledown, 
+          location=location.abovebar, color=color.new(bearColor, 0), 
+          size=size.small)
+
+// === Volatility Plot ===
+plot(showVolPane ? currentVol : na, 'Current Vol', color=color.new(color.blue, 0), linewidth=2)
+plot(showVolPane ? historicalVol : na, 'Historical Vol', color=color.new(color.gray, 0))
+plot(showVolPane ? volThreshold : na, 'Threshold', color=color.new(color.red, 0), style=plot.style_circles)
+
+// === MFI Plot ===
+plot(showMFIPane ? mfi : na, 'MFI', color=color.new(color.purple, 0), linewidth=2)
+hline(showMFIPane ? mfiEntry : na, 'MFI Entry', color=color.new(bullColor, 50), linestyle=hline.style_dashed)
+hline(showMFIPane ? bearExit : na, 'Bear Exit', color=color.new(bearColor, 50), linestyle=hline.style_dashed)
+hline(showMFIPane ? bullExit : na, 'Bull Exit', color=color.new(bearColor, 50), linestyle=hline.style_dashed)
+
+// === Status Table ===
+if showTable and barstate.islast
+    var table statusTable = table.new(position.top_right, 2, 8, border_width=1)
+    
+    table.cell(statusTable, 0, 0, 'Regime', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 0, regime, 
+               bgcolor=regime == 'bull_high_vol' ? color.new(bullColor, 90) :
+                      regime == 'bear_high_vol' ? color.new(bearColor, 90) :
+                      color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 1, 'Current Vol', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 1, str.tostring(currentVol, '#.##') + '%', 
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 2, 'Historical Vol', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 2, str.tostring(historicalVol, '#.##') + '%', 
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 3, 'MFI', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 3, str.tostring(mfi, '#.##'), 
+               bgcolor=isMFIOversold ? color.new(bullColor, 90) :
+                      isMFIOverbought ? color.new(bearColor, 90) :
+                      color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 4, 'VWAP', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 4, isPriceBelowVWAP ? 'Below' : 'Above', 
+               bgcolor=isPriceBelowVWAP ? color.new(bearColor, 90) : 
+                      color.new(bullColor, 90))
+    
+    table.cell(statusTable, 0, 5, 'OBV', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 5, isOBVFalling ? 'Falling' : 'Rising', 
+               bgcolor=isOBVFalling ? color.new(bearColor, 90) : 
+                      color.new(bullColor, 90))
+    
+    table.cell(statusTable, 0, 6, 'Vol Mult', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 6, str.tostring(vol_mult, '#.#') + 'x',
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 7, 'Signal', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 7, entrySignal ? 'ENTRY' :
+                                 exitSignal ? 'EXIT' : 'WAIT', 
+               bgcolor=entrySignal ? color.new(bullColor, 90) :
+                      exitSignal ? color.new(bearColor, 90) :
+                      color.new(color.gray, 90))
+
+// === Alerts ===
+alertcondition(entrySignal, title='Entry Signal', 
+              message='Entry Signal - {{ticker}}: Regime={{regime}}, MFI={{mfi}}, Vol Mult={{vol_mult}}')
+alertcondition(exitSignal, title='Exit Signal',
+              message='Exit Signal - {{ticker}}: ' + 
+                     (isPriceAboveVWAP ? 'Price above VWAP' :
+                      isMFIOverbought ? 'MFI Overbought' : 'Unknown'))

@@ -1,0 +1,28 @@
+{
+  "strategies": {
+    "momentum_5m": {
+      "type": "momentum",
+      "timeframe": "5m",
+      "macd_fast": 8,
+      "macd_slow": 17,
+      "macd_signal": 9,
+      "rsi_period": 7,
+      "rsi_overbought": 70,
+      "rsi_oversold": 35
+    },
+    "meanrev_15m": {
+      "type": "mean_reversion",
+      "timeframe": "15m",
+      "boll_period": 20,
+      "boll_std": 2,
+      "rsi_period": 7,
+      "rsi_overbought": 75,
+      "rsi_oversold": 30
+    },
+    "breakout_5m": {
+      "type": "breakout",
+      "timeframe": "5m",
+      "donchian_lookback": 55
+    }
+  }
+}

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Smoothie Maker - Σmit Σnergy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Σmit Σnergy</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#menu">Menu</a></li>
+                <li><a href="index.html#how-it-works">How It Works</a></li>
+                <li><a href="index.html#locations">Locations</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero smoothie-maker-hero">
+            <h1>AI Smoothie Maker</h1>
+            <p>Create your perfect smoothie with the help of our AI assistant</p>
+        </section>
+
+        <section class="ai-smoothie-maker">
+            <div class="assistant-container">
+                <!-- Step 1: Personal Info -->
+                <div class="step-form" id="step1">
+                    <h3>Step 1: Tell Us About Yourself</h3>
+                    <div class="preference-form">
+                        <div class="form-group">
+                            <label for="age">Age:</label>
+                            <input type="number" id="age" min="18" max="120" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="weight">Weight (lbs):</label>
+                            <input type="number" id="weight" min="50" max="500" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="health-goal">Health Goal:</label>
+                            <select id="health-goal" required>
+                                <option value="">Select a goal</option>
+                                <option value="muscle-gain">Muscle Gain</option>
+                                <option value="fat-loss">Fat Loss</option>
+                                <option value="energy">Energy & Focus</option>
+                                <option value="recovery">Post-Workout Recovery</option>
+                                <option value="wellness">General Wellness</option>
+                            </select>
+                        </div>
+                        <button class="recommendation-button next-step" data-next="step2">Next</button>
+                    </div>
+                </div>
+
+                <!-- Step indicators -->
+                <div class="step-indicator">
+                    <div class="step-dot active" data-step="1"></div>
+                    <div class="step-dot" data-step="2"></div>
+                    <div class="step-dot" data-step="3"></div>
+                    <div class="step-dot" data-step="4"></div>
+                    <div class="step-dot" data-step="5"></div>
+                </div>
+
+                <!-- Step 2: Dietary Restrictions -->
+                <div class="step-form" id="step2" style="display: none;">
+                    <h3>Step 2: Dietary Restrictions</h3>
+                    <div class="preference-form">
+                        <div class="form-group">
+                            <div class="option-grid">
+                                <div class="option-item">
+                                    <input type="checkbox" id="vegan" name="dietary" value="vegan">
+                                    <label for="vegan">
+                                        <span class="option-icon">🌱</span>
+                                        <span class="option-text">Vegan</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="vegetarian" name="dietary" value="vegetarian">
+                                    <label for="vegetarian">
+                                        <span class="option-icon">🥗</span>
+                                        <span class="option-text">Vegetarian</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="gluten-free" name="dietary" value="gluten-free">
+                                    <label for="gluten-free">
+                                        <span class="option-icon">🌾</span>
+                                        <span class="option-text">Gluten Free</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="dairy-free" name="dietary" value="dairy-free">
+                                    <label for="dairy-free">
+                                        <span class="option-icon">🥛</span>
+                                        <span class="option-text">Dairy Free</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="nut-free" name="dietary" value="nut-free">
+                                    <label for="nut-free">
+                                        <span class="option-icon">🥜</span>
+                                        <span class="option-text">Nut Free</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="button-group">
+                            <button class="recommendation-button prev-step" data-prev="step1">Previous</button>
+                            <button class="recommendation-button next-step" data-next="step3">Next</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 3: Choose Base -->
+                <div class="step-form" id="step3" style="display: none;">
+                    <h3>Step 3: Choose Your Base</h3>
+                    <div class="preference-form">
+                        <div class="form-group">
+                            <div class="option-grid">
+                                <div class="option-item">
+                                    <input type="checkbox" id="apple-juice" name="base" value="apple-juice">
+                                    <label for="apple-juice">
+                                        <span class="option-icon">🍎</span>
+                                        <span class="option-text">Apple Juice</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="lemonade" name="base" value="lemonade">
+                                    <label for="lemonade">
+                                        <span class="option-icon">🍋</span>
+                                        <span class="option-text">Lemonade</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="oat-milk" name="base" value="oat-milk">
+                                    <label for="oat-milk">
+                                        <span class="option-icon">🥛</span>
+                                        <span class="option-text">Oat Milk</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="coconut-water" name="base" value="coconut-water">
+                                    <label for="coconut-water">
+                                        <span class="option-icon">🥥</span>
+                                        <span class="option-text">Coconut Water</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="orange-juice" name="base" value="orange-juice">
+                                    <label for="orange-juice">
+                                        <span class="option-icon">🍊</span>
+                                        <span class="option-text">Orange Juice</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="milk" name="base" value="milk">
+                                    <label for="milk">
+                                        <span class="option-icon">🥛</span>
+                                        <span class="option-text">Milk</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="black-tea" name="base" value="black-tea">
+                                    <label for="black-tea">
+                                        <span class="option-icon">☕</span>
+                                        <span class="option-text">Black Tea</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="button-group">
+                            <button class="recommendation-button prev-step" data-prev="step2">Previous</button>
+                            <button class="recommendation-button next-step" data-next="step4">Next</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 4: Choose Fruits -->
+                <div class="step-form" id="step4" style="display: none;">
+                    <h3>Step 4: Choose Your Fruits</h3>
+                    <div class="preference-form">
+                        <div class="form-group">
+                            <div class="option-grid">
+                                <div class="option-item">
+                                    <input type="checkbox" id="banana" name="fruits" value="banana">
+                                    <label for="banana">
+                                        <span class="option-icon">🍌</span>
+                                        <span class="option-text">Banana</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="coconut" name="fruits" value="coconut">
+                                    <label for="coconut">
+                                        <span class="option-icon">🥥</span>
+                                        <span class="option-text">Coconut</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="blueberry" name="fruits" value="blueberry">
+                                    <label for="blueberry">
+                                        <span class="option-icon">🫐</span>
+                                        <span class="option-text">Blueberry</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="strawberry" name="fruits" value="strawberry">
+                                    <label for="strawberry">
+                                        <span class="option-icon">🍓</span>
+                                        <span class="option-text">Strawberry</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="raspberry" name="fruits" value="raspberry">
+                                    <label for="raspberry">
+                                        <span class="option-icon">🫐</span>
+                                        <span class="option-text">Raspberry</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="blackberry" name="fruits" value="blackberry">
+                                    <label for="blackberry">
+                                        <span class="option-icon">🫐</span>
+                                        <span class="option-text">Blackberry</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="pineapple" name="fruits" value="pineapple">
+                                    <label for="pineapple">
+                                        <span class="option-icon">🍍</span>
+                                        <span class="option-text">Pineapple</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="button-group">
+                            <button class="recommendation-button prev-step" data-prev="step3">Previous</button>
+                            <button class="recommendation-button next-step" data-next="step5">Next</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 5: Choose Additions -->
+                <div class="step-form" id="step5" style="display: none;">
+                    <h3>Step 5: Choose Your Additions</h3>
+                    <div class="preference-form">
+                        <div class="form-group">
+                            <div class="option-grid">
+                                <div class="option-item">
+                                    <input type="checkbox" id="chocolate-granola" name="additions" value="chocolate-granola">
+                                    <label for="chocolate-granola">
+                                        <span class="option-icon">🍫</span>
+                                        <span class="option-text">Chocolate Granola</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="peanut-butter" name="additions" value="peanut-butter">
+                                    <label for="peanut-butter">
+                                        <span class="option-icon">🥜</span>
+                                        <span class="option-text">Peanut Butter</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="ginger" name="additions" value="ginger">
+                                    <label for="ginger">
+                                        <span class="option-icon">🫃</span>
+                                        <span class="option-text">Ginger</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                                <div class="option-item">
+                                    <input type="checkbox" id="green-veggies" name="additions" value="green-veggies">
+                                    <label for="green-veggies">
+                                        <span class="option-icon">🥬</span>
+                                        <span class="option-text">Green Veggies</span>
+                                    </label>
+                                    <div class="checkmark">✓</div>
+                                    <div class="option-background"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="button-group">
+                            <button class="recommendation-button prev-step" data-prev="step4">Previous</button>
+                            <button id="get-smoothie-recommendation" class="recommendation-button">Get Recommendations</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Results -->
+                <div id="smoothie-recommendation-result" class="recommendation-result" style="display: none;">
+                    <div class="loading-spinner" style="display: none;">Analyzing your profile...</div>
+                    <div class="result-content"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact</h3>
+                <p>Email: blend@Σmit Σnergy.com</p>
+                <p>Phone: (555) 123-4567</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#">Instagram</a>
+                    <a href="#">Twitter</a>
+                    <a href="#">Facebook</a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            © 2025 Σmit Σnergy. All rights reserved.
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

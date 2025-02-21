@@ -1,0 +1,2 @@
+lookback_fast,lookback_slow,vol_lookback,vol_target,stop_atr_multiple,annual_return,sharpe_ratio,max_drawdown,annual_vol
+95,200,20,0.15,1.8,0.13648320091869814,0.9098880061246544,-0.23340443117545628,0.15

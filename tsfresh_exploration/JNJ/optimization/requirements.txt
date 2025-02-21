@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+talib-binary
+alpaca-py
+python-dotenv
+pytz

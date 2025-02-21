@@ -29,6 +29,9 @@ wheels/
 .venv
 venv/
 ENV/
+*/venv/
+**/venv/
+.vercel/
 
 # IDE
 .idea/
@@ -44,23 +47,49 @@ ENV/
 *.pth
 *.safetensors
 
-# Keep results and notebooks
-!*/results/*.csv
-!*/results/*.png
-!*/*.ipynb
-!*/notebooks/*.ipynb
-
 # Logs
 *.log
 *.logs
 logs/
 */logs/
 
-# Data directories (keep structure but ignore contents)
-*/data/*
-!*/data/.gitkeep
+# Specific large data files (>10MB)
+Backtrader/data/historical_data/*_1m_*.csv
+spy/data_with_indicators/spy_1m_with_indicators.csv
+spy/failures/cleaned/spy_1m_cleaned.csv
+'spy/aggregated data/spy_1m.csv'
+tsfresh_exploration/random/pattern_statistics.json
+tsfresh_exploration/random/pattern_statistics.json.backup
 
-# Ollama directories (ignore completely)
+# Large result files
+backtesting/results/backtest_results_*.json
+
+# Library and binary files
+**/*.so
+**/*.so.*
+**/libscipy_openblas*.so
+**/libopenblas*.so
+**/_multiarray_umath.cpython-*.so
+**/_ta_lib.cpython-*.so
+
+# Keep small data files and results
+!*/results/*.csv
+!*/results/*.json
+!*/results/*.txt
+!*/results/*.png
+!*/*.ipynb
+!*/notebooks/*.ipynb
+!*/data/*.csv
+!*/data/*.json
+!*/data/*.txt
+
+# Specific directories to keep
+!*/analysis/**
+!*/statistics/**
+!*/metrics/**
+!*/reports/**
+
+# Ollama directories
 ollama/minima/
 ollama/ollama/
 

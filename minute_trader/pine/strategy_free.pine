@@ -1,0 +1,154 @@
+//@version=6
+indicator('VAME Strategy [Free]', overlay=true)
+
+// === Input Parameters ===
+mfiPeriod = input.int(9, 'MFI Period')
+vwapWindow = input.int(50, 'VWAP Window')
+currentWindow = input.int(16, 'Current Window')
+historicalWindow = input.int(400, 'Historical Window')
+volMultiplier = input.float(1.0, 'Volatility Multiplier')
+mfiEntry = input.float(30, 'MFI Entry', minval=0, maxval=100)
+bearExit = input.float(55, 'Bear Exit', minval=0, maxval=100)
+bullExit = input.float(75, 'Bull Exit', minval=0, maxval=100)
+
+// === Time Windows ===
+var float morning_mult = 0.8     // 9:30-10:30
+var float midday_mult = 1.2      // 10:30-12:00
+var float afternoon_mult = 1.0    // 12:00-16:00
+
+// === Volatility Regime Classification ===
+// Calculate True Range percentage
+float tr = ta.tr
+float trPct = (tr / close) * 100
+
+// Current and historical volatility
+float currentVol = ta.sma(trPct, currentWindow)
+float historicalVol = ta.sma(trPct, historicalWindow)
+float historicalStd = ta.stdev(trPct, historicalWindow)
+
+// Volatility threshold
+float volThreshold = historicalVol + (historicalStd * volMultiplier)
+
+// Current return
+float currentRet = ta.change(close) / close[1]
+
+// Classify regime
+string regime = if currentRet > 0 and currentVol > volThreshold
+    'bull_high_vol'
+else if currentRet <= 0 and currentVol > volThreshold
+    'bear_high_vol'
+else
+    'none'
+
+// === Indicator Calculations ===
+// VWAP
+float vwap = ta.vwap(length=vwapWindow)
+
+// MFI
+float mfi = ta.mfi(hlc3, mfiPeriod)
+
+// OBV
+float obv = ta.obv
+float obvChange = ta.change(obv)
+
+// === Trading Hours & Volume Multiplier ===
+float vol_mult = na(time) ? 0.0 : (
+    hour == 9 and minute >= 30 or hour == 10 and minute < 30 ? morning_mult :
+    hour == 10 or hour == 11 ? midday_mult :
+    hour >= 12 and hour < 16 ? afternoon_mult : 0.0
+)
+
+bool is_trading_hours = vol_mult > 0.0
+
+// === Entry/Exit Conditions ===
+bool isValidRegime = regime != 'none'
+bool isPriceBelowVWAP = close < vwap
+bool isOBVFalling = obvChange < 0
+bool isMFIOversold = mfi < mfiEntry
+
+bool entrySignal = isValidRegime and is_trading_hours and 
+                   isPriceBelowVWAP and isOBVFalling and 
+                   isMFIOversold
+
+float mfiExitLevel = regime == 'bear_high_vol' ? bearExit : bullExit
+bool isPriceAboveVWAP = close > vwap
+bool isMFIOverbought = mfi > mfiExitLevel
+
+bool exitSignal = isPriceAboveVWAP or isMFIOverbought
+
+// === Plotting ===
+// Background color for regime
+bgcolor(regime == 'bull_high_vol' ? color.new(color.green, 95) :
+        regime == 'bear_high_vol' ? color.new(color.red, 95) :
+        na)
+
+// Trading hours shading
+bgcolor(is_trading_hours ? color.new(color.blue, 97) : na)
+
+// VWAP Line
+plot(vwap, 'VWAP', color=color.new(color.blue, 0), linewidth=2)
+
+// Volatility bands
+plot(close + (tr * volMultiplier), 'Vol Upper', color=color.new(color.gray, 70))
+plot(close - (tr * volMultiplier), 'Vol Lower', color=color.new(color.gray, 70))
+
+// Entry/Exit Signals
+plotshape(entrySignal, title='Entry', style=shape.triangleup, 
+          location=location.belowbar, color=color.new(color.green, 0), 
+          size=size.small)
+plotshape(exitSignal, title='Exit', style=shape.triangledown, 
+          location=location.abovebar, color=color.new(color.red, 0), 
+          size=size.small)
+
+// === Status Table ===
+var table statusTable = table.new(position.top_right, 2, 8, border_width=1)
+
+if barstate.islast
+    table.cell(statusTable, 0, 0, 'Regime', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 0, regime, 
+               bgcolor=regime == 'bull_high_vol' ? color.new(color.green, 90) :
+                      regime == 'bear_high_vol' ? color.new(color.red, 90) :
+                      color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 1, 'Current Vol', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 1, str.tostring(currentVol, '#.##') + '%', 
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 2, 'Historical Vol', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 2, str.tostring(historicalVol, '#.##') + '%', 
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 3, 'MFI', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 3, str.tostring(mfi, '#.##'), 
+               bgcolor=isMFIOversold ? color.new(color.green, 90) :
+                      isMFIOverbought ? color.new(color.red, 90) :
+                      color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 4, 'VWAP', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 4, isPriceBelowVWAP ? 'Below' : 'Above', 
+               bgcolor=isPriceBelowVWAP ? color.new(color.red, 90) : 
+                      color.new(color.green, 90))
+    
+    table.cell(statusTable, 0, 5, 'OBV', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 5, isOBVFalling ? 'Falling' : 'Rising', 
+               bgcolor=isOBVFalling ? color.new(color.red, 90) : 
+                      color.new(color.green, 90))
+    
+    table.cell(statusTable, 0, 6, 'Vol Mult', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 6, str.tostring(vol_mult, '#.#') + 'x',
+               bgcolor=color.new(color.gray, 90))
+    
+    table.cell(statusTable, 0, 7, 'Signal', bgcolor=color.new(color.gray, 90))
+    table.cell(statusTable, 1, 7, entrySignal ? 'ENTRY' :
+                                 exitSignal ? 'EXIT' : 'WAIT', 
+               bgcolor=entrySignal ? color.new(color.green, 90) :
+                      exitSignal ? color.new(color.red, 90) :
+                      color.new(color.gray, 90))
+
+// === Alerts ===
+alertcondition(entrySignal, title='Entry Signal', 
+              message='Entry Signal - {{ticker}}: Regime={{regime}}, MFI={{mfi}}, Vol Mult={{vol_mult}}')
+alertcondition(exitSignal, title='Exit Signal',
+              message='Exit Signal - {{ticker}}: ' + 
+                     (isPriceAboveVWAP ? 'Price above VWAP' :
+                      isMFIOverbought ? 'MFI Overbought' : 'Unknown'))

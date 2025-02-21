@@ -1,0 +1,685 @@
+{
+  "generated_at": "2025-01-01T17:56:04.250912",
+  "focus": "Hype or lesser-known microcaps",
+  "results": [
+    {
+      "symbol": "PENNY",
+      "mention_count": 3,
+      "sentiment_score": 5,
+      "catalysts": [
+        "breakout"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        },
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:33:38Z",
+          "url": "https://biztoc.com/x/64065f34604734e5"
+        },
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:22:32Z",
+          "url": "https://biztoc.com/x/95d003ba71bea83e"
+        }
+      ]
+    },
+    {
+      "symbol": "IT",
+      "mention_count": 2,
+      "sentiment_score": 5,
+      "catalysts": [
+        "breakout"
+      ],
+      "recent_mentions": [
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:33:38Z",
+          "url": "https://biztoc.com/x/64065f34604734e5"
+        },
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:22:32Z",
+          "url": "https://biztoc.com/x/95d003ba71bea83e"
+        }
+      ]
+    },
+    {
+      "symbol": "EARLY",
+      "mention_count": 2,
+      "sentiment_score": 5,
+      "catalysts": [
+        "breakout"
+      ],
+      "recent_mentions": [
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:33:38Z",
+          "url": "https://biztoc.com/x/64065f34604734e5"
+        },
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:22:32Z",
+          "url": "https://biztoc.com/x/95d003ba71bea83e"
+        }
+      ]
+    },
+    {
+      "symbol": "SINCE",
+      "mention_count": 2,
+      "sentiment_score": 5,
+      "catalysts": [
+        "breakout"
+      ],
+      "recent_mentions": [
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:33:38Z",
+          "url": "https://biztoc.com/x/64065f34604734e5"
+        },
+        {
+          "title": "KULR Technology Stock: Buy, Sell, or Hold?",
+          "source": "Biztoc.com",
+          "date": "2024-12-28T17:22:32Z",
+          "url": "https://biztoc.com/x/95d003ba71bea83e"
+        }
+      ]
+    },
+    {
+      "symbol": "CALLS",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Yum, Ralph Lauren upgraded: Wall Street's top analyst calls",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T14:32:18Z",
+          "url": "https://finance.yahoo.com/news/yum-ralph-lauren-upgraded-wall-143218598.html"
+        },
+        {
+          "title": "Yum, Ralph Lauren upgraded: Wall Street's top analyst calls",
+          "source": "Thefly.com",
+          "date": "2024-12-31T14:32:18Z",
+          "url": "https://thefly.com/permalinks/entry.php/id4044378/YUM;RL;GOEV;VRTX;RPT;TMCI;DCO-Yum-Ralph-Lauren-upgraded-Wall-Streets-top-analyst-calls"
+        }
+      ]
+    },
+    {
+      "symbol": "WE",
+      "mention_count": 2,
+      "sentiment_score": 2,
+      "catalysts": [
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Here\u2019s Why Vanguard High Dividend Yield Index Fund ETF Shares (VYM) Is One of the Best Performing Dividend ETFs in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T08:34:44Z",
+          "url": "https://finance.yahoo.com/news/why-vanguard-high-dividend-yield-083444036.html"
+        },
+        {
+          "title": "Jabil Inc. (JBL) Drives Growth with AI Integration, Strategic Partnerships, and Strong Q1 Performance; Price Target Raised to $165 by BofA Analyst",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T12:13:04Z",
+          "url": "https://finance.yahoo.com/news/jabil-inc-jbl-drives-growth-121304367.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ONEX",
+      "mention_count": 1,
+      "sentiment_score": 2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Onex (TSE:ONEX) Upgraded by TD Securities to \u201cBuy\u201d Rating",
+          "source": "ETF Daily News",
+          "date": "2024-12-30T13:44:43Z",
+          "url": "https://www.etfdailynews.com/2024/12/30/onex-tseonex-upgraded-by-td-securities-to-buy-rating/"
+        }
+      ]
+    },
+    {
+      "symbol": "JABIL",
+      "mention_count": 1,
+      "sentiment_score": 2,
+      "catalysts": [
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Jabil Inc. (JBL) Drives Growth with AI Integration, Strategic Partnerships, and Strong Q1 Performance; Price Target Raised to $165 by BofA Analyst",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T12:13:04Z",
+          "url": "https://finance.yahoo.com/news/jabil-inc-jbl-drives-growth-121304367.html"
+        }
+      ]
+    },
+    {
+      "symbol": "DIGIT",
+      "mention_count": 1,
+      "sentiment_score": 2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "5 reasonably valued stocks with up to 41% upside potential: Can be good buys in volatile share market",
+          "source": "The Times of India",
+          "date": "2024-12-30T01:00:00Z",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/5-reasonably-valued-stocks-with-up-to-41-upside-potential-can-be-good-buys-in-volatile-share-market/articleshow/116731225.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "SEEN",
+      "mention_count": 1,
+      "sentiment_score": 2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Nifty seen trading in range, support at 23,263: Analysts",
+          "source": "The Times of India",
+          "date": "2024-12-30T00:13:15Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-seen-trading-in-range-support-at-23263-analysts/articleshow/116780594.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "QUBT",
+      "mention_count": 1,
+      "sentiment_score": 2,
+      "catalysts": [
+        "breakout"
+      ],
+      "recent_mentions": [
+        {
+          "title": "Quantum Computing Stocks Skyrocket: Rigetti and QUBT Surge Over 1,600% in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T15:50:23Z",
+          "url": "https://finance.yahoo.com/news/quantum-computing-stocks-skyrocket-rigetti-155023509.html"
+        }
+      ]
+    },
+    {
+      "symbol": "FINAL",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Dow, stocks climb on final trading day of 2024 in year fueled by Trump, AI and Fed cuts",
+          "source": "New York Post",
+          "date": "2024-12-31T16:15:04Z",
+          "url": "https://nypost.com/2024/12/31/business/dow-stocks-climb-on-final-trading-day-of-2024/"
+        }
+      ]
+    },
+    {
+      "symbol": "YEARS",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "How top 10 equity mutual funds of 2024 performed in last three years",
+          "source": "Economictimes.com",
+          "date": "2024-12-31T09:20:32Z",
+          "url": "https://m.economictimes.com/mf/analysis/how-top-10-equity-mutual-funds-of-2024-performed-in-last-three-years/articleshow/116826465.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "HENCE",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Fund Manager Talk | Axis Mutual Fund\u2019s Shreyash Devalkar spots 10 investing themes for H1 2025",
+          "source": "The Times of India",
+          "date": "2024-12-31T03:30:00Z",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/fund-manager-talk-axis-mutual-funds-shreyash-devalkar-spots-10-investing-themes-for-h1-2025/articleshow/116792407.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "AMGEN",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Amgen Inc. (AMGN) the Best Pharma Dividend Stock to Buy In 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T21:36:13Z",
+          "url": "https://finance.yahoo.com/news/amgen-inc-amgn-best-pharma-213613885.html"
+        }
+      ]
+    },
+    {
+      "symbol": "CHAIN",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Modeling the supply chain sustainability imperatives in the fashion retail industry: Implications for sustainable development",
+          "source": "Plos.org",
+          "date": "2024-12-31T14:00:00Z",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312671"
+        }
+      ]
+    },
+    {
+      "symbol": "READ",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "9 Timeless Aphorisms To Inspire And Guide Your Startup Success In 2025",
+          "source": "Forbes",
+          "date": "2024-12-31T13:56:33Z",
+          "url": "https://www.forbes.com/sites/abdoriani/2024/12/31/9-timeless-aphorisms-to-inspire-and-guide-your-startup-success-in-2025/"
+        }
+      ]
+    },
+    {
+      "symbol": "CAR",
+      "mention_count": 3,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Carvana Co. (CVNA) A Good Car Stock To Invest In Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T12:33:55Z",
+          "url": "https://finance.yahoo.com/news/carvana-co-cvna-good-car-123355917.html"
+        },
+        {
+          "title": "Is Aptiv PLC (APTV) A Good Car Stock To Invest In Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T12:24:24Z",
+          "url": "https://finance.yahoo.com/news/aptiv-plc-aptv-good-car-122424779.html"
+        },
+        {
+          "title": "Is Ferrari N.V. (RACE) A Good Car Stock To Invest In Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T12:12:28Z",
+          "url": "https://finance.yahoo.com/news/ferrari-n-v-race-good-121228243.html"
+        }
+      ]
+    },
+    {
+      "symbol": "CAP",
+      "mention_count": 2,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "FTAI, Applovin lead market cap stock movers on Tuesday",
+          "source": "Investing.com",
+          "date": "2024-12-31T15:31:09Z",
+          "url": "https://www.investing.com/news/stock-market-news/ftai-applovin-lead-market-cap-stock-movers-on-tuesday-93CH-3792634"
+        },
+        {
+          "title": "At \u20ac12.40, Is Sif Holding N.V. (AMS:SIFG) Worth Looking At Closely?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T06:19:13Z",
+          "url": "https://finance.yahoo.com/news/12-40-sif-holding-n-061913828.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BULL",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [
+        "breakout",
+        "partnership"
+      ],
+      "recent_mentions": [
+        {
+          "title": "5 Breakout Stocks You Missed (and How to Catch the Next Ones)",
+          "source": "Biztoc.com",
+          "date": "2024-12-31T23:53:49Z",
+          "url": "https://biztoc.com/x/509b0b8784628311"
+        }
+      ]
+    },
+    {
+      "symbol": "LEAD",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "FTAI, Applovin lead market cap stock movers on Tuesday",
+          "source": "Investing.com",
+          "date": "2024-12-31T15:31:09Z",
+          "url": "https://www.investing.com/news/stock-market-news/ftai-applovin-lead-market-cap-stock-movers-on-tuesday-93CH-3792634"
+        }
+      ]
+    },
+    {
+      "symbol": "ETF",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Here\u2019s Why Vanguard High Dividend Yield Index Fund ETF Shares (VYM) Is One of the Best Performing Dividend ETFs in 2024",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-31T08:34:44Z",
+          "url": "https://finance.yahoo.com/news/why-vanguard-high-dividend-yield-083444036.html"
+        }
+      ]
+    },
+    {
+      "symbol": "CITES",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Salesforce, Inc. (CRM) Showcases AI Advancements Amid Modest Revenue Expectations; Analyst Cites Concerns Over Pricing Model",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T12:32:33Z",
+          "url": "https://finance.yahoo.com/news/salesforce-inc-crm-showcases-ai-123233950.html"
+        }
+      ]
+    },
+    {
+      "symbol": "ASX",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Analysts say these small cap ASX shares can deliver big returns",
+          "source": "Motley Fool Australia",
+          "date": "2024-12-30T04:06:22Z",
+          "url": "https://www.fool.com.au/2024/12/30/analysts-say-these-small-cap-asx-shares-can-deliver-big-returns-2/"
+        }
+      ]
+    },
+    {
+      "symbol": "SMART",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "10 smart strategies to protect your wealth, make more money in 2025",
+          "source": "The Times of India",
+          "date": "2024-12-30T01:00:00Z",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/10-smart-strategies-to-protect-your-wealth-make-more-money-in-2025/articleshow/116731996.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "CRORE",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "10 smart strategies to protect your wealth, make more money in 2025",
+          "source": "The Times of India",
+          "date": "2024-12-30T01:00:00Z",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/10-smart-strategies-to-protect-your-wealth-make-more-money-in-2025/articleshow/116731996.cms"
+        }
+      ]
+    },
+    {
+      "symbol": "DAY",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "RALLY",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "YOUR",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "COM",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "YOU",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "USE",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "IF",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is This Penny Stock a Buy After a 180% Rally?",
+          "source": "Biztoc.com",
+          "date": "2024-12-29T13:08:14Z",
+          "url": "https://biztoc.com/x/e111e1d7241c49e2"
+        }
+      ]
+    },
+    {
+      "symbol": "APTIV",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Aptiv PLC (APTV) A Good Car Stock To Invest In Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T12:24:24Z",
+          "url": "https://finance.yahoo.com/news/aptiv-plc-aptv-good-car-122424779.html"
+        }
+      ]
+    },
+    {
+      "symbol": "SANTA",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Stocks are losing steam heading into 2025, but investors are pouring money into these 4 sectors anyway",
+          "source": "Business Insider",
+          "date": "2024-12-29T11:22:01Z",
+          "url": "https://www.businessinsider.com/stock-market-2025-sector-flows-investing-trends-bank-of-america-2024-12"
+        }
+      ]
+    },
+    {
+      "symbol": "LIST",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Pearson plc (PSO) Among the U.K. Dividend Aristocrats for 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T09:05:59Z",
+          "url": "https://finance.yahoo.com/news/pearson-plc-pso-among-u-090559689.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BIRD",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "25 things we think will happen in 2025",
+          "source": "Vox",
+          "date": "2024-12-31T23:03:48Z",
+          "url": "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "symbol": "NOTE",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "FEDS Note: Cross-border venture capital and reverse technology flows",
+          "source": "Federalreserve.gov",
+          "date": "2024-12-31T17:00:00Z",
+          "url": "https://www.federalreserve.gov/econres/notes/feds-notes/cross-border-venture-capital-and-reverse-technology-flows-20241231.html"
+        }
+      ]
+    },
+    {
+      "symbol": "SPINE",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Effects of head direction during prone position on postoperative delirium in elderly patients undergoing thoracolumbar spine surgery: a study protocol for a randomised controlled trial",
+          "source": "The BMJ",
+          "date": "2024-12-31T15:04:38Z",
+          "url": "https://bmjopen.bmj.com/content/14/12/e083526"
+        }
+      ]
+    },
+    {
+      "symbol": "NPR",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "9 unexpected things we learned about mental health and our brains in 2024",
+          "source": "NPR",
+          "date": "2024-12-31T14:00:00Z",
+          "url": "https://www.npr.org/sections/shots-health-news/2024/12/31/nx-s1-5243328/discoveries-mental-health-brains-neuroscience-2024"
+        }
+      ]
+    },
+    {
+      "symbol": "ALERT",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "BIOA STOCK ALERT: BFA Law Alerts BioAge Labs Investors that the Company is being Investigated after Stock Plummeted 76% and Urges You to Contact the Firm",
+          "source": "Investing.com",
+          "date": "2024-12-31T13:36:05Z",
+          "url": "https://www.investing.com/news/press-releases/bioa-stock-alert-bfa-law-alerts-bioage-labs-investors-that-the-company-is-being-investigated-after-stock-plummeted-76-and-urges-you-to-contact-the-firm-93CH-3792549"
+        }
+      ]
+    },
+    {
+      "symbol": "BIOA",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "BIOA STOCK ALERT: BFA Law Alerts BioAge Labs Investors that the Company is being Investigated after Stock Plummeted 76% and Urges You to Contact the Firm",
+          "source": "Investing.com",
+          "date": "2024-12-31T13:36:05Z",
+          "url": "https://www.investing.com/news/press-releases/bioa-stock-alert-bfa-law-alerts-bioage-labs-investors-that-the-company-is-being-investigated-after-stock-plummeted-76-and-urges-you-to-contact-the-firm-93CH-3792549"
+        }
+      ]
+    },
+    {
+      "symbol": "BTIG",
+      "mention_count": 1,
+      "sentiment_score": -2,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "BTIG sees a risk for 'a bigger January decline' in S&P 500",
+          "source": "Investing.com",
+          "date": "2024-12-30T09:11:37Z",
+          "url": "https://www.investing.com/news/stock-market-news/btig-sees-a-risk-for-a-bigger-january-decline-in-sp-500-3791063"
+        }
+      ]
+    }
+  ]
+}

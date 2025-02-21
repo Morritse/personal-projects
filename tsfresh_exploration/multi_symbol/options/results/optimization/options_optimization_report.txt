@@ -1,0 +1,39 @@
+Options Strategy Optimization Report
+==================================================
+
+Overall Statistics:
+Total Combinations Tested: 4
+Average Sharpe Ratio: -13.00
+Average Win Rate: 0.0%
+
+Best Parameter Combination:
+vwap_length: 50
+mfi_length: 9
+mfi_oversold: 30
+mfi_overbought: 70
+regime_window: 20
+vol_percentile: 67
+strike_distance: 0.5
+min_dte: 7
+max_dte: 14
+profit_target: 1.0
+stop_loss: -0.5
+
+Sharpe Ratio: -13.00
+Win Rate: 0.0%
+Profit Factor: 0.00
+Max Drawdown: $871.74
+Average Hold Time: 0.0 days
+
+Parameter Analysis:
+
+strike_distance:
+  0.5: -13.00
+  1.0: -13.00
+
+min_dte:
+  7: -13.00
+
+max_dte:
+  14: -13.00
+  21: -13.00

@@ -1,0 +1,48 @@
+{
+  "generated_at": "2025-01-01T18:02:39.331758",
+  "focus": "Hype or lesser-known microcaps",
+  "results": [
+    {
+      "symbol": "AMGEN",
+      "mention_count": 1,
+      "sentiment_score": 1,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Amgen Inc. (AMGN) the Best Pharma Dividend Stock to Buy In 2024?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-30T21:36:13Z",
+          "url": "https://finance.yahoo.com/news/amgen-inc-amgn-best-pharma-213613885.html"
+        }
+      ]
+    },
+    {
+      "symbol": "APTIV",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "Is Aptiv PLC (APTV) A Good Car Stock To Invest In Now?",
+          "source": "Yahoo Entertainment",
+          "date": "2024-12-29T12:24:24Z",
+          "url": "https://finance.yahoo.com/news/aptiv-plc-aptv-good-car-122424779.html"
+        }
+      ]
+    },
+    {
+      "symbol": "BIOA",
+      "mention_count": 1,
+      "sentiment_score": 0,
+      "catalysts": [],
+      "recent_mentions": [
+        {
+          "title": "BIOA STOCK ALERT: BFA Law Alerts BioAge Labs Investors that the Company is being Investigated after Stock Plummeted 76% and Urges You to Contact the Firm",
+          "source": "Investing.com",
+          "date": "2024-12-31T13:36:05Z",
+          "url": "https://www.investing.com/news/press-releases/bioa-stock-alert-bfa-law-alerts-bioage-labs-investors-that-the-company-is-being-investigated-after-stock-plummeted-76-and-urges-you-to-contact-the-firm-93CH-3792549"
+        }
+      ]
+    }
+  ]
+}

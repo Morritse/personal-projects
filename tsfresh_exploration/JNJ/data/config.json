@@ -1,0 +1,40 @@
+{
+    "strategy": {
+        "name": "JNJ VWAP OBV Strategy",
+        "version": "1.0.0",
+        "description": "Volume pattern-based trading strategy for JNJ",
+        "timeframe": "1H",
+        "market": "US Equities"
+    },
+    "parameters": {
+        "number_of_lots": 1,
+        "volume_pattern_threshold": 2.0,
+        "position_scale_max": 1.5,
+        "mfi_period": 9,
+        "ema_period": 20,
+        "vwap_window": 180,
+        "atr_period": 3
+    },
+    "risk_management": {
+        "stop_loss_atr_multiple": 1.5,
+        "take_profit_multiple": 2.0,
+        "max_position_size": 100,
+        "max_daily_loss": 1000,
+        "max_daily_trades": 5
+    },
+    "execution": {
+        "candle_size": 60,
+        "mode": "INTRADAY",
+        "resume_positions": true,
+        "exit_on_stop": true,
+        "max_order_count": 100,
+        "crossover_decimals": 2,
+        "credit_exposure": 100000
+    },
+    "filters": {
+        "mfi_oversold": 30,
+        "mfi_overbought": 70,
+        "min_volume_score": 1.0,
+        "min_position_scale": 0.5
+    }
+}

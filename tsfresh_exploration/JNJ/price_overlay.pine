@@ -1,0 +1,42 @@
+//@version=5
+indicator(title="JNJ Price Overlay", shorttitle="JNJ Price", overlay=true)
+
+// Inputs
+var int vwapLength = input.int(50, "VWAP Length")
+
+// Calculate VWAP
+var float vwapSum = 0.0
+var float volumeSum = 0.0
+vwapSum := 0.0
+volumeSum := 0.0
+for i = 0 to vwapLength-1
+    vwapSum := vwapSum + (high[i] + low[i] + close[i])/3 * volume[i]
+    volumeSum := volumeSum + volume[i]
+float vwap = vwapSum / volumeSum
+
+// Plot VWAP
+plot(vwap, "VWAP", color=color.blue, linewidth=2)
+
+// Plot signals
+bool isBelowVWAP = close < vwap
+plotshape(
+    series=ta.crossunder(close, vwap),
+    title="VWAP Cross Down",
+    style=shape.triangledown,
+    location=location.abovebar,
+    color=color.red,
+    size=size.tiny
+)
+
+plotshape(
+    series=ta.crossover(close, vwap),
+    title="VWAP Cross Up",
+    style=shape.triangleup,
+    location=location.belowbar,
+    color=color.green,
+    size=size.tiny
+)
+
+// Add background color
+color bgColor = isBelowVWAP ? color.new(color.red, 95) : color.new(color.green, 95)
+bgcolor(color=bgColor)

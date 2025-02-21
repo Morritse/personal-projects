@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "trend_weight": 0.2,
+    "momentum_weight": 0.3,
+    "reversal_weight": 0.25,
+    "breakout_threshold": 0.2,
+    "strong_threshold": 0.1,
+    "weak_threshold": 0.03
+  },
+  "metrics": {
+    "total_trades": 0,
+    "profitable_trades": 0,
+    "win_rate": 0.0,
+    "total_pnl": 0.0,
+    "return_pct": 0.0,
+    "sharpe_ratio": 0.0,
+    "max_drawdown": 0.0,
+    "parameters": {
+      "trend_weight": 0.2,
+      "momentum_weight": 0.3,
+      "reversal_weight": 0.25,
+      "breakout_threshold": 0.2,
+      "strong_threshold": 0.1,
+      "weak_threshold": 0.03
+    }
+  },
+  "trades": [],
+  "equity_curve": []
+}
