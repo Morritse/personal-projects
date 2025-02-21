@@ -1,0 +1,15 @@
+Backtest Results:
+================
+Initial Capital: $100,000.00
+Final Value: $100,000.00
+Total Return: 0
+Max Drawdown: 0
+Total Trades: 0
+Win Rate: 0
+Sharpe Ratio: 0
+Stop Loss Hits: 0
+Take Profit Hits: 0
+Momentum Exits: 0
+Time Exits: 0
+Avg Holding Period: 0
+Avg Return Per Trade: 0

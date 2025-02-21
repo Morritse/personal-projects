@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large model files
+*.keras
+*.pb
+*.h5
+*.ckpt
+*.pth
+*.safetensors
+
+# Keep results and notebooks
+!*/results/*.csv
+!*/results/*.png
+!*/*.ipynb
+!*/notebooks/*.ipynb
+
+# Logs
+*.log
+*.logs
+logs/
+*/logs/
+
+# Data directories (keep structure but ignore contents)
+*/data/*
+!*/data/.gitkeep
+
+# Ollama directories (ignore completely)
+ollama/minima/
+ollama/ollama/
+
+# Local development
+.DS_Store
+.coverage
+coverage.xml
+*.cover
+.pytest_cache/

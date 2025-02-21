@@ -1,0 +1,17 @@
+Deep Learning Long-Short Portfolio Backtest Results
+==================================================
+
+Run Date: 20241201_113804
+
+Portfolio Composition:
+Number of instruments: 10
+Instruments: AAPL, MSFT, GOOGL, META, NVDA, AMD, SPY, QQQ, TLT, SQQQ
+
+Model Parameters:
+Window size: 120
+Step size: 1
+
+Performance Metrics:
+Total Return: 29.65%
+Annualized Sharpe Ratio: 2.98
+Maximum Drawdown: -5.44%
