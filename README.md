@@ -28,7 +28,6 @@ Serverless AI analysis platform.
 - **Status:** Deployed and serving users
 - [View Project](./datAI)
 
-
 ### 🚀 Beta Systems
 *Systems in advanced testing with paper trading*
 
@@ -46,6 +45,20 @@ High-frequency trading system with GPU acceleration.
 - **Status:** Paper trading
 - [View Project](./minute_trader)
 
+#### Data Visualization Studio [![Status](https://img.shields.io/badge/Status-Beta-orange)]()
+Interactive data visualization platform.
+- **Tech Stack:** React, D3.js, Node.js, PostgreSQL
+- **Features:** Interactive charts, Data storytelling
+- **Status:** Beta testing
+- [View Project](./DataVizStudio)
+
+#### Personal Nutrition [![Status](https://img.shields.io/badge/Status-Beta-orange)]()
+AI-powered nutrition recommendation system.
+- **Tech Stack:** Next.js, Node.js, OpenAI API, PostgreSQL
+- **Features:** Meal planning, Dietary analysis
+- **Status:** Beta deployment
+- [View Project](./PersonalNutrition)
+
 ### 🛠️ Trading Tools & Frameworks
 *Reusable components and frameworks for trading systems*
 
@@ -60,6 +73,12 @@ Custom technical indicators library.
 - **Tech Stack:** Python, TA-Lib, NumPy
 - **Features:** VWAP, OBV analysis, Custom patterns
 - [View Project](./my_indicator)
+
+#### Backtesting [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()
+Flexible backtesting framework for trading strategies.
+- **Tech Stack:** Python, Pandas, NumPy
+- **Features:** Strategy testing, Performance analysis
+- [View Project](./backtesting)
 
 ### 🧪 Experimental Projects
 *Projects exploring new ideas and approaches*
@@ -94,6 +113,18 @@ AI-powered smoothie and supplement recommendation system.
 - **Features:** Personalized recommendations, Nutrition analysis
 - [View Project](./smoothie)
 
+#### SPY Trading [![Status](https://img.shields.io/badge/Status-Experimental-yellow)]()
+SPY ETF trading strategies and analysis.
+- **Tech Stack:** Python, Pandas, TA-Lib
+- **Features:** Technical analysis, Automated trading
+- [View Project](./spy)
+
+#### TSFresh Exploration [![Status](https://img.shields.io/badge/Status-Experimental-yellow)]()
+Time series feature extraction and analysis.
+- **Tech Stack:** Python, tsfresh, scikit-learn
+- **Features:** Feature engineering, Pattern detection
+- [View Project](./tsfresh_exploration)
+
 ### 🔬 Research Projects
 *Projects focused on research and methodology development*
 
@@ -109,6 +140,18 @@ Research into novel technical analysis methodologies.
 - **Focus:** Alternative indicators, Pattern recognition
 - [View Project](./novel_ta)
 
+#### Water Analysis [![Status](https://img.shields.io/badge/Status-Research-blue)]()
+Water resource data analysis and modeling.
+- **Tech Stack:** Python, scikit-learn, Pandas
+- **Focus:** Pattern analysis, Flow prediction
+- [View Project](./water)
+
+#### Ollama [![Status](https://img.shields.io/badge/Status-Research-blue)]()
+Local LLM integration and experimentation.
+- **Tech Stack:** Python, Ollama API
+- **Focus:** LLM applications, Vector embeddings
+- [View Project](./ollama)
+
 ### 🤝 Integration Projects
 *Projects demonstrating external system integration*
 
@@ -117,6 +160,33 @@ AI-powered insurance recommendation system.
 - **Tech Stack:** Python, Flask, TensorFlow
 - **Integration:** CMS Medicare data
 - [View Project](./AInsured)
+
+### 🔧 Development Tools
+*Tools and utilities for development and testing*
+
+#### Sandbox [![Status](https://img.shields.io/badge/Status-Utility-purple)]()
+Testing environment for trading utilities.
+- **Tech Stack:** Python, Various libraries
+- **Purpose:** Component testing, Prototyping
+- [View Project](./sandbox)
+
+#### Exploration [![Status](https://img.shields.io/badge/Status-Utility-purple)]()
+Trading strategy research environment.
+- **Tech Stack:** Python, Pandas, TA-Lib
+- **Purpose:** Strategy development, Testing
+- [View Project](./exploration)
+
+#### Future [![Status](https://img.shields.io/badge/Status-Utility-purple)]()
+Future trading concepts and prototypes.
+- **Tech Stack:** Python, Various libraries
+- **Purpose:** Concept development
+- [View Project](./future)
+
+#### Crypto Playground [![Status](https://img.shields.io/badge/Status-Utility-purple)]()
+Cryptocurrency trading experimentation.
+- **Tech Stack:** Python, ccxt
+- **Purpose:** Strategy testing, API integration
+- [View Project](./crypto_playground)
 
 ## 🚀 Getting Started
 
@@ -137,29 +207,35 @@ AI-powered insurance recommendation system.
 ├── Production Systems
 │   ├── tech_sentiment/     # Live trading sentiment analysis
 │   ├── datAI/             # Deployed analysis platform
-│   └── insight-test/      # Market insight platform
+│   └── insight_test/      # Market insight platform
 ├── Beta Systems
 │   ├── 5-1-stock-strategy/ # Paper trading system
 │   ├── minute_trader/      # Paper trading HFT
+│   ├── DataVizStudio/     # Data visualization platform
+│   ├── PersonalNutrition/ # Nutrition AI system
 │   └── AInsured/          # Insurance analysis beta
 ├── Tools & Frameworks
 │   ├── Backtrader/        # Trading framework
-│   └── my_indicator/      # Indicator library
+│   ├── my_indicator/      # Indicator library
+│   └── backtesting/       # Backtesting framework
 ├── Research Projects
 │   ├── deep_trading/      # Deep learning models
-│   └── novel_ta/          # Technical analysis research
-└── Experimental
-    ├── candlesticker/     # Market analysis platform
-    ├── hybrid/            # Multi-strategy system
-    ├── market_automl/     # AutoML exploration
-    ├── crypto/            # Crypto trading
-    ├── smoothie/          # Nutrition AI
-    ├── crypto_playground/ # Crypto testing
-    ├── CryptoTrader/     # Additional crypto system
-    ├── exploration/      # Strategy research
-    ├── long_short/       # Strategy testing
+│   ├── novel_ta/          # Technical analysis research
+│   ├── water/            # Water resource analysis
+│   └── ollama/           # LLM experimentation
+├── Experimental
+│   ├── candlesticker/     # Market analysis platform
+│   ├── hybrid/            # Multi-strategy system
+│   ├── market_automl/     # AutoML exploration
+│   ├── crypto/            # Crypto trading
+│   ├── smoothie/          # Nutrition AI
+│   ├── spy/              # SPY trading strategies
+│   └── tsfresh_exploration/ # Time series analysis
+└── Development Tools
     ├── sandbox/          # Testing environment
-    └── water/            # Utilities
+    ├── exploration/      # Strategy research
+    ├── future/          # Future concepts
+    └── crypto_playground/ # Crypto testing
 ```
 
 ## 📚 Documentation
