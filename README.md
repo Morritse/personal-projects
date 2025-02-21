@@ -7,6 +7,13 @@ A comprehensive collection of trading systems, machine learning projects, and AI
 ### 🤖 Production-Ready Systems
 *Systems in production with live trading or deployment*
 
+#### Insight Test [![Status](https://img.shields.io/badge/Status-Production-green)]()
+Market insight testing platform.
+- **Tech Stack:** Next.js, Vercel
+- **Features:** Market analysis, Testing framework
+- **Status:** Deployed at [insight-test.vercel.app](https://insight-test.vercel.app/)
+- [View Project](./insight_test)
+
 #### Tech Sentiment [![Status](https://img.shields.io/badge/Status-Production-green)]()
 Technology sector sentiment analysis with live trading.
 - **Tech Stack:** Python, BERT, NLP tools
@@ -21,12 +28,6 @@ Serverless AI analysis platform.
 - **Status:** Deployed and serving users
 - [View Project](./datAI)
 
-#### Insight Test [![Status](https://img.shields.io/badge/Status-Production-green)]()
-Market insight testing platform.
-- **Tech Stack:** Next.js, Vercel
-- **Features:** Market analysis, Testing framework
-- **Status:** Deployed at [insight-test.vercel.app](https://insight-test.vercel.app/)
-- [View Project](./insight_test)
 
 ### 🚀 Beta Systems
 *Systems in advanced testing with paper trading*
