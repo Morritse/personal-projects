@@ -21,6 +21,13 @@ Serverless AI analysis platform.
 - **Status:** Deployed and serving users
 - [View Project](./datAI)
 
+#### Insight Test [![Status](https://img.shields.io/badge/Status-Production-green)]()
+Market insight testing platform.
+- **Tech Stack:** Next.js, Vercel
+- **Features:** Market analysis, Testing framework
+- **Status:** Deployed at [insight-test.vercel.app](https://insight-test.vercel.app/)
+- [View Project](./insight-test)
+
 ### 🚀 Beta Systems
 *Systems in advanced testing with paper trading*
 
@@ -128,7 +135,8 @@ AI-powered insurance recommendation system.
 .
 ├── Production Systems
 │   ├── tech_sentiment/     # Live trading sentiment analysis
-│   └── datAI/             # Deployed analysis platform
+│   ├── datAI/             # Deployed analysis platform
+│   └── insight-test/      # Market insight platform
 ├── Beta Systems
 │   ├── 5-1-stock-strategy/ # Paper trading system
 │   ├── minute_trader/      # Paper trading HFT
