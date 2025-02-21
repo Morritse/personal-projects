@@ -26,7 +26,7 @@ Market insight testing platform.
 - **Tech Stack:** Next.js, Vercel
 - **Features:** Market analysis, Testing framework
 - **Status:** Deployed at [insight-test.vercel.app](https://insight-test.vercel.app/)
-- [View Project](./insight-test)
+- [View Project](./insight_test)
 
 ### 🚀 Beta Systems
 *Systems in advanced testing with paper trading*
